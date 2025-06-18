@@ -25,7 +25,7 @@ const config = {
   url: 'https://st-IO-OI.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/space-glossary/',
+  baseUrl: '/space-dev-terms/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -53,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/st-IO-OI/space-glossary/edit/main/docs/',
+            'https://github.com/st-IO-OI/space-dev-terms/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
@@ -64,7 +64,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/st-IO-OI/space-glossary/edit/main/blog/',
+            'https://github.com/st-IO-OI/space-dev-terms/edit/main/blog/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
