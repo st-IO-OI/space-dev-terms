@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: ホーマン遷移軌道
+slug: hahmann
 ---
 
 # 太陽同期軌道
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** ほーまんせんいきどう  
+- **英語名：** Hohmann Transfer Orbit   
 
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 宇宙待機軌道
+slug: parking
 ---
 
-# 太陽同期軌道
+# 宇宙待機軌道
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** うちゅうたいききどう  
+- **英語名：** Parking Orbit  
 
 ---
 

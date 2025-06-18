@@ -1,12 +1,12 @@
 ---
-title: 打ち上げ機
-slug: launch-vehicle
+title: はやぶさ2
+slug: hayabusa2
 ---
 
-# 打ち上げ機（Launch Vehicle）
+# はやぶさ2
 
-- **英語名：** Launch Vehicle  
-- **略称：** LV  
+- **よみがな：** はやぶさつー  
+- **英語名：** Hayabusa 2  
 
 ---
 

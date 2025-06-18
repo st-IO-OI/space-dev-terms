@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 自由帰還軌道 
+slug: frt
 ---
 
-# 太陽同期軌道
+# 自由帰還軌道 
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** じゆうかかんきどう  
+- **英語名：** Free Return Trajectory  
 
 ---
 

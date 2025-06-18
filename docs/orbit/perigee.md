@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 近地点
+slug: perigee
 ---
 
-# 太陽同期軌道
+# 近地点
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** きんちてん  
+- **英語名：** Perigee   
 
 ---
 

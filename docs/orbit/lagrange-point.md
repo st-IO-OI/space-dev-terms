@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: ラグランジュ点
+slug: lagrange
 ---
 
-# 太陽同期軌道
+# ラグランジュ点
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** らぐらんじゅてん  
+- **英語名：** laglange point   
 
 ---
 

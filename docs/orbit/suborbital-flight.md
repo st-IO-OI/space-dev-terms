@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 弾道飛行
+slug: suborbital
 ---
 
-# 太陽同期軌道
+# 弾道飛行
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** だんどうひこう  
+- **英語名：** Suborbital flight  
 
 ---
 

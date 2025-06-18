@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 軌道減衰
+slug: decay
 ---
 
-# 太陽同期軌道
+# 軌道減衰
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** きどうげんすい  
+- **英語名：** Orbital Decay  
 
 ---
 

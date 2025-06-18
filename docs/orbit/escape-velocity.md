@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 脱出速度
+slug: escapev
 ---
 
-# 太陽同期軌道
+# 脱出速度
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** だっしゅつそくど  
+- **英語名：** Escape Velocity  
 
 ---
 

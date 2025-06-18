@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 軌道投入
+slug: insertion
 ---
 
-# 太陽同期軌道
+# 軌道投入
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** きどうとうにゅう  
+- **英語名：** Orbit Insertion  
 
 ---
 

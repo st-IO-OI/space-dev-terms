@@ -1,13 +1,13 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 離心率
+slug: eccentricity
 ---
 
-# 太陽同期軌道
+# 離心率
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** りしんりつ  
+- **英語名：** Eccentricity  
+- **略称：** e  
 
 ---
 

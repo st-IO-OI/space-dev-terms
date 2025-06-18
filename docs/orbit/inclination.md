@@ -1,13 +1,13 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 軌道傾斜角
+slug: inclination
 ---
 
-# 太陽同期軌道
+# 軌道傾斜角
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** きどうけいしゃかく  
+- **英語名：** inclination  
+- **略称：** i  
 
 ---
 

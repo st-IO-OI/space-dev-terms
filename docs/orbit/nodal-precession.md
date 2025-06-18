@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 節際差運動
+slug: nodal
 ---
 
 # 太陽同期軌道
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** せつさいさうんどう  
+- **英語名：** Nodal Precession  
 
 ---
 

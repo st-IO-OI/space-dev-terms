@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 遷移軌道
+slug: transfer
 ---
 
-# 太陽同期軌道
+# 遷移軌道
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** せんいきどう  
+- **英語名：** Transfer Orbit  
 
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 極軌道
+slug: polar
 ---
 
 # 太陽同期軌道
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** きょくきどう  
+- **英語名：** Polar Orbit   
 
 ---
 

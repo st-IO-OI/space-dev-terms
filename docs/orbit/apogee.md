@@ -1,13 +1,12 @@
 ---
-title: 太陽同期軌道
-slug: sso
+title: 遠地点
+slug: apogee
 ---
 
-# 太陽同期軌道
+# 遠地点
 
-- **よみがな：** たいようどうききどう  
-- **英語名：** Sun Synchronous Orbit  
-- **略称：** SSO  
+- **よみがな：** えんちてん  
+- **英語名：** Apogee
 
 ---
 
