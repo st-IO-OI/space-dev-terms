@@ -1,6 +1,6 @@
 ---
 title: 速度増分
-slug: deltav
+slug: /orbit/deltav
 category: orbit
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 地球低軌道
-slug: leo
+slug: /orbit/leo
 category: orbit
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: アンテナ
-slug: antenna
+slug: /communication/antenna
 category: communication
 ---
 

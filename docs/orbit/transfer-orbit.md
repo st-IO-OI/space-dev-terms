@@ -1,6 +1,6 @@
 ---
 title: 遷移軌道
-slug: transfer
+slug: /orbit/transfer
 category: orbit
 ---
 

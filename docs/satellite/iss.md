@@ -1,13 +1,14 @@
 ---
-title: 遠地点
-slug: /orbit/apogee
-category: orbit
+title: 国際宇宙ステーション
+slug: /satellite/iss
+category: satellite
 ---
 
-# 遠地点
+# 国際宇宙ステーション
 
-- **よみがな：** えんちてん  
-- **英語名：** Apogee
+**よみがな：** こくさいうちゅうすてーしょん  
+**英語：** International Space Station  
+**略語：** ISS
 
 ---
 
@@ -34,3 +35,5 @@ category: orbit
 - 再使用型ロケット（Reusable Rocket）
 - 推力（Thrust）
 - 燃焼室（Combustion Chamber）
+
+

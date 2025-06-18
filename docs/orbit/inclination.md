@@ -1,6 +1,6 @@
 ---
 title: 軌道傾斜角
-slug: inclination
+slug: /orbit/inclination
 category: orbit
 ---
 

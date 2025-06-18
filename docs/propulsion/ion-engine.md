@@ -1,6 +1,6 @@
 ---
 title: イオンエンジン
-slug: ion
+slug: /propulsion/ion
 category: propulsion
 ---
 

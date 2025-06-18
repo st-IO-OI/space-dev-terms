@@ -1,6 +1,6 @@
 ---
 title: ひまわり
-slug: himawari
+slug: /satellite/himawari
 category: satellite
 ---
 

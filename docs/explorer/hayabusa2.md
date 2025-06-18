@@ -1,6 +1,6 @@
 ---
 title: はやぶさ2
-slug: hayabusa2
+slug: /explorer/hayabusa2
 category: explorer
 ---
 

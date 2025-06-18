@@ -1,6 +1,6 @@
 ---
 title: 地球周回軌道
-slug: gco
+slug: /orbit/gco
 category: orbit
 ---
 

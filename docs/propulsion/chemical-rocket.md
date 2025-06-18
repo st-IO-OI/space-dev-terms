@@ -1,6 +1,6 @@
 ---
 title: 化学ロケット
-slug: chem-rocket
+slug: /propulsion/chem-rocket
 category: propulsion
 ---
 

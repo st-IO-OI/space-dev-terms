@@ -1,6 +1,6 @@
 ---
 title: 離心率
-slug: eccentricity
+slug: /orbit/eccentricity
 category: orbit
 ---
 

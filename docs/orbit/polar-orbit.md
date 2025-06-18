@@ -1,6 +1,6 @@
 ---
 title: 極軌道
-slug: polar
+slug: /orbit/polar
 category: orbit
 ---
 

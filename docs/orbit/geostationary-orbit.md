@@ -1,6 +1,6 @@
 ---
 title: 静止軌道
-slug: geo
+slug: /orbit/geo
 category: orbit
 ---
 

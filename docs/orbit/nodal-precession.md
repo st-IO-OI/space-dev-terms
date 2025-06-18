@@ -1,6 +1,6 @@
 ---
 title: 節際差運動
-slug: nodal
+slug: /orbit/nodal
 category: orbit
 ---
 

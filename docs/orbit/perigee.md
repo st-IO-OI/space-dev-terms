@@ -1,6 +1,6 @@
 ---
 title: 近地点
-slug: perigee
+slug: /orbit/perigee
 category: orbit
 ---
 

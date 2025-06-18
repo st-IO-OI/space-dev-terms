@@ -1,6 +1,6 @@
 ---
 title: 脱出速度
-slug: escapev
+slug: /orbit/escapev
 category: orbit
 ---
 

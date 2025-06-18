@@ -47,11 +47,13 @@ export default function Home() {
         <section style={{ marginTop: '2rem' }}>
           <h2>カテゴリで探す</h2>
           <ul>
-            <li><Link to="/docs/category/打ち上げ">🚀 打ち上げ</Link></li>
-            <li><Link to="/docs/category/軌道">🛰️ 軌道</Link></li>
-            <li><Link to="/docs/category/機器">🔧 機器</Link></li>
-            <li><Link to="/docs/category/機関・制度">🏛️ 機関・制度</Link></li>
-            <li><Link to="/docs/category/その他">🌌 その他</Link></li>
+            <li><Link to="/docs/category/rocket">ロケット</Link></li>
+            <li><Link to="/docs/category/satellite">人工衛星</Link></li>
+            <li><Link to="/docs/category/explorer">宇宙探査機</Link></li>
+            <li><Link to="/docs/category/propulsion">推進系</Link></li>
+            <li><Link to="/docs/category/orbit">軌道</Link></li>
+            <li><Link to="/docs/category/communication">通信</Link></li>
+            <li><Link to="/docs/category/history">歴史</Link></li>
           </ul>
         </section>
 

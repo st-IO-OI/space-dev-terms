@@ -1,6 +1,6 @@
 ---
 title: H3ロケット
-slug: h3
+slug: /rocket/h3
 category: rocket
 ---
 

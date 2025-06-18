@@ -1,6 +1,6 @@
 ---
 title: 弾道飛行
-slug: suborbital
+slug: /orbit/suborbital
 category: orbit
 ---
 
