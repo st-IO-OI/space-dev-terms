@@ -1,6 +1,6 @@
 ---
 title: 自由帰還軌道 
-slug: /orbit/frt
+slug: /orbit/free-return-trajectory
 category: orbit
 ---
 

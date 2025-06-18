@@ -9,3 +9,4 @@ slug: /category/satellite
 ## 用語一覧
 
 - [ひまわり](/docs/satellite/himawari)
+- [国際宇宙ステーション](/docs/satellite/iss)

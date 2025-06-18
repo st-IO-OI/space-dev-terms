@@ -1,6 +1,6 @@
 ---
 title: 太陽同期軌道
-slug: /orbit/sso
+slug: /orbit/sun-synchronous-orbit
 category: orbit
 ---
 

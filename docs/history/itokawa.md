@@ -1,6 +1,6 @@
 ---
 title: 糸川博士
-slug: /history/Dr.Itokawa
+slug: /history/itokawa
 category: history
 ---
 

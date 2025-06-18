@@ -1,6 +1,6 @@
 ---
 title: 軌道共鳴
-slug: /orbit/resonance
+slug: /orbit/orbital-resonance
 category: orbit
 ---
 

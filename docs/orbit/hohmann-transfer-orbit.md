@@ -1,6 +1,6 @@
 ---
 title: ホーマン遷移軌道
-slug: /orbit/hahmann
+slug: /orbit/hahmann-transfer-orbit
 category: orbit
 ---
 

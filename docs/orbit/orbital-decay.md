@@ -1,6 +1,6 @@
 ---
 title: 軌道減衰
-slug: /orbit/decay
+slug: /orbit/orbital-decay
 category: orbit
 ---
 

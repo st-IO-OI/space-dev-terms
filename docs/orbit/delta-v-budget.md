@@ -1,6 +1,6 @@
 ---
 title: 速度増分
-slug: /orbit/deltav
+slug: /orbit/delta-v-budget
 category: orbit
 ---
 

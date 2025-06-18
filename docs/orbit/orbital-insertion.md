@@ -1,6 +1,6 @@
 ---
 title: 軌道投入
-slug: /orbit/insertion
+slug: /orbit/orbital-insertion
 category: orbit
 ---
 

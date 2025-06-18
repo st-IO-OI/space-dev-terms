@@ -1,6 +1,6 @@
 ---
 title: 宇宙待機軌道
-slug: /orbit/parking
+slug: /orbit/parking-orbit
 category: orbit
 ---
 

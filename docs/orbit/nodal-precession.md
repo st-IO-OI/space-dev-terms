@@ -1,6 +1,6 @@
 ---
 title: 節際差運動
-slug: /orbit/nodal
+slug: /orbit/nodal-precession
 category: orbit
 ---
 
