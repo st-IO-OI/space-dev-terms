@@ -105,14 +105,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '情報',
             items: [
               {
                 label: 'このサイトについて',
                 to: '/docs/intro',
               },
+              {
+                label: 'プライバシーポリシー',
+                to: '/docs/privacy-policy',
+              },
+              {
+                label: '免責事項',
+                to: '/docs/privacy-policy',
+              },
             ],
           },
+
+
           {
             title: 'SNS',
             items: [
@@ -136,7 +146,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Space Dev Terms`,
       },
       prism: {
         theme: prismThemes.github,

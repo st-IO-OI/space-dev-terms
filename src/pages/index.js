@@ -2,8 +2,6 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
@@ -13,14 +11,16 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          宇宙開発用語辞典
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          宇宙を言葉で読み解く。研究者・学生・宇宙ファンのためのオンライン用語集。
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            ▶ 用語一覧をみる
           </Link>
         </div>
       </div>
@@ -28,20 +28,41 @@ function HomepageHeader() {
   );
 }
 
-
-
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`ホーム - 宇宙開発用語集`}
-      description="宇宙開発に関する用語をわかりやすく説明するサイトです。 <head />">
+      title="宇宙辞典 - 宇宙開発用語集"
+      description="宇宙工学・宇宙開発の用語を、わかりやすく整理したWeb辞典です。">
       <HomepageHeader />
       <main className="container padding-top--md padding-bottom--lg">
-        <h1>ようこそ、宇宙辞典へ！</h1>
-        <p>このサイトでは、宇宙工学・宇宙開発に関する専門用語をわかりやすくまとめています。</p>
-        <Link to="/docs/intro">▶ 用語一覧をみる</Link>
-        <HomepageFeatures />
+        <section>
+          <h2>このサイトの特徴</h2>
+          <ul>
+            <li>✅ 用語の意味だけでなく、背景知識や関連技術までカバー</li>
+            <li>✅ カテゴリ別・五十音順で効率よく検索可能</li>
+            <li>✅ 宇宙開発に興味のあるすべての人におすすめ</li>
+          </ul>
+        </section>
+
+        <section style={{ marginTop: '2rem' }}>
+          <h2>カテゴリで探す</h2>
+          <ul>
+            <li><Link to="/docs/category/打ち上げ">🚀 打ち上げ</Link></li>
+            <li><Link to="/docs/category/軌道">🛰️ 軌道</Link></li>
+            <li><Link to="/docs/category/機器">🔧 機器</Link></li>
+            <li><Link to="/docs/category/機関・制度">🏛️ 機関・制度</Link></li>
+            <li><Link to="/docs/category/その他">🌌 その他</Link></li>
+          </ul>
+        </section>
+
+        <section style={{ marginTop: '2rem' }}>
+          <h2>🔎 用語を提案したい？</h2>
+          <p>
+            <Link to="https://github.com/st-IO-OI/space-dev-terms/issues/new" target="_blank">
+              GitHubのIssueから用語提案はこちら
+            </Link>
+          </p>
+        </section>
       </main>
     </Layout>
   );
