@@ -1,6 +1,7 @@
 ---
 title: 近地点
 slug: perigee
+category: orbit
 ---
 
 # 近地点

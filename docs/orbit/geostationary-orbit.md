@@ -1,6 +1,7 @@
 ---
 title: 静止軌道
 slug: geo
+category: orbit
 ---
 
 # 静止軌道

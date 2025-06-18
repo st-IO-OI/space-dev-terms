@@ -1,6 +1,7 @@
 ---
 title: ひまわり
 slug: himawari
+category: satellite
 ---
 
 # ひまわり

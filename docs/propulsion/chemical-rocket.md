@@ -1,6 +1,7 @@
 ---
 title: 化学ロケット
 slug: chem-rocket
+category: propulsion
 ---
 
 # 化学ロケット

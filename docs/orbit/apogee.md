@@ -1,6 +1,7 @@
 ---
 title: 遠地点
 slug: apogee
+category: orbit
 ---
 
 # 遠地点

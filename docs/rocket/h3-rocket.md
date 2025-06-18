@@ -1,6 +1,7 @@
 ---
 title: H3ロケット
 slug: h3
+category: rocket
 ---
 
 # H3ロケット

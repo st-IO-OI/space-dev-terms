@@ -1,6 +1,7 @@
 ---
 title: 自由帰還軌道 
 slug: frt
+category: orbit
 ---
 
 # 自由帰還軌道 

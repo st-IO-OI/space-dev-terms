@@ -1,6 +1,7 @@
 ---
 title: 節際差運動
 slug: nodal
+category: orbit
 ---
 
 # 太陽同期軌道

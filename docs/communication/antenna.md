@@ -1,13 +1,13 @@
 ---
-title: 弾道飛行
-slug: suborbital
-category: orbit
+title: アンテナ
+slug: antenna
+category: communication
 ---
 
-# 弾道飛行
+# アンテナ
 
-- **よみがな：** だんどうひこう  
-- **英語名：** Suborbital flight  
+- **よみがな：** あんてな  
+- **英語名：** Antenna  
 
 ---
 

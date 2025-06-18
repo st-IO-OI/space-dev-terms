@@ -1,6 +1,7 @@
 ---
 title: hoge
 slug: hoge
+category: glossary
 ---
 
 # イオンエンジン

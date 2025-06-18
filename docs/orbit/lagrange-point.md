@@ -1,6 +1,7 @@
 ---
 title: ラグランジュ点
 slug: lagrange
+category: orbit
 ---
 
 # ラグランジュ点

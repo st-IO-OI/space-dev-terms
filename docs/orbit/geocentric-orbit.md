@@ -1,6 +1,7 @@
 ---
 title: 地球周回軌道
 slug: gco
+category: orbit
 ---
 
 # 地球周回軌道

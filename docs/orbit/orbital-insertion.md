@@ -1,6 +1,7 @@
 ---
 title: 軌道投入
 slug: insertion
+category: orbit
 ---
 
 # 軌道投入

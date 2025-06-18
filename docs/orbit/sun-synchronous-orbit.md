@@ -1,6 +1,7 @@
 ---
 title: 太陽同期軌道
 slug: sso
+category: orbit
 ---
 
 # 太陽同期軌道

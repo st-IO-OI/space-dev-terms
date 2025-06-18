@@ -1,6 +1,7 @@
 ---
 title: 軌道減衰
 slug: decay
+category: orbit
 ---
 
 # 軌道減衰

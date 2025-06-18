@@ -1,6 +1,7 @@
 ---
 title: ホーマン遷移軌道
 slug: hahmann
+category: orbit
 ---
 
 # 太陽同期軌道

@@ -1,6 +1,7 @@
 ---
 title: 速度増分
 slug: deltav
+category: orbit
 ---
 
 # 速度増分・デルタV

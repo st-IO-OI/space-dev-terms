@@ -1,6 +1,7 @@
 ---
 title: 地球低軌道
 slug: leo
+category: orbit
 ---
 
 # 地球低軌道

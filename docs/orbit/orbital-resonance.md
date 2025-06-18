@@ -1,6 +1,7 @@
 ---
 title: 軌道共鳴
 slug: resonance
+category: orbit
 ---
 
 # 太陽同期軌道

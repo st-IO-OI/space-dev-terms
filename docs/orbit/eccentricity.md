@@ -1,6 +1,7 @@
 ---
 title: 離心率
 slug: eccentricity
+category: orbit
 ---
 
 # 離心率

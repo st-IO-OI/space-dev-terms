@@ -1,6 +1,7 @@
 ---
 title: 糸川博士
 slug: Dr.Itokawa
+category: history
 ---
 
 # 糸川博士

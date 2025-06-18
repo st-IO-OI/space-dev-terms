@@ -1,6 +1,7 @@
 ---
 title: はやぶさ2
 slug: hayabusa2
+category: explorer
 ---
 
 # はやぶさ2
