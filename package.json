@@ -1,7 +1,8 @@
 {
-  "name": "宇宙辞典",
+  "name": "space-dev-terms",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://st-IO-OI.github.io/space-dev-terms",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
