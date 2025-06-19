@@ -32,7 +32,7 @@ category: orbit
 - [極軌道](/docs/orbit/polar-orbit)
 - [地球周回軌道](/docs/orbit/geocentric-orbit)
 - [人工衛星](/docs/satellite/satellite)
-- [軌道傾斜角](/docs/orbit/orbital-inclination)
+- [軌道傾斜角](/docs/orbit/inclination)
 - [軌道の用語一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる

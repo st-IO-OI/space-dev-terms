@@ -29,8 +29,6 @@ category: rocket
 
 ## 関連用語・トピック
 
-- [推進剤](/docs/propulsion/propellant)
-- [ノズル](/docs/propulsion/nozzle)
-- [人工衛星](/docs/satellite/artificial-satellite)
+- [人工衛星](/docs/satellite/satellite)
 - [ステージ分離](/docs/rocket/staging)
 - [再使用型ロケット](/docs/rocket/reusable-rocket)

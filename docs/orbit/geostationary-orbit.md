@@ -34,9 +34,7 @@ category: orbit
 ## 関連用語・トピック
 
 - [軌道傾斜角](/docs/orbit/inclination)
-- [静止衛星](/docs/satellite/geostationary-satellite)
 - [軌道投入](/docs/orbit/orbital-insertion)
-- [静止遷移軌道](/docs/orbit/geostationary-transfer-orbit)
 - [ロケット](/docs/rocket/rocket)
 - [軌道の用語一覧](/docs/category/orbit)
 

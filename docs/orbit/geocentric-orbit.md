@@ -32,7 +32,7 @@ category: orbit
 - [静止軌道](/docs/orbit/geostationary-orbit)
 - [低軌道](/docs/orbit/low-earth-orbit)
 - [太陽同期軌道](/docs/orbit/sun-synchronous-orbit)
-- [軌道傾斜角](/docs/orbit/orbital-inclination)
+- [軌道傾斜角](/docs/orbit/inclination)
 - [ロケット](/docs/rocket/rocket)
 - [軌道の用語一覧](/docs/category/orbit)
 
