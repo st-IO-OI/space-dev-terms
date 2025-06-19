@@ -8,5 +8,11 @@ slug: /category/propulsion
 
 ## 用語一覧
 
+- [推進](/docs/propulsion/propulsion)
+- [化学推進](/docs/propulsion/chemical-propulsion)
+- [電気推進](/docs/propulsion/electric-propulsion)
 - [イオンエンジン](/docs/propulsion/ion-engine)
-- [化学推進ロケット](/docs/propulsion/chemical-rocket)
+- [比推力](/docs/propulsion/isp)
+- [推力](/docs/propulsion/thrust)
+- [スラスター](/docs/propulsion/thruster)
+- [燃焼室](/docs/propulsion/combustion-chamber)

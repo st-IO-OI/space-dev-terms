@@ -14,7 +14,7 @@ function HomepageHeader() {
           宇宙開発用語辞典
         </Heading>
         <p className="hero__subtitle">
-          宇宙を言葉で読み解く。研究者・学生・宇宙ファンのためのオンライン用語集。
+          宇宙開発を言葉で読み解く。宇宙開発についてもっと知りたい人のためのオンライン用語集。
         </p>
         <div className={styles.buttons}>
           <Link

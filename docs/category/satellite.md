@@ -10,3 +10,10 @@ slug: /category/satellite
 
 - [ひまわり](/docs/satellite/himawari)
 - [国際宇宙ステーション](/docs/satellite/iss)
+- [通信衛星](/docs/satellite/communication-sat)
+- [地球観測衛星](/docs/satellite/earth-observation-sat)
+- [静止衛星](/docs/satellite/geostationary-sat)
+- [軌道投入](/docs/satellite/orbit-insertion)
+- [衛星バス・構体](/docs/satellite/satellite-bus)
+- [人工衛星](/docs/satellite/satellite)
+- [超小型衛星](/docs/satellite/cubesat)
