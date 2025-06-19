@@ -12,7 +12,7 @@ slug: /category/explorer
 - [サンプルリターン](/docs/explorer/sample-return)
 - [はやぶさ](/docs/explorer/hayabusa)
 - [はやぶさ2](/docs/explorer/hayabusa2)
-- [ボイジャー](/docs/explorer/voyger)
+- [ボイジャー](/docs/explorer/voyager)
 - [ニューホライズンズ](/docs/explorer/new-horizons)
 - [パイオニア](/docs/explorer/pioneer)
 - [フライバイ](/docs/explorer/flyby)

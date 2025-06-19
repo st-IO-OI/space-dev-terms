@@ -8,4 +8,4 @@ slug: /category/control
 
 ## 用語一覧
 
-- [姿勢制御](/docs/control/atitude-control)
+- [姿勢制御](/docs/control/attitude-control)

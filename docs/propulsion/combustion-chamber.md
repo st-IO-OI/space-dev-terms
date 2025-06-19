@@ -1,7 +1,7 @@
 ---
 title: 燃焼室
-slug: /rocket/combustion-chamber
-category: rocket
+slug: /propulsion/combustion-chamber
+category: propulsion
 ---
 
 # 燃焼室

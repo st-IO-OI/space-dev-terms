@@ -30,6 +30,6 @@ slug: /category/orbit
 - [軌道傾斜角](/docs/orbit/inclination)
 - [節歳差運動](/docs/orbit/nodal-precession)
 - [軌道減衰](/docs/orbit/orbital-decay)
-- [軌道離脱](/docs/orbit/orbital-escape)
+- [軌道離脱](/docs/orbit/orbit-escape)
 - [軌道投入](/docs/orbit/orbital-insertion)
 - [軌道共鳴](/docs/orbit/orbital-resonance)

@@ -1,7 +1,7 @@
 ---
 title: 打ち上げ能力
-slug: /glossary/launch-capacity
-category: glossary
+slug: /rocket/launch-capacity
+category: rocket
 ---
 
 # 打ち上げ能力

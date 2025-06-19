@@ -1,6 +1,6 @@
 ---
 title: サンプルリターン
-slug: /satellite/sample-return
+slug: /explorer/sample-return
 category: explorer
 ---
 

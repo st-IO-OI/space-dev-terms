@@ -1,7 +1,7 @@
 ---
 title: 楕円軌道
 slug: /orbit/elliptical-orbit
-category: orbital
+category: orbit
 ---
 
 # 楕円軌道

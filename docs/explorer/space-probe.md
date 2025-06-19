@@ -1,6 +1,6 @@
 ---
 title: 宇宙探査機
-slug: /satellite/Space-Probe
+slug: /explorer/Space-Probe
 category: explorer
 ---
 
