@@ -36,11 +36,11 @@ const sidebars = {
       label: '軌道',
       items: [
         'orbit/orbit',
-        'orbit/geocentric-orbit',
+        'orbit/circular-orbit',
+        'orbit/orbital-elements',
         'orbit/geostationary-orbit',
         'orbit/sun-synchronous-orbit',
-        'orbit/polar-orbit',
-        'orbit/suborbital-flight',
+        'orbit/first-cosmic-velocity',
       ],
     },
     {
@@ -54,10 +54,10 @@ const sidebars = {
       type: 'category',
       label: '推進',
       items: [
-        'propulsion/ion-engine',
+        'propulsion/propulsion',
+        'propulsion/rocket-engine',
         'propulsion/chemical-propulsion',
         'propulsion/electric-propulsion',
-        'propulsion/isp',
       ],
     },
     {
