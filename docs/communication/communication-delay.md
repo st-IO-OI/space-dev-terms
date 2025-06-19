@@ -36,7 +36,7 @@ category: communication
 
 - [ビットレート](/docs/communication/bit-rate)
 - [アンテナ](/docs/communication/antenna)
-- [深宇宙ネットワーク](/docs/communication/deep-space-network)
+- [深宇宙ネットワーク](/docs/communication/dsn)
 - [コマンド](/docs/communication/command)
 - [通信の用語の意味一覧](/docs/category/communication)
 

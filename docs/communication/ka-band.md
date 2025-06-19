@@ -33,7 +33,7 @@ Ka-バンドとは，約26.5～40GHzの周波数帯域のことを指します�
 - [周波数帯](/docs/communication/frequency-band)
 - [X-band](/docs/communication/x-band)
 - [アンテナ](/docs/communication/antenna)
-- [深宇宙ネットワーク](/docs/communication/deep-space-network)
+- [深宇宙ネットワーク](/docs/communication/dsn)
 - [通信の用語の意味一覧](/docs/category/communication)
 
 ### 他カテゴリの用語を見てみる

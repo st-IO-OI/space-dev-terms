@@ -31,7 +31,7 @@ category: communication
 
 - [テレメトリ](/docs/communication/telemetry)
 - [通信遅延](/docs/communication/communication-delay)
-- [深宇宙ネットワーク](/docs/communication/deep-space-network)
+- [深宇宙ネットワーク](/docs/communication/dsn)
 - [地上局](/docs/communication/ground-station)
 - [通信の用語の意味一覧](/docs/category/communication)
 
