@@ -1,6 +1,6 @@
 ---
 title: 耐熱シールドとは？
-slug: /explorer/heat-sheild
+slug: /explorer/heat-shield
 category: explorer
 ---
 

@@ -8,10 +8,6 @@ const sidebars = {
       label: 'ロケット',
       items: [
         'rocket/rocket',
-        'rocket/h3-rocket',
-        'rocket/epsilon-rocket',
-        'rocket/payload',
-        'rocket/launch-window',
       ],
     },
     {
@@ -19,16 +15,16 @@ const sidebars = {
       label: '人工衛星',
       items: [
         'satellite/satellite',
-        'satellite/iss',
-        'satellite/communication-satellite',
         'satellite/earth-observation-sat',
-        'satellite/geostationary-sat',
+        'satellite/space-station',
+        'satellite/cubesat',
       ],
     },
     {
       type: 'category',
       label: '探査機',
       items: [
+        'explorer/space-probe',
         'explorer/hayabusa',
         'explorer/hayabusa2',
         'explorer/sample-return',

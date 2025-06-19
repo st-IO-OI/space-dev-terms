@@ -32,7 +32,7 @@ category: rocket
 - [衛星バスとは？](/docs/satellite/satellite-bus)
 - [フェアリングとは？](/docs/rocket/fairing)
 - [推進力とは？](/docs/propulsion/propulsion)
-- [軌道投入とは？](/docs/orbit/orbital-injection)
+- [軌道投入とは？](/docs/orbit/orbital-insertion)
 - [打ち上げとは？](/docs/rocket/launch)
 - [ロケットの用語の意味一覧](/docs/category/rocket)
 

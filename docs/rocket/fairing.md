@@ -33,7 +33,7 @@ category: rocket
 ## 関連用語・トピック
 
 - [ロケットエンジンとは？](/docs/propulsion/rocket-engine)
-- [ペイロードとは？](/docs/satellite/payload)
+- [ペイロードとは？](/docs/rocket/payload)
 - [打ち上げとは？](/docs/rocket/launch)
 - [ノズルとは？](/docs/propulsion/nozzle)
 - [再突入とは？](/docs/explorer/reentry)

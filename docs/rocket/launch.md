@@ -31,7 +31,7 @@ category: rocket
 ## 関連用語・トピック
 
 - [ロケットとは？](/docs/rocket/rocket)
-- [軌道投入とは？](/docs/orbit/orbital-injection)
+- [軌道投入とは？](/docs/orbit/orbital-insertion)
 - [打ち上げ失敗とは？](/docs/rocket/launch-failure)
 - [宇宙港とは？](/docs/rocket/spaceport)
 - [第一宇宙速度とは？](/docs/orbit/first-cosmic-velocity)

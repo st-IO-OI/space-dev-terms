@@ -32,7 +32,7 @@ category: satellite
 ## 関連用語・トピック
 
 - [人工衛星](/docs/satellite/satellite)
-- [ペイロード](/docs/satellite/payload)
+- [ペイロード](/docs/rocket/payload)
 - [推進力](/docs/propulsion/propulsion)
 - [通信](/docs/communication/communication)
 - [質量比](/docs/propulsion/mass-ratio)

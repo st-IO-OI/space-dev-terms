@@ -9,7 +9,7 @@ slug: /category/glossary
 ## 用語一覧
 
 - [重力とは？](/docs/glossary/gravity)
-- [加速度とは？](/docs/glossary/accelaration)
+- [加速度とは？](/docs/glossary/acceleration)
 - [宇宙飛行士とは？](/docs/glossary/astronaut)
 - [大気圏とは？](/docs/glossary/atmosphere)
 - [Gフォースとは？](/docs/glossary/g-force)

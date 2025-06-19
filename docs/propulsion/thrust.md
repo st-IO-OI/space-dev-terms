@@ -32,7 +32,7 @@ T = ṁ × v<sub>e</sub> （推力 = 質量流量 × 排気速度）
 ## 関連用語・トピック
 
 - [ロケットエンジンとは？](/docs/propulsion/rocket-engine)
-- [比推力とは？](/docs/propulsion/specific-impulse)
+- [比推力とは？](/docs/propulsion/isp)
 - [燃焼室とは？](/docs/propulsion/combustion-chamber)
 - [ノズルとは？](/docs/propulsion/nozzle)
 - [質量比とは？](/docs/propulsion/mass-ratio)
