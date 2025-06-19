@@ -8,12 +8,12 @@ slug: /category/glossary
 
 ## 用語一覧
 
-- [重力とは？](../glossary/gravity.md)
-- [加速度とは？](../glossary/accelaration.md)
-- [宇宙飛行士とは？](../glossary/astronaut.md)
-- [大気圏とは？](../glossary/atmosphere.md)
-- [Gフォースとは？](../glossary/g-force.md)
-- [放射冷却とは？](../glossary/radiative-cooling.md)
-- [宇宙空間とは？](../glossary/space.md)
-- [熱制御とは？](../glossary/thermal-control.md)
-- [真空とは？](../glossary/vacuum.md)
+- [重力とは？](/docs/glossary/gravity)
+- [加速度とは？](/docs/glossary/accelaration)
+- [宇宙飛行士とは？](/docs/glossary/astronaut)
+- [大気圏とは？](/docs/glossary/atmosphere)
+- [Gフォースとは？](/docs/glossary/g-force)
+- [放射冷却とは？](/docs/glossary/radiative-cooling)
+- [宇宙空間とは？](/docs/glossary/space)
+- [熱制御とは？](/docs/glossary/thermal-control)
+- [真空とは？](/docs/glossary/vacuum)

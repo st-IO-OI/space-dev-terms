@@ -20,7 +20,7 @@ const sidebars = {
       items: [
         'satellite/satellite',
         'satellite/iss',
-        'satellite/communication-sat',
+        'satellite/communication-satellite',
         'satellite/earth-observation-sat',
         'satellite/geostationary-sat',
       ],
