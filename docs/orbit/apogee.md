@@ -1,5 +1,5 @@
 ---
-title: 遠地点
+title: 遠地点とは？
 slug: /orbit/apogee
 category: orbit
 ---
@@ -31,13 +31,14 @@ category: orbit
 
 ## 関連用語・トピック
 
-- [近地点](/docs/orbit/perigee)
-- [離心率](/docs/orbit/eccentricity)
-- [軌道要素](/docs/orbit/orbital-elements)
-- [楕円軌道](/docs/orbit/elliptical-orbit)
-- [軌道の用語一覧](/docs/category/orbit)
+- [近地点とは？](/docs/orbit/perigee)
+- [離心率とは？](/docs/orbit/eccentricity)
+- [軌道要素とは？](/docs/orbit/orbital-elements)
+- [楕円軌道とは？](/docs/orbit/elliptical-orbit)
+- [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](/docs/category/rocket)
-- [人工衛星の関連用語一覧](/docs/category/satellite)
-- [探査機の用語一覧](/docs/category/explorer)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [探査機の用語の意味一覧](/docs/category/explorer)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

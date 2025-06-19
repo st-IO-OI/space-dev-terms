@@ -1,5 +1,5 @@
 ---
-title: 円軌道
+title: 円軌道とは？
 slug: /orbit/circular-orbit
 category: orbit
 ---
