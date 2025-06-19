@@ -8,6 +8,9 @@ const sidebars = {
       label: 'ロケット',
       items: [
         'rocket/rocket',
+        'rocket/launch',
+        'rocket/h3-rocket',
+        'rocket/epsilon-rocket',
       ],
     },
     {

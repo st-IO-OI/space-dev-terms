@@ -52,7 +52,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/st-IO-OI/space-dev-terms/edit/main/docs/',
+          editUrl: undefined,
         },
         blog: {
           showReadingTime: true,
