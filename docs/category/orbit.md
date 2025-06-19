@@ -9,7 +9,7 @@ slug: /category/orbit
 ## 用語一覧
 - [軌道](/docs/orbit/orbit)
 - [円軌道](/docs/orbit/circular-orbit)
-- [楕円軌道](/docs/orbit/elliprical-orbit)
+- [楕円軌道](/docs/orbit/elliptical-orbit)
 - [地球周回軌道](/docs/orbit/geocentric-orbit)
 - [静止軌道](/docs/orbit/geostationary-orbit)
 - [自由帰還軌道](/docs/orbit/free-return-trajectory)
