@@ -34,7 +34,7 @@ category: explorer
 - [カプセル](/docs/explorer/capsule)
 - [はやぶさ2](/docs/explorer/hayabusa2)
 - [ランデヴー](/docs/explorer/rendezvous)
-- [耐熱シールド](/docs/explorer/thermal-protection-shield)
+- [耐熱シールド](/docs/explorer/heat-shield)
 - [探査の用語の意味一覧](/docs/category/explorer)
 
 ### 他カテゴリの用語を見てみる

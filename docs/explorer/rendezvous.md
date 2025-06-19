@@ -37,6 +37,6 @@ category: explorer
 - [デルタV・速度増分とは？](/docs/orbit/delta-v-budget)
 - [はやぶさ2とは？](/docs/explorer/hayabusa2)
 - [サンプルリターンとは？](/docs/explorer/sample-return)
-- [ホバリングとは？](/docs/glossary/hovering)
+- [ホバリングとは？](/docs/explorer/hovering)
 - [ロゼッタとは？](/docs/explorer/rosetta)
 - [探査の用語の意味一覧](/docs/category/explorer)

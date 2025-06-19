@@ -35,7 +35,7 @@ category: explorer
 
 - [スイングバイ](/docs/explorer/swingby)
 - [ランデヴー](/docs/explorer/rendezvous)
-- [軌道](/docs/explorer/orbit)
+- [軌道](/docs/orbit/orbit)
 - [ボイジャー](/docs/explorer/voyager)
 - [探査の用語の意味一覧](/docs/category/explorer)
 
