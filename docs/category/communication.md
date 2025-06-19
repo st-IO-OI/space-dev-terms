@@ -10,7 +10,7 @@ slug: /category/communication
 
 - [通信](/docs/communication/communication)
 - [アンテナ](/docs/communication/antenna)
-- [ビットレート](/docs/communication/bitrate)
+- [ビットレート](/docs/communication/bit-rate)
 - [通信遅延](/docs/communication/communication-delay)
 - [深宇宙ネットワーク](/docs/communication/dsn)
 - [Xバンド](/docs/communication/x-band)

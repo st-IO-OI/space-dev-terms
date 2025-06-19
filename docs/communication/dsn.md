@@ -1,6 +1,6 @@
 ---
 title: 深宇宙ネットワークとは？
-slug: /communication/deep-space-network
+slug: /communication/dsn
 category: communication
 ---
 
