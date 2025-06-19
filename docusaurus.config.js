@@ -13,6 +13,14 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  scripts: [
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+      async: true,
+      'data-ad-client': 'ca-pub-7292239445705334',
+    }
+  ],
+
   // ✅ 言語設定の修正
   i18n: {
     defaultLocale: 'ja',
