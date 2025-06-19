@@ -32,7 +32,7 @@ category: orbit
 ## 関連用語・トピック
 
 - [軌道とは？](/docs/orbit/orbit)
-- [宇宙ステーションとは？](/docs/explorer/space-station)
+- [宇宙ステーションとは？](/docs/satellite/space-station)
 - [スペースデブリとは？](/docs/satellite/space-debris)
 - [第一宇宙速度とは？](/docs/orbit/first-cosmic-velocity)
 - [打ち上げとは？](/docs/rocket/launch)

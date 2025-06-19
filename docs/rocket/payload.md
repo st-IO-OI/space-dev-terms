@@ -1,7 +1,7 @@
 ---
 title: ペイロードとは？
-slug: /satellite/payload
-category: satellite
+slug: /rocket/payload
+category: rocket
 ---
 
 # ペイロードとは？

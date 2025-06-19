@@ -1,6 +1,6 @@
 ---
 title: 軌道投入とは？
-slug: /orbit/orbital-injection
+slug: /orbit/orbital-insertion
 category: orbit
 ---
 

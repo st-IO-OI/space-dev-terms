@@ -35,7 +35,7 @@ category: propulsion
 - [推力](/docs/propulsion/thrust)
 - [燃焼室](/docs/propulsion/combustion-chamber)
 - [比推力](/docs/propulsion/isp)
-- [ラバールノズル](/docs/propulsion/dlaval-nozzle)
+- [ラバールノズル](/docs/propulsion/laval-nozzle)
 - [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる

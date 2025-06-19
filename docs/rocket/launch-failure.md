@@ -35,7 +35,6 @@ category: rocket
 - [ロケットエンジン](/docs/propulsion/rocket-engine)
 - [スペースポート](/docs/rocket/spaceport)
 - [第一宇宙速度](/docs/orbit/first-cosmic-velocity)
-- [安全設計](/docs/rocket/safety-design)
 - [ロケットの用語の意味一覧](/docs/category/rocket)
 
 ### 他カテゴリの用語を見てみる

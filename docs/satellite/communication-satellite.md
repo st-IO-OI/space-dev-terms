@@ -1,6 +1,6 @@
 ---
 title: 通信衛星
-slug: /satellite/communication-sat
+slug: /satellite/communication-satellite
 category: satellite
 ---
 

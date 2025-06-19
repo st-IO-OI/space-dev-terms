@@ -37,7 +37,7 @@ category: propulsion
 - [ノズルとは？](/docs/propulsion/nozzle)
 - [推力とは？](/docs/propulsion/thrust)
 - [推進剤とは？](/docs/propulsion/propellant)
-- [比推力とは？](/docs/propulsion/specific-impulse)
+- [比推力とは？](/docs/propulsion/isp)
 - [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる

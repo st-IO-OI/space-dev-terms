@@ -32,9 +32,9 @@ category: propulsion
 
 ## 関連用語・トピック
 
-- [ロケット方程式](/docs/propulsion/rocket-equation)
-- [デルタV](/docs/orbit/delta-v-budget)
-- [推進剤](/docs/propulsion/propellant)
-- [比推力](/docs/propulsion/specific-impulse)
-- [ロケットエンジン](/docs/propulsion/rocket-engine)
-- [ペイロードとは？](/docs/propulsion/payload)
+- [ロケット方程式とは？](/docs/propulsion/rocket-equation)
+- [デルタVとは？](/docs/orbit/delta-v-budget)
+- [推進剤とは？](/docs/propulsion/propellant)
+- [比推力とは？](/docs/propulsion/isp)
+- [ロケットエンジンとは？](/docs/propulsion/rocket-engine)
+- [ペイロードとは？](/docs/rocket/payload)

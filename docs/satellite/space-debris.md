@@ -31,7 +31,7 @@ category: satellite
 
 - [人工衛星](/docs/satellite/satellite)
 - [軌道](/docs/orbit/orbit)
-- [再突入](/docs/glossary/reentry)
+- [再突入](/docs/explorer/reentry)
 - [人工衛星の用語一覧](/docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる
