@@ -36,6 +36,7 @@ export default function Home() {
       title="宇宙事典 - 宇宙開発用語集"
       description="宇宙工学・宇宙開発の用語を、わかりやすく整理したWeb事典です。">
       <HomepageHeader />
+      <main className="container padding-top--md padding-bottom--lg">
         <section>
           <h2>この用語集の特徴</h2>
           <ul>
@@ -43,7 +44,7 @@ export default function Home() {
             <li>✅ カテゴリ別・五十音順で効率よく検索可能</li>
             <li>✅ 宇宙開発に興味のあるすべての人におすすめ</li>
           </ul>
-        </section>
+        </section>z
 
         <section style={{ marginTop: '2rem' }}>
           <h2>カテゴリで探す</h2>
