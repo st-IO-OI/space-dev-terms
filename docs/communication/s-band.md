@@ -1,10 +1,10 @@
 ---
-title: Sバンド
+title: S-バンドとは？
 slug: /communication/s-band
 category: communication
 ---
 
-# Sバンド
+# S-バンドとは？
 
 - **よみがな：** えすばんど  
 - **英語名：** S-Band  
@@ -13,20 +13,27 @@ category: communication
 
 ## 概要
 
-準備中  
+S-バンドとは，宇宙通信に広く用いられている約2～4GHzの周波数帯域のことである．
 
 ---
 
 ## 詳細
 
-準備中  
+S-バンドは，周波数帯のうち約2～4GHzの周波数帯域のことを指します．比較的低い周波数帯域に位置し，大気中の減衰が少ないという特性を持っています．そのため，地球低軌道（LEO）衛星と地上局の通信における安定した通信手段として広く活用されています．
+
+通信速度はXバンドやKa-バンドに劣りますが，信頼性と耐干渉性に優れており，宇宙機との継続的な接続を必要とするミッションに適しています．実際に，多くの気象衛星や観測衛星，実験衛星などでこの周波数帯域が用いられています．
 
 ---
 
-## 関連用語
+## 関連用語・トピック
 
-- ペイロード（Payload）
-- ステージ分離（Staging）
-- 再使用型ロケット（Reusable Rocket）
-- 推力（Thrust）
-- 燃焼室（Combustion Chamber）
+- [周波数帯](/docs/communication/frequency-band)
+- [X-band](/docs/communication/x-band)
+- [テレメトリ](/docs/communication/telemetry)
+- [アンテナ](/docs/communication/antenna)
+- [通信の用語の意味一覧](/docs/category/communication)
+
+### 他カテゴリの用語を見てみる
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

@@ -1,32 +1,46 @@
 ---
-title: 通信遅延
+title: 通信遅延とは？
 slug: /communication/communication-delay
 category: communication
 ---
 
-# 通信遅延
+# 通信遅延とは？
 
 - **よみがな：** つうしんちえん  
-- **英語名：** communication delay  
+- **英語名：** Communication Delay  
 
 ---
 
 ## 概要
 
-準備中
+通信遅延とは，送信された信号が相手に届くまでにかかる時間のことである．
 
 ---
 
 ## 詳細
 
-準備中
+通信遅延は，信号が送信側から受信側に到達するまでの時間差を意味します．
+宇宙探査においては，地球と探査機の間の距離が非常に長くなることがあります．
+すると，光の速さをもってしても情報伝達が瞬時に行えなくなってしまいます．
+光速の伝播速度が有限であるために発生する現象であるといえます．
 
+通信遅延時間は通信経路の長さによって決まります．
+地上間通信ではごくわずかな遅延しか発生しませんが，地球と月の間で約1.3秒，火星との間では最長で20分以上の遅延が発生します．
+
+このような遅延は，探査機の遠隔操作や情報の伝達に大きな影響を及ぼします．そのため，深宇宙探査においては自律的な制御アルゴリズムや事前に計画されたコマンドの送信が不可欠です．また，通信遅延を最小限に抑えるために，高利得アンテナや高ビットレート通信技術が併用されます．
+
+安全で効率的な宇宙運用を実現するためには，通信遅延の仕組みを理解しそれに対する対策を講じる必要があるのです．
 ---
 
-## 関連用語
+## 関連用語・トピック
 
-- ペイロード（Payload）
-- ステージ分離（Staging）
-- 再使用型ロケット（Reusable Rocket）
-- 推力（Thrust）
-- 燃焼室（Combustion Chamber）
+- [ビットレート](/docs/communication/bit-rate)
+- [アンテナ](/docs/communication/antenna)
+- [深宇宙ネットワーク](/docs/communication/deep-space-network)
+- [コマンド](/docs/communication/command)
+- [通信の用語の意味一覧](/docs/category/communication)
+
+### 他カテゴリの用語を見てみる
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)
