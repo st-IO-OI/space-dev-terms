@@ -36,10 +36,9 @@ export default function Home() {
       title="宇宙事典 - 宇宙開発用語集"
       description="宇宙工学・宇宙開発の用語を、わかりやすく整理したWeb事典です。">
       <HomepageHeader />
-      <main className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-black via-gray-900 to-gray-800 text-white px-4 text-center">
         <section>
           <h2>この用語集の特徴</h2>
-          <ul className="list-disc list-inside max-w-xl mx-auto text-left">
+          <ul>
             <li>✅ 用語の意味だけでなく、背景知識や関連技術までカバー</li>
             <li>✅ カテゴリ別・五十音順で効率よく検索可能</li>
             <li>✅ 宇宙開発に興味のあるすべての人におすすめ</li>
@@ -48,7 +47,7 @@ export default function Home() {
 
         <section style={{ marginTop: '2rem' }}>
           <h2>カテゴリで探す</h2>
-          <ul className="list-disc list-inside max-w-xl mx-auto text-left">
+          <ul>
             <li><Link to="/docs/category/rocket">ロケット</Link></li>
             <li><Link to="/docs/category/satellite">人工衛星</Link></li>
             <li><Link to="/docs/category/explorer">宇宙探査機</Link></li>
@@ -62,7 +61,7 @@ export default function Home() {
         <section style={{ marginTop: '2rem' }}>
           <h2>🔎 用語を提案したい？</h2>
           <p>
-            <Link to="https://github.com/st-IO-OI/space-dev-terms/issues/new" target="_blank" rel="noopener noreferrer">
+            <Link to="https://github.com/st-IO-OI/space-dev-terms/issues/new" target="_blank">
               GitHubのIssueから用語提案はこちら
             </Link>
           </p>
