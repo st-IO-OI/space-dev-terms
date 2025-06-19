@@ -1,5 +1,5 @@
 ---
-title: 速度増分
+title: 速度増分・デルタV
 slug: /orbit/delta-v-budget
 category: orbit
 ---
