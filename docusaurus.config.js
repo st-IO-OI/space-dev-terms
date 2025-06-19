@@ -96,6 +96,7 @@ const config = {
             { label: 'このサイトについて', to: '/docs/intro' },
             { label: 'プライバシーポリシー', to: '/docs/privacy-policy' },
             { label: '免責事項', to: '/docs/disclaimer' },
+            { label: 'お問い合わせ', to: '/contact' },
           ],
         },
         {

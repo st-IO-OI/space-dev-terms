@@ -25,10 +25,8 @@ slug: /intro
 - [ロケット用語一覧](/docs/category/rocket)
 - [人工衛星関連用語一覧](/docs/category/satellite)
 - [探査機関連用語一覧](/docs/category/explorer)
-- [衛星通信の用語一覧](/docs/category/communication)
+- [推進系の用語一覧](/docs/category/rocket)
 - [軌道の用語一覧](/docs/category/orbit)
-
-### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](/docs/category/rocket)
-- [人工衛星の関連用語一覧](/docs/category/satellite)
-- [探査機の用語一覧](/docs/category/explorer)
+- [制御の用語一覧](/docs/category/control)
+- [通信系の用語一覧](/docs/category/communication)
+- [宇宙開発史の用語一覧](/docs/category/history)
