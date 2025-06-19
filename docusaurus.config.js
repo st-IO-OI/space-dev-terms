@@ -5,7 +5,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: '宇宙開発用語集',
   tagline: '宇宙開発に関する用語をわかりやすく解説',
-  favicon: 'img/favicon.ico',
   url: 'https://space-dev-terms.pages.dev',
   baseUrl: '/',
   organizationName: 'st-IO-OI',
@@ -88,7 +87,7 @@ const config = {
       title: '宇宙開発用語集',
       logo: {
         alt: 'ロゴ',
-        src: 'img/logo.svg',
+        src: 'img/space-dic.svg',
       },
       items: [
         { to: '/docs/intro', label: '用語一覧', position: 'left' },
