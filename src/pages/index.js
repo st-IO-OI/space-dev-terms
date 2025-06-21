@@ -36,17 +36,25 @@ function HomepageHeader() {
 export default function Home() {
   return (
     <Layout
-      title="宇宙事典 - 宇宙開発用語集"
-      description="宇宙工学・宇宙開発の用語を、わかりやすく整理したWeb事典です。">
+      title="宇宙開発用語集へようこそ"
+      description="宇宙開発に関する専門用語を体系的に学べるナビゲーション型辞典サイト"
+    >
       <HomepageHeader />
-      <main className="container padding-top--md padding-bottom--lg">
-        <section>
-          <h2>この用語集の特徴</h2>
-          <ul>
-            <li>✅ 用語の意味だけでなく、背景知識や関連技術までカバー</li>
-            <li>✅ カテゴリ別・五十音順で効率よく検索可能</li>
-            <li>✅ 宇宙開発に興味のあるすべての人におすすめ</li>
-          </ul>
+      <main className="container mx-auto px-4 py-12">
+        <section className="mb-12">
+          <h1 className="text-4xl font-bold mb-4">宇宙開発用語集へようこそ 🚀</h1>
+          <p className="text-lg leading-relaxed text-gray-700">
+            このサイトは、宇宙工学に関する専門用語をわかりやすく、体系的に解説する用語集です。
+            初学者から実務者まで、宇宙分野に関心を持つすべての人に向けて、「学ぶべき内容」と「信頼できる導線」を整理しています。
+          </p>
+        </section>
+        <section className="mb-12">
+          <h2 className="text-2xl font-semibold mb-4">🌍 このサイトが目指すもの</h2>
+          <p className="text-base text-gray-700 leading-relaxed">
+            宇宙業界は現在、JAXAやNASAだけでなく、民間や異業種の参入も進んでいます。
+            しかし、「何をどう学べばよいか分からない」という障壁が依然として存在します。
+            本サイトは、学習と実務の間をつなぐ“知のプラットフォーム”として機能することを目指しています。
+          </p>
         </section>
         <PopularTerms />
         <section style={{ marginTop: '2rem' }}>

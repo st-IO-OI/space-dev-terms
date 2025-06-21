@@ -4,13 +4,21 @@ slug: /index
 description:  '宇宙開発に関する全用語の一覧ページです。五十音順で整理されており、カテゴリを横断して検索できます。'
 ---
 
-
 import Link from '@docusaurus/Link';
 
-export const metadata = {
-  title: '用語一覧（五十音順）',
-  description: '宇宙開発に関する全用語の一覧ページです。五十音順で整理されており、カテゴリを横断して検索できます。',
-};
+<Head>
+  <script type="application/ld+json">
+    {`{
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "用語一覧（五十音順）",
+      "inDefinedTermSet": "https://space-dev-terms.pages.dev",
+      "termCode": "index",
+      "description": "宇宙開発に関する全用語の一覧ページです。五十音順で整理されており、カテゴリを横断して検索できます。",
+      "url": "https://space-dev-terms.pages.dev/docs/index"
+    }`}
+  </script>
+</Head>
 
 # 用語一覧（五十音順）
 

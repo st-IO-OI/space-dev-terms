@@ -3,6 +3,24 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [
     'intro',             // docs/intro.md
+    {
+      type: 'category',
+      label: '宇宙開発ナビ　　　　　　　これから宇宙を学ぶ人たちへ',
+      link: { type: 'doc', id: 'navi/intro-to-space-dev' },
+      items: [
+        'navi/overview',
+        'navi/what-is-needed',
+        'navi/region-of-expertise',
+        'navi/basic-knowledge',
+        'navi/voice-of-frontline',
+        'navi/how-to-work',
+      ],
+    },
+    {
+      type: 'category',
+      label: '宇宙開発用語集　　　　　　宇宙を学んでいる人たちへ',
+      link: { type: 'doc', id: 'intro' },
+      items: [
     'index',             // docs/intro.md
     {
       type: 'category',
@@ -105,6 +123,8 @@ const sidebars = {
         'communication/technology/antenna',
         'communication/technology/communication-delay',
         'communication/system/ground-station',
+      ],
+    }, 
       ],
     },
   ],

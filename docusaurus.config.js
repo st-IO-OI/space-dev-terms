@@ -3,8 +3,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '宇宙開発用語集',
-  tagline: '宇宙開発に関する用語をわかりやすく解説',
+  title: '宇宙開発ポータル',
+  tagline: '宇宙開発のすべてを、信頼と体系でつなぐ',
   url: 'https://space-dev-terms.pages.dev',
   baseUrl: '/',
   organizationName: 'st-IO-OI',
@@ -39,7 +39,7 @@ const config = {
       tagName: 'meta',
       attributes: {
         name: 'description',
-        content: '宇宙開発に関する用語をわかりやすく解説する専門サイトです。',
+        content: '宇宙を目指すすべての人たちに，宇宙開発をわかりやすく解説する専門サイトです。',
       },
     },
     {
@@ -84,13 +84,13 @@ const config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '宇宙開発用語集',
+      title: '宇宙開発ポータル',
       logo: {
         alt: 'ロゴ',
         src: 'img/space-dic.svg',
       },
       items: [
-        { to: '/docs/intro', label: '用語一覧', position: 'left' },
+        { to: '/docs/intro', label: 'このサイトについて', position: 'left' },
         { href: 'https://github.com/st-IO-OI/space-dev-terms', label: 'GitHub', position: 'right' },
       ],
     },
@@ -109,14 +109,9 @@ const config = {
         {
           title: 'カテゴリ',
           items: [
-            { label: 'ロケット', to: '/docs/category/rocket' },
-            { label: '人工衛星', to: '/docs/category/satellite' },
-            { label: '探査機', to: '/docs/category/explorer' },
-            { label: '推進系', to: '/docs/category/propulsion' },
-            { label: '軌道', to: '/docs/category/orbit' },
-            { label: '制御', to: '/docs/category/control' },
-            { label: '宇宙開発史', to: '/docs/category/history' },
-            { label: 'その他', to: '/docs/category/glossary' },
+            { label: '宇宙開発ナビ（これから宇宙を目指す人たちへ）', to: '/docs/navi/intro-to-space-dev' },
+            { label: '宇宙開発用語集（もっと宇宙を学びたい人たちへ）', to: '/docs/index' },
+            { label: '宇宙開発ガイド（宇宙へ向かいたい人たちへ）', to: '/docs/index' },
           ],
         },
         {
