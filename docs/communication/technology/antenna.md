@@ -30,9 +30,9 @@ category: communication
 ## 関連用語・トピック
 
 - [地上局](/docs/communication/system/ground-station)
-- [周波数帯](/docs/communication/techonlogy/frequency-band)
-- [Ka-バンド](/docs/communication/techonlogy/ka-band)
-- [通信遅延](/docs/communication/techonlogy/communication-delay)
+- [周波数帯](/docs/communication/technology/frequency-band)
+- [Ka-バンド](/docs/communication/technology/ka-band)
+- [通信遅延](/docs/communication/technology/communication-delay)
 - [通信の用語の意味一覧](/docs/category/communication)
 
 ### 他カテゴリの用語を見てみる

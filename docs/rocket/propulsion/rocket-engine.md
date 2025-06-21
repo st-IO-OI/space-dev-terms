@@ -32,7 +32,7 @@ category: propulsion
 - [推力とは？](/docs/rocket/propulsion/system/thrust)
 - [ノズルとは？](/docs/rocket/propulsion/system/nozzle)
 - [燃焼室とは？](/docs/rocket/propulsion/system/combustion-chamber)
-- [比推力とは？](/docs/rockert/propulsion/system/isp)
+- [比推力とは？](/docs/rocket/propulsion/system/isp)
 - [再使用ロケットとは？](/docs/rocket/type/reusable-rocket)
 - [推進系の用語の意味一覧](/docs/category/propulsion)
 
