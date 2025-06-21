@@ -1,6 +1,6 @@
 ---
 title: 楕円軌道
-slug: /orbit/elliptical-orbit
+slug: /orbit/type/elliptical-orbit
 category: orbit
 ---
 
@@ -29,10 +29,10 @@ category: orbit
 
 ## 関連用語・トピック
 
-- [円軌道](/docs/orbit/circular-orbit)
-- [軌道要素](/docs/orbit/orbital-elements)
-- [遠地点](/docs/orbit/apogee)
-- [近地点](/docs/orbit/perigee)
+- [円軌道](/docs/orbit/type/circular-orbit)
+- [軌道要素](/docs/orbit/mechanics/orbital-elements)
+- [遠地点](/docs/orbit/mechanics/apogee)
+- [近地点](/docs/orbit/mechanics/perigee)
 - [軌道の用語一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる

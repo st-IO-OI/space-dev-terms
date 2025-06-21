@@ -1,6 +1,6 @@
 ---
 title: ロケットエンジンとは？
-slug: /propulsion/rocket-engine
+slug: /rocket/propulsion/rocket-engine
 category: propulsion
 ---
 
@@ -29,11 +29,11 @@ category: propulsion
 
 ## 関連用語・トピック
 
-- [推力とは？](/docs/propulsion/thrust)
-- [ノズルとは？](/docs/propulsion/nozzle)
-- [燃焼室とは？](/docs/propulsion/combustion-chamber)
-- [比推力とは？](/docs/propulsion/isp)
-- [再使用ロケットとは？](/docs/rocket/reusable-rocket)
+- [推力とは？](/docs/rocket/propulsion/system/thrust)
+- [ノズルとは？](/docs/rocket/propulsion/system/nozzle)
+- [燃焼室とは？](/docs/rocket/propulsion/system/combustion-chamber)
+- [比推力とは？](/docs/rockert/propulsion/system/isp)
+- [再使用ロケットとは？](/docs/rocket/type/reusable-rocket)
 - [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる

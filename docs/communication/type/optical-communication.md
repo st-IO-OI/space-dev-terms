@@ -32,10 +32,10 @@ category: communication
 
 ## 関連用語・トピック
 
-- [ビットレート](/docs/communication/techonology/bit-rate)
-- [アンテナ](/docs/communication/techonology/antenna)
-- [Ka-バンド](/docs/communication/techonology/ka-band)
-- [通信遅延](/docs/communication/techonology/communication-delay)
+- [ビットレート](/docs/communication/technology/bit-rate)
+- [アンテナ](/docs/communication/technology/antenna)
+- [Ka-バンド](/docs/communication/technology/ka-band)
+- [通信遅延](/docs/communication/technology/communication-delay)
 - [通信の用語の意味一覧](/docs/category/communication)
 
 ### 他カテゴリの用語を見てみる

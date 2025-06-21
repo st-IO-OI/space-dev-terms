@@ -34,7 +34,7 @@ category: explorer
 ## 関連用語・トピック
 
 - [フライバイとは？](/docs/explorer/technology/flyby)
-- [デルタV・速度増分とは？](/docs/orbit/delta-v-budget)
+- [デルタV・速度増分とは？](/docs/orbit/mechanics/delta-v-budget)
 - [はやぶさ2とは？](/docs/explorer/mission/hayabusa2)
 - [サンプルリターンとは？](/docs/explorer/technology/sample-return)
 - [ホバリングとは？](/docs/explorer/technology/hovering)

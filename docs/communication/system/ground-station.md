@@ -31,9 +31,9 @@ category: communication
 
 ## 関連用語・トピック
 
-- [アンテナ](/docs/communication/techonology/antenna)
+- [アンテナ](/docs/communication/technology/antenna)
 - [テレメトリ](/docs/communication/system/telemetry)
-- [通信遅延](/docs/communication/techonology/communication-delay)
+- [通信遅延](/docs/communication/technology/communication-delay)
 - [深宇宙ネットワーク](/docs/communication/system/dsn)
 - [通信の用語の意味一覧](/docs/category/communication)
 

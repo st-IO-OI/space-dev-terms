@@ -29,11 +29,11 @@ category: rocket
 
 ## 関連用語・トピック
 
-- [衛星バスとは？](/docs/satellite/satellite-bus)
+- [衛星バスとは？](/docs/satellite/system/satellite-bus)
 - [フェアリングとは？](/docs/rocket/system/fairing)
 - [推進力とは？](/docs/rocket/propulsion/system/propulsion)
-- [軌道投入とは？](/docs/orbit/orbital-insertion)
-- [打ち上げとは？](/docs/rocket/launch)
+- [軌道投入とは？](/docs/orbit/operation/orbital-insertion)
+- [打ち上げとは？](/docs/rocket/launch/launch)
 - [ロケットの用語の意味一覧](/docs/category/rocket)
 
 ### 他カテゴリの用語を見てみる

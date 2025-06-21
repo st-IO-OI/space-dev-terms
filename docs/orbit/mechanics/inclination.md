@@ -32,7 +32,7 @@ category: orbit
 
 - [太陽同期軌道](/docs/orbit/type/sun-synchronous-orbit)
 - [軌道要素](/docs/orbit/mechanics/orbital-elements)
-- [極軌道](/docs/orbit/mechanics/polar-orbit)
+- [極軌道](/docs/orbit/type/polar-orbit)
 - [軌道の用語一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる

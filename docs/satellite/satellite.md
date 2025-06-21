@@ -30,10 +30,10 @@ category: satellite
 ## 関連用語・トピック
 
 - [軌道とは？](/docs/orbit/orbit)
-- [通信衛星とは？](/docs/satellite/communication-satellite)
-- [超小型衛星とは？](/docs/satellite/cubesat)
-- [ペイロードとは？](/docs/rocket/payload)
-- [スプートニクとは？](/docs/history/sputnik)
+- [通信衛星とは？](/docs/satellite/type/communication-satellite)
+- [超小型衛星とは？](/docs/satellite/type/cubesat)
+- [ペイロードとは？](/docs/rocket/system/payload)
+- [スプートニクとは？](/docs/glossary/history/sputnik)
 - [人工衛星の用語一覧](/docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる

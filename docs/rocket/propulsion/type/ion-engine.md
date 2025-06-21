@@ -31,11 +31,11 @@ category: propulsion
 
 ## 関連用語・トピック
 
-- [電気推進とは？](/docs/propulsion/type/electric-propulsion)
-- [推進力とは？](/docs/propulsion/system/propulsion)
-- [比推力とは？](/docs/propulsion/system/isp)
+- [電気推進とは？](/docs/rocket/propulsion/type/electric-propulsion)
+- [推進力とは？](/docs/rocket/propulsion/system/propulsion)
+- [比推力とは？](/docs/rocket/propulsion/system/isp)
 - [はやぶさ2とは？](/docs/explorer/mission/hayabusa2)
-- [推進剤とは？](/docs/propulsion/system/propellant)
+- [推進剤とは？](/docs/rocket/propulsion/system/propellant)
 - [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる

@@ -1,6 +1,6 @@
 ---
 title: 電気推進
-slug: /rocket/propulsion/electric-propulsion
+slug: /rocket/propulsion/type/electric-propulsion
 category: propulsion
 ---
 

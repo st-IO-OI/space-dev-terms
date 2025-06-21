@@ -37,4 +37,4 @@ category: propulsion
 - [推進剤とは？](/docs/rocket/propulsion/system/propellant)
 - [比推力とは？](/docs/rocket/propulsion/system/isp)
 - [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
-- [ペイロードとは？](/docs/rocket/payload)
+- [ペイロードとは？](/docs/rocket/system/payload)

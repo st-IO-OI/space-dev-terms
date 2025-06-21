@@ -30,9 +30,9 @@ category: communication
 ## 関連用語・トピック
 
 - [コマンド](/docs/communication/system/command)
-- [通信遅延](/docs/communication/techonology/communication-delay)
+- [通信遅延](/docs/communication/technology/communication-delay)
 - [地上局](/docs/communication/system/ground-station)
-- [アンテナ](/docs/communication/techonology/antenna)
+- [アンテナ](/docs/communication/technology/antenna)
 - [通信の用語の意味一覧](/docs/category/communication)
 
 ### 他カテゴリの用語を見てみる

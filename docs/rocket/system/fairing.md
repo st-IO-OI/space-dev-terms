@@ -34,9 +34,9 @@ category: rocket
 
 - [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
 - [ペイロードとは？](/docs/rocket/system/payload)
-- [打ち上げとは？](/docs/rocket/launch)
+- [打ち上げとは？](/docs/rocket/launch/launch)
 - [ノズルとは？](/docs/rocket/propulsion/system/nozzle)
-- [再突入とは？](/docs/explorer/reentry)
+- [再突入とは？](/docs/explorer/technology/reentry)
 - [ロケットの用語の意味一覧](/docs/category/rocket)
 
 ### 他カテゴリの用語を見てみる

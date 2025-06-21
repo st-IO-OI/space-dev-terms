@@ -30,8 +30,8 @@ category: rocket
 ## 関連用語・トピック
 
 - [人工衛星とは？](/docs/satellite/satellite)
-- [ステージ分離とは？](/docs/rocket/staging)
-- [再使用型ロケットとは？](/docs/rocket/reusable-rocket)
+- [ステージ分離とは？](/docs/rocket/system/staging)
+- [再使用型ロケットとは？](/docs/rocket/type/reusable-rocket)
 - [軌道の用語一覧](/docs/category/orbit)
 - [ロケットの用語一覧](/docs/category/rocket)
 

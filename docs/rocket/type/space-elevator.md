@@ -30,7 +30,7 @@ category: rocket
 ---
 
 ## 関連用語・トピック
-- [打ち上げとは？](/docs/rocketlaunch/launch)
+- [打ち上げとは？](/docs/rocket/launch/launch)
 - [静止軌道とは？](/docs/orbit/type/geostationary-orbit)
 - [ロケットとは？](/docs/rocket/rocket)
 - [宇宙港とは？](/docs/rocket/type/spaceport)
