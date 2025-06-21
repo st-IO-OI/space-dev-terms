@@ -2,6 +2,7 @@
 title: 宇宙ステーションとは？
 slug: /satellite/type/space-station
 category: satellite
+dectioption: 宇宙空間に長期間滞在可能な人工施設であり，乗員による実験や観測が行われる拠点のことである宇宙ステーションの意味・定義・内容について解説します．
 ---
 
 # 宇宙ステーションとは？

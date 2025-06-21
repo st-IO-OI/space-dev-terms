@@ -2,6 +2,7 @@
 title: ロケットエンジンとは？
 slug: /rocket/propulsion/rocket-engine
 category: propulsion
+dectioption: 推進剤を燃焼・噴射して自ら推力を生み出す，閉じたシステムの推進装置のことであるロケットエンジンの意味・定義・内容について解説します．
 ---
 
 # ロケットエンジンとは？

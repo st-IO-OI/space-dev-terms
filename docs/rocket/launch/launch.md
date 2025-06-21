@@ -2,6 +2,7 @@
 title: 打ち上げとは？
 slug: /rocket/launch/launch
 category: rocket
+dectioption: ロケットなどの手段を用いて，宇宙機を地球表面から宇宙空間へ送る行為のことである打ち上げの意味・定義・内容について解説します．
 ---
 
 # 打ち上げとは？

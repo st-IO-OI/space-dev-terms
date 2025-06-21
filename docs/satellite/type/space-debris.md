@@ -2,6 +2,7 @@
 title: スペースデブリとは？
 slug: /satellite/type/space-debris
 category: satellite
+dectioption: 宇宙空間を漂う役目を終えた人工物や破片などの不要な残骸であるスペースデブリの意味・定義・内容について解説します．
 ---
 
 # スペースデブリとは？

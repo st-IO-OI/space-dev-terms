@@ -2,6 +2,7 @@
 title: ノズルとは？
 slug: /rocket/propulsion/system/nozzle
 category: propulsion
+dectioption: 燃焼ガスを加速・整流し，高速で噴射させることで推力を発生させるロケットエンジンの出口構造であるノズルの意味・定義・内容について解説します．
 ---
 
 # ノズルとは？

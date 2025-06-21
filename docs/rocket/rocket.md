@@ -2,6 +2,7 @@
 title: ロケット
 slug: /rocket/rocket
 category: rocket
+dectioption: 大気圏内外を問わず自己推進で飛行する機械であり、宇宙空間に人工物を打ち上げるための主要手段であるロケットの意味・定義・内容について解説します．
 ---
 
 # ロケット

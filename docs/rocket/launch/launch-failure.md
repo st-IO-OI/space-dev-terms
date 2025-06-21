@@ -2,6 +2,7 @@
 title: 打ち上げ失敗とは？
 slug: /rocket/launch/launch-failure
 category: rocket
+dectioption: 地ロケットの打ち上げ中に発生する不具合や事故によって，ミッションが遂行不能となる事象のことである打ち上げ失敗の意味・定義・内容について解説します．
 ---
 
 # 打ち上げ失敗とは？

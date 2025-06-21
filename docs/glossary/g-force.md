@@ -2,6 +2,7 @@
 title: Gとは？
 slug: /glossary/g-force
 category: glossary
+dectioption: 加速度の単位であり，重力加速度（地球上での1G ≒ 9.8 m/s²）を基準とした体感加速度の尺度であるGの意味・定義・内容について解説します．
 ---
 
 # Gとは？

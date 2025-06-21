@@ -2,6 +2,7 @@
 title: 遠地点とは？
 slug: /orbit/mechanics/apogee
 category: orbit
+dectioption: 地球を回る軌道上にある天体や人工衛星が地球から最も遠ざかる点である遠地点の意味・定義・内容について解説します．
 ---
 
 # 遠地点

@@ -2,6 +2,7 @@
 title: 人工衛星
 slug: /satellite/satellite
 category: satellite
+dectioption: 地球などの天体の周囲を公転するように人工的に打ち上げられた物体である人工衛星の意味・定義・内容について解説します．
 ---
 
 # 人工衛星

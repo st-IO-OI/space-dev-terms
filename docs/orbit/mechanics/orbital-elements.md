@@ -2,6 +2,7 @@
 title: 軌道要素
 slug: /orbit/mechanics/orbital-elements
 category: orbit
+dectioption: 天体や人工衛星の軌道を数学的に表すためのパラメータ群である軌道要素の意味・定義・内容について解説します．
 ---
 
 # 軌道要素

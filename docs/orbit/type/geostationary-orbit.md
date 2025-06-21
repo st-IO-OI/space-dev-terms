@@ -2,6 +2,7 @@
 title: 静止軌道
 slug: /orbit/type/geostationary-orbit
 category: orbit
+dectioption: 地球の自転と同じ周期で赤道上空を回る軌道であり、地球から見ると人工衛星が常に同じ位置に静止して見える軌道である静止軌道の意味・定義・内容について解説します．
 ---
 
 # 静止軌道

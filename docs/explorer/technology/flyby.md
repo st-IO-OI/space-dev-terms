@@ -2,6 +2,7 @@
 title: フライバイとは？
 slug: /explorer/technology/flyby
 category: explorer
+dectioption: 探査機が天体の近くを通過しながら目標天体の観測を行う手法であるフライバイの意味・定義・内容について解説します．
 ---
 
 # フライバイとは？

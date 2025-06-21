@@ -2,6 +2,7 @@
 title: 近地点
 slug: /orbit/mechanics/perigee
 category: orbit
+dectioption: 地球を回る軌道上にある天体や人工衛星が地球に最も近づく点である近地点の意味・定義・内容について解説します．
 ---
 
 # 近地点
