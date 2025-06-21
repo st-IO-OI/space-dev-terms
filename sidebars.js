@@ -19,7 +19,7 @@ const sidebars = {
     {
       type: 'category',
       label: '宇宙開発用語集　　　　　　宇宙を学んでいる人たちへ',
-      link: { type: 'doc', id: 'intro' },
+      link: { type: 'doc', id: 'glossary' },
       items: [
     'index',             // docs/intro.md
     {
