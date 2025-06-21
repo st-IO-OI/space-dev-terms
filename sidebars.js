@@ -28,6 +28,7 @@ const sidebars = {
       collapsed: false,
       items: [
         'rocket/rocket',
+        'rocket/propulsion/rocket-engine',
         {
           type: 'category',
           label: 'ロケットの種類',

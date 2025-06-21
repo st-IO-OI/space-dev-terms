@@ -5,6 +5,22 @@ category: rocket
 dectioption: 地球と静止軌道上をケーブルでつなぎ，物資や人を宇宙へ運ぶ構想上の輸送装置である宇宙エレベーターの意味・定義・内容について解説します．
 ---
 
+import Head from '@docusaurus/Head';
+
+<Head>
+  <script type="application/ld+json">
+    {`{
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "打ち上げ失敗",
+      "inDefinedTermSet": "https://space-dev-terms.pages.dev",
+      "termCode": "rocket/type/space-elevator",
+      "description": "地球と静止軌道上をケーブルでつなぎ，物資や人を宇宙へ運ぶ構想上の輸送装置である宇宙エレベーターの意味・定義・内容について解説します．",
+      "url": "https://space-dev-terms.pages.dev/docs/rocket/type/space-elevator"
+    }`}
+  </script>
+</Head>
+
 # 宇宙エレベーターとは？
 
 - **よみがな：** うちゅうえれべーたー  
