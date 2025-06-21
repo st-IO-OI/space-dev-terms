@@ -3,6 +3,7 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [
     'intro',             // docs/intro.md
+    'index',             // docs/intro.md
     {
       type: 'category',
       label: '宇宙開発一般',
