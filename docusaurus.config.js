@@ -98,7 +98,7 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: '情報',
+          title: 'サイト案内',
           items: [
             { label: 'このサイトについて', to: '/docs/intro' },
             { label: 'プライバシーポリシー', to: '/docs/privacy-policy' },
@@ -107,14 +107,22 @@ const config = {
           ],
         },
         {
-          title: 'SNS',
+          title: 'カテゴリ',
           items: [
-            { label: 'X', href: 'https://x.com/' },
+            { label: 'ロケット', to: '/docs/category/rocket' },
+            { label: '人工衛星', to: '/docs/category/satellite' },
+            { label: '探査機', to: '/docs/category/explorer' },
+            { label: '推進系', to: '/docs/category/propulsion' },
+            { label: '軌道', to: '/docs/category/orbit' },
+            { label: '制御', to: '/docs/category/control' },
+            { label: '宇宙開発史', to: '/docs/category/history' },
+            { label: 'その他', to: '/docs/category/glossary' },
           ],
         },
         {
-          title: 'More',
+          title: '外部リンク',
           items: [
+            { label: 'X', href: 'https://x.com/' },
             { label: 'Blog', to: '/blog' },
             { label: 'GitHub', href: 'https://github.com/' },
           ],

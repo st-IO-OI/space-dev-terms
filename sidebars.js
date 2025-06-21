@@ -5,12 +5,54 @@ const sidebars = {
     'intro',             // docs/intro.md
     {
       type: 'category',
+      label: '宇宙開発一般',
+      items: [
+        'glossary/space',
+        'glossary/gravity',
+        'glossary/atmosphere',
+        'glossary/astronaut',
+        {
+          type: 'category',
+          label: '歴史',
+          items: [
+            'glossary/history/space-history',
+            'glossary/history/hideo-itokawa',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
       label: 'ロケット',
+      link: { type: 'doc', id: 'rocket/rocket' },
+      collapsed: false,
       items: [
         'rocket/rocket',
-        'rocket/launch',
-        'rocket/h3-rocket',
-        'rocket/epsilon-rocket',
+        {
+          type: 'category',
+          label: 'ロケットの種類',
+          collapsed: false,
+          items: [
+            'rocket/index/h3-rocket',
+            'rocket/index/epsilon-rocket',
+          ],
+        },
+        {
+          type: 'category',
+          label: '打ち上げ',
+          items: [
+            'rocket/launch/launch',
+            'rocket/launch/launch-failure',
+          ],
+        },
+        {
+          type: 'category',
+          label: '推進系',
+          items: [
+            'rocket/propulsion/rocket-engine',
+          ],
+        },
+
       ],
     },
     {
@@ -18,9 +60,9 @@ const sidebars = {
       label: '人工衛星',
       items: [
         'satellite/satellite',
-        'satellite/earth-observation-sat',
-        'satellite/space-station',
-        'satellite/cubesat',
+        'satellite/type/earth-observation-sat',
+        'satellite/type/space-station',
+        'satellite/type/cubesat',
       ],
     },
     {
@@ -28,10 +70,10 @@ const sidebars = {
       label: '探査機',
       items: [
         'explorer/space-probe',
-        'explorer/hayabusa',
-        'explorer/hayabusa2',
-        'explorer/sample-return',
-        'explorer/flyby',
+        'explorer/mission/hayabusa',
+        'explorer/mission/hayabusa2',
+        'explorer/technology/sample-return',
+        'explorer/technology/flyby',
       ],
     },
     {
@@ -39,46 +81,28 @@ const sidebars = {
       label: '軌道',
       items: [
         'orbit/orbit',
-        'orbit/circular-orbit',
-        'orbit/orbital-elements',
-        'orbit/geostationary-orbit',
-        'orbit/sun-synchronous-orbit',
-        'orbit/first-cosmic-velocity',
+        'orbit/mechanics/orbital-elements',
+        'orbit/mechanics/first-cosmic-velocity',
+        'orbit/type/circular-orbit',
+        'orbit/type/geostationary-orbit',
+        'orbit/type/sun-synchronous-orbit',
       ],
     },
     {
       type: 'category',
       label: '制御',
       items: [
-        'control/attitude-control',
-      ],
-    },
-    {
-      type: 'category',
-      label: '推進',
-      items: [
-        'propulsion/propulsion',
-        'propulsion/rocket-engine',
-        'propulsion/chemical-propulsion',
-        'propulsion/electric-propulsion',
+        'control/technology/attitude-control',
+        'control/technology/rendezvous-docking',
       ],
     },
     {
       type: 'category',
       label: '通信',
       items: [
-        'communication/antenna',
-        'communication/communication-delay',
-        'communication/ground-station',
-        'communication/x-band',
-      ],
-    },
-    {
-      type: 'category',
-      label: '歴史',
-      items: [
-        'history/space-history',
-        'history/hideo-itokawa',
+        'communication/technology/antenna',
+        'communication/technology/communication-delay',
+        'communication/system/ground-station',
       ],
     },
   ],

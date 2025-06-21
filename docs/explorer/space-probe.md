@@ -30,6 +30,6 @@ category: explorer
 ## 関連用語・トピック
 
 - [人工衛星](/docs/satellite/satellite)
-- [フライバイ](/docs/explorer/flyby)
-- [はやぶさ2](/docs/explorer/hayabusa2)
-- [サンプルリターン](/docs/explorer/sample-return)
+- [フライバイ](/docs/explorer/technology/flyby)
+- [はやぶさ2](/docs/explorer/mission/hayabusa2)
+- [サンプルリターン](/docs/explorer/technology/sample-return)

@@ -8,4 +8,5 @@ slug: /category/control
 
 ## 用語一覧
 
-- [姿勢制御](/docs/control/attitude-control)
+- [姿勢制御](/docs/control/technologyattitude-control)
+- [姿勢制御](/docs/control/technology/rendezvous-docking)

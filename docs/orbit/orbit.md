@@ -31,11 +31,11 @@ category: orbit
 
 ## 関連用語・トピック
 
-- [軌道要素とは？](/docs/orbit/orbital-elements)
-- [楕円軌道とは？](/docs/orbit/elliptical-orbit)
-- [太陽同期軌道とは？](/docs/orbit/sun-synchronous-orbit)
-- [ホーマン遷移軌道とは？](/docs/orbit/hohmann-transfer-orbit)
-- [ラグランジュ点とは？](/docs/orbit/lagrange-point)
+- [軌道要素とは？](/docs/orbit/mechanics/orbital-elements)
+- [楕円軌道とは？](/docs/orbit/type/elliptical-orbit)
+- [太陽同期軌道とは？](/docs/orbit/type/sun-synchronous-orbit)
+- [ホーマン遷移軌道とは？](/docs/orbit/type/hohmann-transfer-orbit)
+- [ラグランジュ点とは？](/docs/orbit/mechanics/lagrange-point)
 - [軌道の用語一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる

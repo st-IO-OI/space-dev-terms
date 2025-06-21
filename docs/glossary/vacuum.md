@@ -34,7 +34,7 @@ category: glossary
 - [宇宙空間とは？](/docs/glossary/space)
 - [放射冷却とは？](/docs/glossary/radiative-cooling)
 - [熱制御とは？](/docs/glossary/thermal-control)
-- [低軌道とは？](/docs/orbit/low-earth-orbit)
+- [低軌道とは？](/docs/orbit/type/low-earth-orbit)
 - [大気圏とは？](/docs/glossary/atmosphere)
 - [宇宙開発の用語の意味一覧](/docs/category/glossary)
 

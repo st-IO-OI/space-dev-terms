@@ -31,9 +31,9 @@ category: glossary
 
 - [真空](/docs/glossary/vacuum)
 - [軌道](/docs/orbit/orbit)
-- [再突入](/docs/explorer/reentry)
+- [再突入](/docs/explorer/technology/reentry)
 - [宇宙探査機](/docs/explorer/space-probe)
-- [スペースデブリ](/docs/satellite/space-debris)
+- [スペースデブリ](/docs/satellite/type/space-debris)
 - [宇宙開発の用語の意味一覧](/docs/category/glossary)
 
 ### 他カテゴリの用語を見てみる

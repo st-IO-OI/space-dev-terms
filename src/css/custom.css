@@ -34,3 +34,32 @@ body {
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* フッター全体の中央寄せと整形 */
+.footer {
+  background-color: #1a1a1a; /* darkモード用に適宜調整 */
+  color: #fff;
+  padding: 2rem 1rem;
+}
+
+/* 中央揃え + max-width調整 */
+.footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* フッターのリンクセクション（3列） */
+.footer__links {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+/* コピーライトを中央に */
+.footer__bottom {
+  text-align: center;
+  font-size: 0.875rem;
+  color: #ccc;
+}

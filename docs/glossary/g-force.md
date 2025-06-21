@@ -31,7 +31,7 @@ G（ジー）は，重力加速度を基準として物体が受ける加速度�
 
 - [加速度](/docs/glossary/acceleration)
 - [ロケット](/docs/rocket/rocket)
-- [再突入](/docs/explorer/reentry)
+- [再突入](/docs/explorer/technology/reentry)
 - [宇宙飛行士](/docs/glossary/astronaut)
 - [重力](/docs/glossary/gravity)
 

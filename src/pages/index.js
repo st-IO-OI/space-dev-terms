@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import React, { useState } from 'react';
+import PopularTerms from './PopularTerms';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -47,23 +48,9 @@ export default function Home() {
             <li>✅ 宇宙開発に興味のあるすべての人におすすめ</li>
           </ul>
         </section>
-
+        <PopularTerms />
         <section style={{ marginTop: '2rem' }}>
-          <h2>カテゴリで探す</h2>
-          <ul>
-            <li><Link to="/docs/category/rocket">ロケット</Link></li>
-            <li><Link to="/docs/category/satellite">人工衛星</Link></li>
-            <li><Link to="/docs/category/explorer">宇宙探査機</Link></li>
-            <li><Link to="/docs/category/propulsion">推進系</Link></li>
-            <li><Link to="/docs/category/orbit">軌道</Link></li>
-            <li><Link to="/docs/category/control">制御</Link></li>
-            <li><Link to="/docs/category/communication">通信</Link></li>
-            <li><Link to="/docs/category/history">歴史</Link></li>
-          </ul>
-        </section>
-
-        <section style={{ marginTop: '2rem' }}>
-          <h2>🔎 用語を提案したい？</h2>
+          <h2>🔎 用語を提案したい場合は？</h2>
           <p>
             お問い合わせフォームは
             <Link to="/contact">
