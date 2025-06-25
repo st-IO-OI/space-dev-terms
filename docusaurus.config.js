@@ -55,10 +55,10 @@ const config = {
 
   presets: [
     [
-      'classic',
-      ({
+      '@docusaurus/preset-classic',
+      {
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: require.resolve('./sidebars.js'),
           editUrl: undefined,
         },
         blog: {
@@ -70,27 +70,16 @@ const config = {
           },
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
           filename: 'sitemap.xml',
         },
-      }),
+      },
     ],
   ],
-
-  plugins: [
-  [
-    '@docusaurus/plugin-sitemap',
-    {
-      changefreq: 'weekly',
-      priority: 0.5,
-      filename: 'sitemap.xml',
-    },
-  ],
-],
 
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
