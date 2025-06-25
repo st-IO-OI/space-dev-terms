@@ -1,4 +1,1 @@
-User-agent: *
-Allow: /
-
 Sitemap: https://space-dev-terms.pages.dev/sitemap.xml

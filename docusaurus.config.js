@@ -117,7 +117,7 @@ const config = {
         {
           title: '外部リンク',
           items: [
-            { label: 'X', href: 'https://x.com/' },
+            { label: 'X', href: 'https://x.com/SpaceDevTerms' },
             { label: 'Blog', to: '/blog' },
             { label: 'GitHub', href: 'https://github.com/' },
           ],
