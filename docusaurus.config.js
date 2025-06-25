@@ -81,6 +81,17 @@ const config = {
     ],
   ],
 
+  plugins: [
+  [
+    '@docusaurus/plugin-sitemap',
+    {
+      changefreq: 'weekly',
+      priority: 0.5,
+      filename: 'sitemap.xml',
+    },
+  ],
+],
+
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
@@ -131,5 +142,7 @@ const config = {
     },
   },
 };
+
+
 
 export default config;
