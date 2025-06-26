@@ -1,7 +1,7 @@
 ---
 id: space-dev-overview
 title: デザイン・広報・UX
-slug: /docs/navi/space-dev-overview/space-design
+slug: /navi/space-dev-overview/space-design
 description: 宇宙開発における視覚表現、広報、ユーザー体験の重要性と役割について解説。
 ---
 

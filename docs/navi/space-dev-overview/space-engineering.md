@@ -1,7 +1,7 @@
 ---
 id: space-dev-overview
 title: 宇宙工学・機械・推進
-slug: /docs/navi/space-dev-overview/space-engineering
+slug: /navi/space-dev-overview/space-engineering
 description: 宇宙開発の根幹を支えるロケット・人工衛星・探査機などの設計や推進技術について紹介します。
 ---
 

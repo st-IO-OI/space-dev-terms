@@ -1,7 +1,7 @@
 ---
-id: earth-observation
+id: space-dev-overview
 title: 地球観測・気象・環境科学
-slug: /docs/navi/space-dev-overview/earth-observation
+slug: /navi/space-dev-overview/earth-observation
 description: 気象や自然環境の変化を捉える「目」として、宇宙から地球を見守る科学の最前線。
 ---
 
