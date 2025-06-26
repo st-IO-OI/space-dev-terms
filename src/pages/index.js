@@ -16,16 +16,16 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          宇宙開発用語集
+          宇宙開発ポータル
         </Heading>
         <p className="hero__subtitle">
-          宇宙開発を言葉で読み解く。宇宙開発についてもっと知りたい人のためのオンライン用語集。
+          宇宙を志すすべての人たちへ。宇宙開発についてもっと知りたい人のためのポータルサイト。
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/index">
-            ▶ 用語一覧をみる
+            to="/docs/intro">
+            ▶ このページについて
           </Link>
         </div>
       </div>
@@ -42,9 +42,9 @@ export default function Home() {
       <HomepageHeader />
       <main className="container mx-auto px-4 py-12">
         <section className="mb-12">
-          <h1 className="text-4xl font-bold mb-4">宇宙開発用語集へようこそ 🚀</h1>
+          <h1 className="text-4xl font-bold mb-4">宇宙開発ポータルへようこそ 🚀</h1>
           <p className="text-lg leading-relaxed text-gray-700">
-            このサイトは、宇宙工学に関する専門用語をわかりやすく、体系的に解説する用語集です。
+            このサイトは、宇宙開発に関する情報をまとめたポータルサイトです。
             初学者から実務者まで、宇宙分野に関心を持つすべての人に向けて、「学ぶべき内容」と「信頼できる導線」を整理しています。
           </p>
         </section>
@@ -54,6 +54,24 @@ export default function Home() {
             宇宙業界は現在、JAXAやNASAだけでなく、民間や異業種の参入も進んでいます。
             しかし、「何をどう学べばよいか分からない」という障壁が依然として存在します。
             本サイトは、学習と実務の間をつなぐ“知のプラットフォーム”として機能することを目指しています。
+          </p>
+        </section>
+        <section className="mb-12">
+          <h2 className="text-2xl font-semibold mb-4">🌍 サイト内コンテンツ</h2>
+          <p className="text-base text-gray-700 leading-relaxed">
+            <Link to="/docs/navi/intro-to-space-dev">
+              宇宙開発ナビ
+            </Link>
+          </p>
+          <p className="text-base text-gray-700 leading-relaxed">
+            <Link to="/docs/glossary">
+              宇宙開発用語集
+            </Link>
+          </p>
+          <p className="text-base text-gray-700 leading-relaxed">
+            <Link to="/docs/guide/guidebook">
+              宇宙開発ガイドブック
+            </Link>
           </p>
         </section>
         <PopularTerms />

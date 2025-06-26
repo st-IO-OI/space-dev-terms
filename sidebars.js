@@ -145,8 +145,8 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '宇宙開発ガイドブック　　　　　　　もっと宇宙を学びたい人たちへ',
-      link: { type: 'doc', id: 'guide/index' },
+      label: '宇宙開発ガイドブック　　　　　　もっと宇宙を学びたい人たちへ',
+      link: { type: 'doc', id: 'guide/guidebook' },
       collapsed: false,
       items: [
       ],
