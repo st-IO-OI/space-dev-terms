@@ -52,3 +52,16 @@ description: 気象や自然環境の変化を捉える「目」として、宇�
 - [NASA Earth Science Division](https://science.nasa.gov/earth-science)
 - [ひまわり衛星特設サイト（気象庁）](https://www.data.jma.go.jp/mscweb/ja/himawari89/)
 - [GOSATプロジェクト（温室効果ガス観測技術衛星）](https://www.gosat.nies.go.jp/)
+
+---
+
+### 宇宙開発ナビーもっと宇宙開発について知る
+- [これから宇宙を学ぶ人たちへ](/docs/navi/intro-to-space-dev)
+- [宇宙開発の全体像](/docs/navi/space-dev-overview)
+- [宇宙開発に必要なコト](/docs/navi/what-is-needed)
+- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
+- [宇宙開発の基礎知識](/docs/navi/basic-knowledge)
+- [宇宙開発の現場の声](/docs/navi/voice-of-frontline)
+- [宇宙業界で働くには？](/docs/navi/how-to-work)
+
+---

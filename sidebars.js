@@ -143,6 +143,14 @@ const sidebars = {
     }, 
       ],
     },
+    {
+      type: 'category',
+      label: '宇宙開発ガイドブック　　　　　　　もっと宇宙を学びたい人たちへ',
+      link: { type: 'doc', id: 'guide/index' },
+      collapsed: false,
+      items: [
+      ],
+    },
   ],
 };
 

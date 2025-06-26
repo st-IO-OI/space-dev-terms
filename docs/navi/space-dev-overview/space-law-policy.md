@@ -49,3 +49,16 @@ description: 宇宙活動を秩序立てて推進するために不可欠な、�
 - [内閣府 宇宙開発戦略本部](https://www8.cao.go.jp/space/index.html)
 - [UN Office for Outer Space Affairs (UNOOSA)](https://www.unoosa.org/)
 - [Space Law (NASA)](https://www.nasa.gov/offices/ogc/about_space_law/)
+
+---
+
+### 宇宙開発ナビーもっと宇宙開発について知る
+- [これから宇宙を学ぶ人たちへ](/docs/navi/intro-to-space-dev)
+- [宇宙開発の全体像](/docs/navi/space-dev-overview)
+- [宇宙開発に必要なコト](/docs/navi/what-is-needed)
+- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
+- [宇宙開発の基礎知識](/docs/navi/basic-knowledge)
+- [宇宙開発の現場の声](/docs/navi/voice-of-frontline)
+- [宇宙業界で働くには？](/docs/navi/how-to-work)
+
+---

@@ -49,3 +49,16 @@ description: 宇宙環境における人間の生理・心理への影響と、�
 - [NASA Human Research Program](https://www.nasa.gov/hrp)
 - [ESA: Human and Robotic Exploration](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration)
 - [日本宇宙生物科学会](https://www.jsbs.jp/)
+
+---
+
+### 宇宙開発ナビーもっと宇宙開発について知る
+- [これから宇宙を学ぶ人たちへ](/docs/navi/intro-to-space-dev)
+- [宇宙開発の全体像](/docs/navi/space-dev-overview)
+- [宇宙開発に必要なコト](/docs/navi/what-is-needed)
+- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
+- [宇宙開発の基礎知識](/docs/navi/basic-knowledge)
+- [宇宙開発の現場の声](/docs/navi/voice-of-frontline)
+- [宇宙業界で働くには？](/docs/navi/how-to-work)
+
+---

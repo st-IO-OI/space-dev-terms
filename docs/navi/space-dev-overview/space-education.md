@@ -9,7 +9,9 @@ description: 宇宙開発を支える教育・人材育成の重要性とその�
 
 ## 概要  
 
-宇宙開発の持続的な発展には、技術革新だけでなく、それを支える人材の育成が不可欠です。「教育・人材」の領域では、宇宙工学や天文学といった専門分野の教育はもちろんのこと、政策、法制度、ビジネス、デザインといった周辺分野を含む多様な教育機会が求められます。学校教育から社会人研修、国際共同プロジェクトまで、未来の宇宙開発を担う人材を育てる取り組みが世界中で進められています。
+宇宙開発の持続的な発展には、技術革新だけでなく、それを支える人材の育成が不可欠です。
+「教育・人材」の領域では、宇宙工学や天文学といった専門分野の教育はもちろんのこと、政策、法制度、ビジネス、デザインといった周辺分野を含む多様な教育機会が求められます。
+学校教育から社会人研修、国際共同プロジェクトまで、未来の宇宙開発を担う人材を育てる取り組みが世界中で進められています。
 
 ---
 
@@ -40,9 +42,35 @@ description: 宇宙開発を支える教育・人材育成の重要性とその�
 
 ---
 
+---
+
+### 宇宙開発ナビーもっと宇宙開発について知る
+- [これから宇宙を学ぶ人たちへ](/docs/navi/intro-to-space-dev)
+- [宇宙開発の全体像](/docs/navi/space-dev-overview)
+- [宇宙開発に必要なコト](/docs/navi/what-is-needed)
+- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
+- [宇宙開発の基礎知識](/docs/navi/basic-knowledge)
+- [宇宙開発の現場の声](/docs/navi/voice-of-frontline)
+- [宇宙業界で働くには？](/docs/navi/how-to-work)
+
+---
+
 ## 関連リンク・参考資料  
 
 - [JAXA 宇宙教育センター](https://edu.jaxa.jp/)  
 - [UNISEC（大学宇宙工学コンソーシアム）](https://unisec.jp)  
 - [NASA STEM Engagement](https://www.nasa.gov/stem)  
 - [KiboCUBE（UNOOSA）](https://www.unoosa.org/oosa/en/ourwork/psa/hsti/kibocube.html)  
+
+---
+
+### 宇宙開発ナビーもっと宇宙開発について知る
+- [これから宇宙を学ぶ人たちへ](/docs/navi/intro-to-space-dev)
+- [宇宙開発の全体像](/docs/navi/space-dev-overview)
+- [宇宙開発に必要なコト](/docs/navi/what-is-needed)
+- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
+- [宇宙開発の基礎知識](/docs/navi/basic-knowledge)
+- [宇宙開発の現場の声](/docs/navi/voice-of-frontline)
+- [宇宙業界で働くには？](/docs/navi/how-to-work)
+
+---

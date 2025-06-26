@@ -51,3 +51,16 @@ description: 宇宙と地球をつなぐ通信・ネットワーク・光技術�
 - [NASA：Space Communications and Navigation (SCaN)](https://www.nasa.gov/directorates/heo/scan/)
 - [国際電気通信連合（ITU）](https://www.itu.int/)
 - [NICT：衛星通信と未来インフラ](https://www.nict.go.jp/)
+
+---
+
+### 宇宙開発ナビーもっと宇宙開発について知る
+- [これから宇宙を学ぶ人たちへ](/docs/navi/intro-to-space-dev)
+- [宇宙開発の全体像](/docs/navi/space-dev-overview)
+- [宇宙開発に必要なコト](/docs/navi/what-is-needed)
+- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
+- [宇宙開発の基礎知識](/docs/navi/basic-knowledge)
+- [宇宙開発の現場の声](/docs/navi/voice-of-frontline)
+- [宇宙業界で働くには？](/docs/navi/how-to-work)
+
+---
