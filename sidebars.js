@@ -7,6 +7,7 @@ const sidebars = {
       type: 'category',
       label: '宇宙開発ナビ　　　　　　　これから宇宙を学ぶ人たちへ',
       link: { type: 'doc', id: 'navi/intro-to-space-dev' },
+      collapsed: false,
       items: [
         'navi/overview',
         'navi/what-is-needed',
@@ -20,11 +21,14 @@ const sidebars = {
       type: 'category',
       label: '宇宙開発用語集　　　　　　宇宙を学んでいる人たちへ',
       link: { type: 'doc', id: 'glossary' },
+      collapsed: false,
       items: [
     'index',             // docs/intro.md
     {
       type: 'category',
       label: '宇宙開発一般',
+      link: { type: 'doc', id: 'category/glossary' },
+      collapsed: true,
       items: [
         'glossary/space',
         'glossary/gravity',
@@ -44,14 +48,14 @@ const sidebars = {
       type: 'category',
       label: 'ロケット',
       link: { type: 'doc', id: 'rocket/rocket' },
-      collapsed: false,
+      collapsed: true,
       items: [
         'rocket/rocket',
         'rocket/propulsion/rocket-engine',
         {
           type: 'category',
           label: 'ロケットの種類',
-          collapsed: false,
+          collapsed: true,
           items: [
             'rocket/index/h3-rocket',
             'rocket/index/epsilon-rocket',
@@ -60,6 +64,7 @@ const sidebars = {
         {
           type: 'category',
           label: '打ち上げ',
+          collapsed: true,
           items: [
             'rocket/launch/launch',
             'rocket/launch/launch-failure',
@@ -68,6 +73,7 @@ const sidebars = {
         {
           type: 'category',
           label: '推進系',
+          collapsed: true,
           items: [
             'rocket/propulsion/rocket-engine',
           ],
@@ -78,6 +84,8 @@ const sidebars = {
     {
       type: 'category',
       label: '人工衛星',
+      link: { type: 'doc', id: 'category/satellite' },
+      collapsed: true,
       items: [
         'satellite/satellite',
         'satellite/type/earth-observation-sat',
@@ -88,6 +96,8 @@ const sidebars = {
     {
       type: 'category',
       label: '探査機',
+      link: { type: 'doc', id: 'category/explorer' },
+      collapsed: true,
       items: [
         'explorer/space-probe',
         'explorer/mission/hayabusa',
@@ -99,6 +109,8 @@ const sidebars = {
     {
       type: 'category',
       label: '軌道',
+      link: { type: 'doc', id: 'category/orbit' },
+      collapsed: true,
       items: [
         'orbit/orbit',
         'orbit/mechanics/orbital-elements',
@@ -111,6 +123,8 @@ const sidebars = {
     {
       type: 'category',
       label: '制御',
+      link: { type: 'doc', id: 'category/control' },
+      collapsed: true,
       items: [
         'control/technology/attitude-control',
         'control/technology/rendezvous-docking',
@@ -119,6 +133,8 @@ const sidebars = {
     {
       type: 'category',
       label: '通信',
+      link: { type: 'doc', id: 'category/communication' },
+      collapsed: true,
       items: [
         'communication/technology/antenna',
         'communication/technology/communication-delay',
