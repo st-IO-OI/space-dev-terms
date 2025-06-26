@@ -18,7 +18,7 @@ description: 宇宙に関心を持った方々に向けて、学びと発見を�
 最新の宇宙開発や科学トピックをキャッチアップできるニュースサイト。
 
 - [sorae](https://sorae.info/)：宇宙・航空のニュースサイト
-- [宙畑（そらはた）](https://sorabatake.jp/)：宇宙ビジネスニュースと解説
+- [宙畑](https://sorabatake.jp/)：宇宙ビジネスニュースと解説
 - [UchuBiz](https://uchubiz.com)：宇宙ビジネス参入を後押しするメディア
 
 ---
@@ -31,6 +31,7 @@ description: 宇宙に関心を持った方々に向けて、学びと発見を�
 - [ISAS（宇宙科学研究所）教育ページ](https://www.isas.jaxa.jp/education/)
 - [NASA STEM Engagement（英語）](https://www.nasa.gov/stem)
 - [Spacelink（英語：教育者向け情報）](https://www.spacelink.org/)
+- [天文学辞典](https://astro-dic.jp)
 
 ---
 
@@ -42,6 +43,8 @@ description: 宇宙に関心を持った方々に向けて、学びと発見を�
 - [NASA公式](https://www.nasa.gov/)
 - [ESA（欧州宇宙機関）](https://www.esa.int/)
 - [UNOOSA（国連宇宙空間部）](https://www.unoosa.org/)
+- [JAXA有人：専門用語集](https://humans-in-space.jaxa.jp/glossary/)
+- [宇宙キッズ（宇宙科学研究所）](https://www.kids.isas.jaxa.jp)
 
 ---
 
