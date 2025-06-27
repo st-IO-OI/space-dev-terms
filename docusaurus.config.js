@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: '宇宙開発ポータル',
   tagline: '宇宙開発のすべてを、信頼と体系でつなぐ',
-  url: 'https://space-dev-terms.pages.dev',
+  url: 'https://space-portal.org',
   baseUrl: '/',
   organizationName: 'st-IO-OI',
   projectName: 'space-dev-terms',
