@@ -1,1 +1,1 @@
-Sitemap: https://space-portal.org/sitemap.xml
+Sitemap: https://www.space-portal.org/sitemap.xml

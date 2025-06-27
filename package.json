@@ -2,7 +2,7 @@
   "name": "space-dev-terms",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://space-dev-terms.pages.devs",
+  "homepage": "https://www.space-portal.orgs",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
