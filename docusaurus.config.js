@@ -18,6 +18,14 @@ const config = {
     locales: ['ja'],
   },
 
+  scripts: [
+    {
+      async: true,
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7292239445705334',
+      crossorigin: 'anonymous',
+    },
+  ],
+
   // ✅ SEO・検索用の meta タグ
   headTags: [
     {
@@ -39,14 +47,6 @@ const config = {
       attributes: {
         name: 'keywords',
         content: '宇宙,宇宙開発,ロケット,人工衛星,探査機,宇宙用語,宇宙辞典',
-      },
-    },
-    {
-      tagName: 'script',
-      attributes: {
-        async: true,
-        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7292239445705334',
-        crossorigin: "anonymous", 
       },
     },
   ],
