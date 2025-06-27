@@ -42,14 +42,13 @@ const config = {
       },
     },
     {
-    tagName: 'script',
-    attributes: {
-      async: 'true',
-      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
-      'data-ad-client': 'ca-pub-7292239445705334',
-      crossorigin: "anonymous", 
+      tagName: 'script',
+      attributes: {
+        async: true,
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client-7292239445705334',
+        crossorigin: "anonymous", 
+      },
     },
-  },
   ],
 
   // ✅ OGP用のsocial image
