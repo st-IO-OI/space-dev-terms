@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: '宇宙開発ポータル',
   tagline: '宇宙開発のすべてを、信頼と体系でつなぐ',
-  url: 'https://space-portal.org',
+  url: 'https://www.space-portal.org',
   baseUrl: '/',
   organizationName: 'st-IO-OI',
   projectName: 'space-dev-terms',
@@ -47,6 +47,7 @@ const config = {
       async: 'true',
       src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
       'data-ad-client': 'ca-pub-7292239445705334',
+      crossorigin: "anonymous", 
     },
   },
   ],
