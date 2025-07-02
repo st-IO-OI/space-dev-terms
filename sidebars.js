@@ -31,9 +31,15 @@ const sidebars = {
       collapsed: true,
       items: [
         'glossary/space',
-        'glossary/gravity',
         'glossary/atmosphere',
+        'glossary/vacuum',
+        'glossary/thermal-control',
+        'glossary/radiative-cooling',
+        'glossary/gravity',
+        'glossary/g-force',
+        'glossary/acceleration',
         'glossary/astronaut',
+        'glossary/docking',
         {
           type: 'category',
           label: '歴史',
@@ -51,10 +57,31 @@ const sidebars = {
       collapsed: true,
       items: [
         'rocket/rocket',
-        'rocket/propulsion/rocket-engine',
+        {
+          type: 'category',
+          label: 'ロケットのシステム',
+          collapsed: true,
+          items: [
+            'rocket/system/fairing',
+            'rocket/system/payload',
+            'rocket/system/staging',
+          ],
+        },
         {
           type: 'category',
           label: 'ロケットの種類',
+          collapsed: true,
+          items: [
+            'rocket/type/liquid-rocket',
+            'rocket/type/solid-rocket',
+            'rocket/type/reusable-rocket',
+            'rocket/type/space-elevator',
+            'rocket/type/spaceport',
+          ],
+        },
+        {
+          type: 'category',
+          label: '実際のロケット一覧',
           collapsed: true,
           items: [
             'rocket/index/h3-rocket',
@@ -68,14 +95,44 @@ const sidebars = {
           items: [
             'rocket/launch/launch',
             'rocket/launch/launch-failure',
+            'rocket/launch/launch-window',
+            'rocket/launch/launch-capacity',
           ],
         },
         {
           type: 'category',
           label: '推進系',
           collapsed: true,
+          link: { type: 'doc', id: 'rocket/propulsion/rocket-engine' },
           items: [
-            'rocket/propulsion/rocket-engine',
+            {
+              type: 'category',
+              label: '推進システム',
+              collapsed: true,
+              items: [
+                'rocket/propulsion/system/combustion-chamber',
+                'rocket/propulsion/system/isp',
+                'rocket/propulsion/system/laval-nozzle',
+                'rocket/propulsion/system/mass-ratio',
+                'rocket/propulsion/system/nozzle',
+                'rocket/propulsion/system/propellant',
+                'rocket/propulsion/system/propulsion',
+                'rocket/propulsion/system/rocket-equation',
+                'rocket/propulsion/system/thrust',
+                'rocket/propulsion/system/thruster',
+              ],
+            },
+            {
+              type: 'category',
+              label: '推進系の種類',
+              collapsed: true,
+              items: [
+                'rocket/propulsion/type/chemical-propulsion',
+                'rocket/propulsion/type/ion-propulsion',
+                'rocket/propulsion/type/electric-propulsion',
+                'rocket/propulsion/type/liquid-engine',
+              ],
+            },
           ],
         },
 
