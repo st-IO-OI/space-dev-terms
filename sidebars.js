@@ -12,7 +12,7 @@ const sidebars = {
         {
           type: 'category',
           label: '宇宙開発の全体像',
-          link: { type: 'doc', id: 'navi/overview' },
+          link: { type: 'doc', id: 'navi/space-dev-overview' },
           collapsed: true,
           items: [
             'navi/space-dev-overview/space-engineering',
