@@ -55,7 +55,7 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [加速度とは？](/docs/glossary/accelaration)  
+- [加速度とは？](/docs/glossary/acceleration)  
 - [軌道要素は？](/docs/orbit/mechanics/orbital-elements)  
 - [ラグランジュ点とは？](/docs/orbit/mechanics/lagrange-point)
 - [ロケットとは？](/docs/rocket/rocket)  
