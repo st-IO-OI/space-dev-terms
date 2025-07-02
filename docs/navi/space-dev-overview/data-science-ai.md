@@ -1,5 +1,5 @@
 ---
-id: space-dev-overview
+category: navi
 title: データサイエンス・AI
 slug: /navi/space-dev-overview/data-science-ai
 description: 宇宙開発におけるデータ解析と人工知能の活用。観測データから未来の宇宙を読み解く。

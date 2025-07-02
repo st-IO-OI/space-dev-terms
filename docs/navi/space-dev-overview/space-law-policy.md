@@ -1,5 +1,5 @@
 ---
-id: space-law-policy
+category: navi
 title: 法律・政策・安全保障
 slug: /navi/space-dev-overview/space-law-policy
 description: 宇宙活動を秩序立てて推進するために不可欠な、法制度・政策立案・安全保障の枠組みを解説。

@@ -1,5 +1,5 @@
 ---
-id: space-dev-overview
+category: navi
 title: ビジネス・起業・資金調達
 slug: /navi/space-dev-overview/space-business
 description: 宇宙ビジネスの仕組みとその発展を支える資金調達、起業の流れ、業界構造などを解説。

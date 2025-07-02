@@ -1,5 +1,5 @@
 ---
-id: space-dev-overview
+category: navi
 title: 情報・制御・ソフトウェア
 slug: /navi/space-dev-overview/control-software
 description: 宇宙機の動作を制御し、地上との通信や自律的判断を支える情報処理とソフトウェア技術の世界。
