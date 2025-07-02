@@ -2,7 +2,24 @@
 title: 重力とは？
 slug: /glossary/gravity
 category: glossary
+description: 重力とは、質量を持つ物体同士が互いに引き合う力であり、宇宙空間における運動や軌道形成の基本原理である。
 ---
+
+import Head from '@docusaurus/Head';
+
+<Head>
+  <script type="application/ld+json">
+    {`{
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "重力",
+      "inDefinedTermSet": "https://www.space-portal.org",
+      "termCode": "glossary/gravity",
+      "description": "重力とは、質量を持つ物体同士が互いに引き合う力であり、宇宙空間における運動や軌道形成の基本原理である。",
+      "url": "https://www.space-portal.org/docs/glossary/gravity"
+    }`}
+  </script>
+</Head>
 
 # 重力とは？
 
@@ -13,14 +30,39 @@ category: glossary
 
 ## 概要
 
-準備中
+重力とは、質量を持つ物体同士が互いに引き合う力であり、宇宙空間における運動や軌道形成の基本原理である。
 
 ---
 
 ## 詳細
 
-準備中
+重力は、質量を持つ物体同士が互いに引き合う自然の力です。
+かの有名なニュートンが発見した万有引力の法則に基づいています。
+地球上では物体を地面に引きつける力として感じられますが、宇宙空間では天体の運動や軌道の形状について考える際に重要な役割を果たすことになります。
+
+人工衛星などの宇宙機は地球の重力を振り切るために高い速度で打ち上げられます。
+そして、軌道上では重力と遠心力のバランスによって安定した運動を続けます。
+そのバランスを考えるのが、軌道設計であるといえるでしょう。
+実際の軌道設計では、重力の影響を細かく考慮したり、他の力の影響も考えたりする必要がありますが、
+軌道設計について最も簡単に説明するなら「重力と遠心力のバランスの取り方を考える」と言うのがわかりやすいと思います。
+
+そして、実際に重力と遠心力のバランスをうまく取ることができるようになると、見かけ上の重力が存在しない「無重力状態」を作り出すことができます。
+実際、国際宇宙ステーションでは無重力状態が実現されています。宇宙飛行士がぷかぷか浮いている姿を見たことがある人は多いでしょう。
+国際宇宙ステーションでは、微小重力環境を生かした実験が数多く行われています。
+様々な科学研究が可能となることで、地上では成し得なかった数多くの発見がなされています。
 
 ---
 
 ## 関連用語・トピック
+
+- [加速度とは？](/docs/glossary/accelaration)  
+- [軌道要素は？](/docs/orbit/mechanics/orbital-elements)  
+- [ラグランジュ点とは？](/docs/orbit/mechanics/lagrange-point)
+- [ロケットとは？](/docs/rocket/rocket)  
+
+### 他カテゴリの用語を見てみる
+
+- [推進系の用語一覧](/docs/category/propulsion)
+- [人工衛星の関連用語一覧](/docs/category/satellite)
+- [宇宙開発史の用語一覧](/docs/category/history)
+- [宇宙開発の用語一覧](/docs/category/glossary)
