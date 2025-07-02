@@ -128,8 +128,8 @@ const sidebars = {
               collapsed: true,
               items: [
                 'rocket/propulsion/type/chemical-propulsion',
-                'rocket/propulsion/type/ion-propulsion',
                 'rocket/propulsion/type/electric-propulsion',
+                'rocket/propulsion/type/ion-engine',
                 'rocket/propulsion/type/liquid-engine',
               ],
             },
@@ -145,9 +145,25 @@ const sidebars = {
       collapsed: true,
       items: [
         'satellite/satellite',
-        'satellite/type/earth-observation-sat',
-        'satellite/type/space-station',
-        'satellite/type/cubesat',
+        {
+          type: 'category',
+          label: '人工衛星の種類',
+          collapsed: true,
+          items: [
+            'satellite/type/earth-observation-sat',
+            'satellite/type/space-station',
+            'satellite/type/cubesat',
+          ],
+        },
+        {
+          type: 'category',
+          label: '実際の人工衛星一覧',
+          collapsed: true,
+          items: [
+            'satellite/index/himawari',
+            'satellite/index/iss',
+          ],
+        },
       ],
     },
     {
