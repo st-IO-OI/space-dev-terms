@@ -18,6 +18,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+
 body {
   background-color: #f5f5f5;
 }
@@ -34,6 +35,19 @@ body {
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.index-hero {
+  background-image: url('/img/space-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
 
 /* 広告ボックス共通スタイル */
 .ad-banner-mobile,

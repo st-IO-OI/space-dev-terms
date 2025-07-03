@@ -4,7 +4,7 @@
  */
 
 .heroBanner {
-  background-image: url('/static/img/space-bg.jpg');
+  background-image: url('/img/space-bg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
