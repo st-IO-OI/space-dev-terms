@@ -2,6 +2,7 @@
 
 import React from 'react';
 import TOC from '@theme/TOC';
+import DocItemContent from '@theme/DocItem/Content'; // 追加
 import AdBanner from '@site/src/components/AdsenseBanner';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 
@@ -12,7 +13,10 @@ export default function DocItemLayout({ children, frontMatter = {}, toc }) {
   return (
     <div className="row">
       <div className="col col--9">
-        {children}
+        {/* ここで DocItemContent がタイトル表示などの責任を担う */}
+        <DocItemContent>
+          {children}
+        </DocItemContent>
         {/* モバイル末尾広告 */}
         <div className="ad-banner-mobile">
             <AdBanner type={adType} />
