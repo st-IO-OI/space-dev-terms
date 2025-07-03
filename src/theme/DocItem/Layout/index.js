@@ -7,7 +7,7 @@ import AdBanner from '@site/src/components/AdsenseBanner';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 import { useDoc } from '@docusaurus/theme-common/internal';
 
-export default function DocItemLayout({ children, frontMatter = {}, toc }) {
+export default function DocItemLayout({ children, toc }) {
   const isBrowser = useIsBrowser();
   const { frontMatter } = useDoc();
   const adType = frontMatter.ads ?? 'default';
