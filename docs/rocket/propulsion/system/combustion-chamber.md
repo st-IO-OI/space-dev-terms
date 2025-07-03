@@ -2,7 +2,7 @@
 title: 燃焼室とは？
 slug: /rocket/propulsion/system/combustion-chamber
 category: propulsion
-dectioption: 燃料と酸化剤を混合・燃焼させ、高温高圧のガスを発生させるロケットエンジンの主要部である燃焼室の意味・定義・内容について解説します。  
+description: 燃料と酸化剤を混合・燃焼させ、高温高圧のガスを発生させるロケットエンジンの主要部である燃焼室の意味・定義・内容について解説します。  
 ---
 
 # 燃焼室とは？

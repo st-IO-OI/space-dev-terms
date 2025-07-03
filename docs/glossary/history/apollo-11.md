@@ -2,6 +2,7 @@
 title: アポロ11号
 slug: /glossary/history/apollo-11
 category: history
+description: apollo
 ---
 
 # アポロ11号

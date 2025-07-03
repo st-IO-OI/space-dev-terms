@@ -2,6 +2,7 @@
 title: ドッキング
 slug: /glossary/docking
 category: glossary
+description: ドッキングとは、宇宙空間で複数の宇宙機を物理的に接続する操作であり、乗員や物資の移動、機能の統合を可能にする技術である。
 ---
 
 import Head from '@docusaurus/Head';

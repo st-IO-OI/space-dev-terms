@@ -2,6 +2,7 @@
 title: 打ち上げウインドウ
 slug: /rocket/launch/launch-window
 category: rocket
+description: 打ち上げウインドウとは、ロケットが目標軌道や天体に到達するために最適な時間帯を指す打ち上げ可能期間のことである。
 ---
 
 import Head from '@docusaurus/Head';

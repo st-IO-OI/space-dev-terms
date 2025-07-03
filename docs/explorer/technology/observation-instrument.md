@@ -2,6 +2,7 @@
 title: 観測装置
 slug: /explorer/technology/observation-instrument
 category: explorer
+description: 観測装置とは、宇宙探査機に搭載されるセンサーや測定機器であり、天体や環境の物理的・化学的情報を取得するために用いられる。
 ---
 
 import Head from '@docusaurus/Head';

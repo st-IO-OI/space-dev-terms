@@ -2,7 +2,7 @@
 title: S-バンドとは？
 slug: /communication/technology/s-band
 category: communication
-dectioption: 宇宙通信に広く用いられている約2～4GHzの周波数帯域のことであるS-バンドの意味・定義・内容について解説します。  
+description: 宇宙通信に広く用いられている約2～4GHzの周波数帯域のことであるS-バンドの意味・定義・内容について解説します。  
 ---
 
 # S-バンドとは？

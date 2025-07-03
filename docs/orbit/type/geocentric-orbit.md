@@ -2,7 +2,7 @@
 title: 地球周回軌道
 slug: /orbit/type/geocentric-orbit
 category: orbit
-dectioption: 低軌道や静止軌道などといった地球の周囲を回る軌道の総称である地球周回軌道の意味・定義・内容について解説します．
+description: 低軌道や静止軌道などといった地球の周囲を回る軌道の総称である地球周回軌道の意味・定義・内容について解説します．
 ---
 
 # 地球周回軌道

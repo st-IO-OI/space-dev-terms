@@ -2,7 +2,7 @@
 title: コマンドとは？
 slug: /communication/system/command
 category: communication
-dectioption: 地上から宇宙機に対して送信される操作指令のことであるコマンドの意味・定義・内容について解説します。  
+description: 地上から宇宙機に対して送信される操作指令のことであるコマンドの意味・定義・内容について解説します。  
 ---
 
 # コマンドとは？

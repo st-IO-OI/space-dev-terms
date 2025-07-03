@@ -2,6 +2,7 @@
 title: スラスター
 slug: /rocket/propulsion/system/thruster
 category: propulsion
+description: スラスターとは、宇宙機の姿勢制御や微小な軌道変更に用いられる小型の推進装置である。
 ---
 
 import Head from '@docusaurus/Head';

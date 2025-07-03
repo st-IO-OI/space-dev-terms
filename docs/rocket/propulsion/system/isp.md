@@ -2,6 +2,7 @@
 title: 比推力
 slug: /rocket/propulsion/system/isp
 category: propulsion
+description: 比推力とは、推進剤1kgあたりに得られる推力の効率を示す指標であり、ロケットエンジンの性能評価に用いられる。
 ---
 
 import Head from '@docusaurus/Head';

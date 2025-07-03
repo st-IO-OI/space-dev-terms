@@ -2,6 +2,7 @@
 title: 放射冷却
 slug: /glossary/radiative-cooling
 category: glossary
+description: 放射冷却とは、物体が赤外線などの電磁波を放出することで熱を失い、温度が低下する自然現象である。
 ---
 
 import Head from '@docusaurus/Head';

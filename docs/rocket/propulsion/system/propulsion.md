@@ -2,7 +2,7 @@
 title: 推進力
 slug: /rocket/propulsion/system/propulsion
 category: propulsion
-dectioption: ロケットや宇宙機を前進させるために必要な力のことである推進力の意味・定義・内容について解説します。  
+description: ロケットや宇宙機を前進させるために必要な力のことである推進力の意味・定義・内容について解説します。  
 ---
 
 # 推進力

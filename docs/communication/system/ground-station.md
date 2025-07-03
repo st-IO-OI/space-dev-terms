@@ -2,7 +2,7 @@
 title: 地上局とは？
 slug: /communication/system/ground-station
 category: communication
-dectioption: 宇宙機との間で電波を用いた通信を行うための地上設備のことである地上局の意味・定義・内容について解説します。  
+description: 宇宙機との間で電波を用いた通信を行うための地上設備のことである地上局の意味・定義・内容について解説します。  
 ---
 
 # 地上局とは？

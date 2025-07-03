@@ -2,7 +2,7 @@
 title: 脱出速度
 slug: /orbit/mechanics/escape-velocity
 category: orbit
-dectioption: 天体の重力圏から抜け出すために必要な最小速度のことである脱出速度の意味・定義・内容について解説します。  
+description: 天体の重力圏から抜け出すために必要な最小速度のことである脱出速度の意味・定義・内容について解説します。  
 ---
 
 # 脱出速度

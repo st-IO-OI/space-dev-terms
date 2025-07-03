@@ -2,6 +2,7 @@
 title: 極軌道
 slug: /orbit/type/polar-orbit
 category: orbit
+description: 極軌道とは、人工衛星が地球の南北を通過するように周回する軌道であり、地球全体の観測に適している。
 ---
 
 import Head from '@docusaurus/Head';

@@ -2,6 +2,7 @@
 title: ロケット方程式とは？
 slug: /rocket/propulsion/system/rocket-equation
 category: propulsion
+description: ロケット方程式とは、推進剤の質量変化に伴う速度変化を記述する式であり、宇宙機の運動を理解するための基本原理である。
 ---
 
 import Head from '@docusaurus/Head';

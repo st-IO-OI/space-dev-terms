@@ -2,7 +2,7 @@
 title: テレメトリとは？
 slug: /communication/system/telemetry
 category: communication
-dectioption: 遠隔地にある機器の状態や計測データを送信する技術のことであるテレメトリの意味・定義・内容について解説します．
+description: 遠隔地にある機器の状態や計測データを送信する技術のことであるテレメトリの意味・定義・内容について解説します．
 ---
 
 # テレメトリとは？

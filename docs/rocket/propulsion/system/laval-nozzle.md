@@ -2,6 +2,7 @@
 title: ラバールノズル
 slug: /rocket/propulsion/system/laval-nozzle
 category: propulsion
+description: ラバールノズルとは、燃焼ガスを加速して超音速にするための形状を持つノズルであり、ロケットエンジンに広く用いられる。
 ---
 
 import Head from '@docusaurus/Head';

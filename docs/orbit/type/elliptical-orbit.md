@@ -2,7 +2,7 @@
 title: 楕円軌道
 slug: /orbit/type/elliptical-orbit
 category: orbit
-dectioption: 軌道上の物体が地球を中心に楕円形の軌道を描きながら運動する軌道である楕円軌道の意味・定義・内容について解説します．
+description: 軌道上の物体が地球を中心に楕円形の軌道を描きながら運動する軌道である楕円軌道の意味・定義・内容について解説します．
 ---
 
 # 楕円軌道

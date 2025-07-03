@@ -2,7 +2,7 @@
 title: 離心率
 slug: /orbit/mechanics/eccentricity
 category: orbit
-dectioption: 軌道の形状を表す値のことである離心率の意味・定義・内容について解説します。  
+description: 軌道の形状を表す値のことである離心率の意味・定義・内容について解説します。  
 ---
 
 # 離心率

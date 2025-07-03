@@ -2,6 +2,7 @@
 title: H3ロケット
 slug: /rocket/index/h3-rocket
 category: rocket
+description: H3ロケットとは、日本のJAXAと三菱重工が共同開発した次世代の大型液体燃料ロケットであり、商業打ち上げ市場への対応を目的としている。
 ---
 
 import Head from '@docusaurus/Head';
