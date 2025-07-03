@@ -35,6 +35,44 @@ body {
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* 広告ボックス共通スタイル */
+.ad-banner-mobile,
+.ad-banner-desktop {
+  margin: 2rem 0;
+}
+
+/* モバイル: ページ末尾表示 */
+@media (max-width: 996px) {
+  .ad-banner-desktop {
+    display: none;
+  }
+
+  .ad-banner-mobile {
+    display: block;
+  }
+}
+
+/* デスクトップ: 右サイド固定 */
+@media (min-width: 997px) {
+  .ad-banner-mobile {
+    display: none;
+  }
+
+  .ad-banner-desktop {
+    position: fixed;
+    top: 120px;
+    right: 1.5rem;
+    width: 300px;
+    z-index: 1000;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  }
+}
+
+
 /* フッター全体の中央寄せと整形 */
 .footer {
   background-color: #1a1a1a; /* darkモード用に適宜調整 */

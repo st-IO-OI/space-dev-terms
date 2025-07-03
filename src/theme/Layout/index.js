@@ -2,18 +2,28 @@
 
 import React from 'react';
 import Layout from '@theme-original/Layout';
-import AdBanner from '../../components/AdsenseBanner'; // 広告コンポーネント
+import AdBanner from '../../components/AdsenseBanner';
+import useIsBrowser from '@docusaurus/useIsBrowser';
 
 export default function LayoutWrapper(props) {
+  const isBrowser = useIsBrowser();
+
   return (
     <Layout {...props}>
-      <div style={{ margin: '2rem 0' }}>
-        <AdBanner />
-      </div>
+      {/* メインコンテンツ */}
       {props.children}
-      <div style={{ margin: '2rem 0' }}>
+
+      {/* モバイル向け: ページ下部に自然に挿入 */}
+      <div className="ad-banner-mobile">
         <AdBanner />
       </div>
+
+      {/* デスクトップ向け: 右固定配置 */}
+      {isBrowser && (
+        <div className="ad-banner-desktop">
+          <AdBanner />
+        </div>
+      )}
     </Layout>
   );
 }
