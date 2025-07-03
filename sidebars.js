@@ -177,7 +177,7 @@ const sidebars = {
                   'satellite/type/cubesat',
                   'satellite/type/weather-sat',
                   'satellite/type/geostationary-sat',
-                  'satellite/type/communication-sat',
+                  'satellite/type/communication-satellite',
                   'satellite/type/space-debris',
                 ],
               },
