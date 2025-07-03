@@ -6,7 +6,7 @@ import DocItemContent from '@theme/DocItem/Content'; // 追加
 import AdBanner from '@site/src/components/AdsenseBanner';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 
-export default function DocItemLayout({ children, toc , frontMatter}) {
+export default function DocItemLayout({ children, frontMatter = {}, toc }) {
   const isBrowser = useIsBrowser();
   const adType = frontMatter.ads ?? 'default';
 
