@@ -1,3 +1,4 @@
+<!-- truncate -->
 ---
 slug: welcome
 title: Welcome

@@ -4,10 +4,11 @@ import React from 'react';
 import TOC from '@theme/TOC';
 import AdBanner from '@site/src/components/AdsenseBanner';
 import useIsBrowser from '@docusaurus/useIsBrowser';
+import Head from '@docusaurus/Head';
 
-export default function DocItemLayout({ children, frontMatter, toc }) {
+export default function DocItemLayout({ children, frontMatter = {}, toc }) {
   const isBrowser = useIsBrowser();
-  const adType = frontMatter.ads || 'default';
+  const adType = frontMatter.ads ?? 'default';
 
   return (
     <div className="row">
@@ -15,15 +16,15 @@ export default function DocItemLayout({ children, frontMatter, toc }) {
         {children}
         {/* モバイル末尾広告 */}
         <div className="ad-banner-mobile">
-            <AdBanner type={frontMatter.ads || 'default'} />
+            <AdBanner type={adType} />
         </div>
       </div>
       <div className="col col--3">
-        <TOC toc={toc} />
+        {toc && <TOC toc={toc} />}
         {/* デスクトップ右広告 */}
         {isBrowser && (
           <div className="ad-banner-desktop">
-            <AdBanner type={frontMatter.ads || 'default'} />
+            <AdBanner type={adType} />
           </div>
         )}
       </div>

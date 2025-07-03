@@ -1,3 +1,4 @@
+<!-- truncate -->
 ---
 title: 2025年7月3日の更新
 authors: []

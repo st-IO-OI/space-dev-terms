@@ -1,6 +1,6 @@
 ---
 title: 衛星バス・構体とは？
-slug: /satellite/system/satellite-bus
+slug: /satellite/system/remote-sensing
 category: satellite
 dectioption: 人工衛星の基本構造や共通機能を持つ部分のことである衛星バス・構体の意味・定義・内容について解説します。  
 ---

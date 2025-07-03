@@ -15,13 +15,13 @@ export default function LayoutWrapper(props) {
 
       {/* モバイル向け: ページ下部に自然に挿入 */}
       <div className="ad-banner-mobile">
-        <AdBanner />
+        <AdBanner type="default"/>
       </div>
 
       {/* デスクトップ向け: 右固定配置 */}
       {isBrowser && (
         <div className="ad-banner-desktop">
-          <AdBanner />
+          <AdBanner type="default"/>
         </div>
       )}
     </Layout>

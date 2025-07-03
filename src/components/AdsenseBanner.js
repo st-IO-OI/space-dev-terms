@@ -1,13 +1,21 @@
 import { useEffect } from 'react';
+import useIsBrowser from '@docusaurus/useIsBrowser';
 
 export default function AdBanner({ type = 'default' }) {
+  const isBrowser = useIsBrowser();
+
   useEffect(() => {
+    if (!isBrowser) return;
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
     } catch (e) {
       console.error("Adsense error:", e);
     }
-  }, []);
+  }, [isBrowser]);
+
+  if (!isBrowser) {
+    return null; // SSR中は広告非表示にして安全化
+  }
 
   if (type === 'hayabusa2') {
     return (
@@ -111,13 +119,7 @@ export default function AdBanner({ type = 'default' }) {
         </table>
       </div>
     );
-  } else if (type === 'satellite') {
-    return (
-      <a href="https://satellite-affiliate.example.com">
-        <img src="/img/satellite-ad.jpg" alt="衛星広告" />
-      </a>
-    );
-  }
+  }// else if (type === 'satellite') { return ();} // このようにして条件分岐をつなげていく
 
   return (
     <ins
