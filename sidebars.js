@@ -73,7 +73,7 @@ const sidebars = {
           {
             type: 'category',
             label: 'ロケット',
-            link: { type: 'doc', id: 'rocket/rocket' },
+            link: { type: 'doc', id: 'category/rocket' },
             collapsed: true,
             items: [
               'rocket/rocket',
@@ -123,8 +123,9 @@ const sidebars = {
                 type: 'category',
                 label: '推進系',
                 collapsed: true,
-                link: { type: 'doc', id: 'rocket/propulsion/rocket-engine' },
+                link: { type: 'doc', id: 'category/propulsion' },
                 items: [
+                  "rocket/propulsion/rocket-engine",
                   {
                     type: 'category',
                     label: '推進システム',
