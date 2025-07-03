@@ -175,6 +175,10 @@ const sidebars = {
                   'satellite/type/earth-observation-sat',
                   'satellite/type/space-station',
                   'satellite/type/cubesat',
+                  'satellite/type/weather-sat',
+                  'satellite/type/geostationary-sat',
+                  'satellite/type/communication-sat',
+                  'satellite/type/space-debris',
                 ],
               },
               {
