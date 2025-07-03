@@ -4,7 +4,6 @@ import React from 'react';
 import TOC from '@theme/TOC';
 import AdBanner from '@site/src/components/AdsenseBanner';
 import useIsBrowser from '@docusaurus/useIsBrowser';
-import Head from '@docusaurus/Head';
 
 export default function DocItemLayout({ children, frontMatter = {}, toc }) {
   const isBrowser = useIsBrowser();
