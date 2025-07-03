@@ -3,7 +3,7 @@ import useIsBrowser from '@docusaurus/useIsBrowser';
 
 export default function AdBanner({ type = 'default' }) {
   const isBrowser = useIsBrowser();
-
+  
   useEffect(() => {
     if (!isBrowser) return;
     try {

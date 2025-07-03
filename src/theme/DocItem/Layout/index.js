@@ -5,13 +5,12 @@ import TOC from '@theme/TOC';
 import DocItemContent from '@theme/DocItem/Content'; // 追加
 import AdBanner from '@site/src/components/AdsenseBanner';
 import useIsBrowser from '@docusaurus/useIsBrowser';
-import { useDoc } from '@docusaurus/theme-common';
 
 export default function DocItemLayout({ children, toc }) {
   const isBrowser = useIsBrowser();
-  const { frontMatter } = useDoc();
+  const frontMatter = children?.type?.frontMatter || {};
   const adType = frontMatter.ads ?? 'default';
-  console.log("📦 adType:", adType);
+  // console.log("adType from children.props:", adType);
 
   return (
     <div className="row">
