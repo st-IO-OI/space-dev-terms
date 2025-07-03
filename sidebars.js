@@ -223,7 +223,7 @@ const sidebars = {
                   'explorer/technology/heat-shield',
                   'explorer/technology/hovering',
                   'explorer/technology/lander',
-                  'explorer/technology/payload-instrument',
+                  'explorer/technology/observation-instrument',
                 ],
               },
               {
