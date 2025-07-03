@@ -41,7 +41,7 @@ const sidebars = {
       link: { type: 'doc', id: 'glossary' },
       collapsed: false,
       items: [
-          'glossary-index',
+          'index',
         // 一般用語
           {
             type: 'category',
