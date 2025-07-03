@@ -60,7 +60,7 @@ body {
 
   .ad-banner-desktop {
     position: fixed;
-    top: 500px;
+    top: 350px;
     right: 1.5rem;
     width: 300px;
     z-index: 1000;
