@@ -4,30 +4,60 @@ slug: /satellite/type/communication-satellite
 category: satellite
 ---
 
+import Head from '@docusaurus/Head';
+
+<Head>
+  <script type="application/ld+json">
+    {`{
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "通信衛星",
+      "inDefinedTermSet": "https://www.space-portal.org",
+      "termCode": "satellite/type/communication-satellite",
+      "description": "通信衛星とは、音声、映像、データなどの情報を地球上の遠隔地間で中継・伝送するために用いられる人工衛星である。",
+      "url": "https://www.space-portal.org/docs/satellite/type/communication-satellite"
+    }`}
+  </script>
+</Head>
+
 # 通信衛星
 
-**よみがな：** つうしんえいせい  
-**英語：** Communications Satellite  
+- **よみがな：** つうしんえいせい  
+- **英語名：** Communication Satellite  
 
 ---
 
 ## 概要
 
-準備中
+通信衛星とは、音声、映像、データなどの情報を地球上の遠隔地間で中継・伝送するために用いられる人工衛星である。
 
 ---
 
 ## 詳細
 
-準備中
+通信衛星は、地球上の離れた地点間で情報を送受信するために設計された人工衛星です。  
+通信衛星によって実現される通信方式は、テレビ放送、電話、インターネットなどに活用され、現代の通信インフラを支えています。  
+具体的には、国際通信、災害時の緊急通信、航空機や船舶の通信、遠隔教育、遠隔医療など、社会のあらゆる分野に貢献しています。 
+
+衛星を用いた通信の大きな利点としては、地上の通信網が届かない地域でも安定した通信を提供できる点が挙げられます。  
+これは、衛星が地球の広範囲を直接カバーできる軌道上に配置されることによって、地上インフラに依存せずに通信信号を送受信できるためです。  
+海上や山岳地帯などの遠隔地でも安定した通信環境を確保できるため、救助活動などにおいても重要な役割を果たします。
+
+また、この利点は災害時や緊急事態などにおいて地上インフラが損傷した時にも大きな意味を持つことになります。  
+衛星通信があることによって、送受信をする設備さえあれば迅速な情報伝達が可能になるのです。
+
+衛星通信を実現するにあたっては、高利得アンテナ、周波数帯の選定、ビーム制御、電力供給、耐放射線設計などといった技術が重要となります。
+このような工夫により、通信の安定性と容量が確保されるのです。  
+
+近年では、低軌道通信衛星（LEO）による高速・低遅延通信網の構築が進んでいます。  
+特に、SpaceX社によって打ち上げられている衛星群を用いたStarlinkと呼ばれるプロジェクトは大きな注目を集めています。  
+
 
 ---
 
-## 関連用語
+## 関連用語・トピック
 
-- ペイロード（Payload）
-- ステージ分離（Staging）
-- 再使用型ロケット（Reusable Rocket）
-- 推力（Thrust）
-- 燃焼室（Combustion Chamber）
-
+- [静止衛星とは？](/docs/satellite/type/geostationary-sat)  
+- [低軌道とは？](/docs/orbit/type/low-orbit)  
+- [低軌道衛星とは？](/docs/satellite/type/low-orbit-sat)  
+- [アンテナとは？](/docs/communication/technology)  

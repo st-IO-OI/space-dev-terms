@@ -4,6 +4,22 @@ slug: /control/technology/attitude-control
 category: control
 ---
 
+import Head from '@docusaurus/Head';
+
+<Head>
+  <script type="application/ld+json">
+    {`{
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "姿勢制御",
+      "inDefinedTermSet": "https://www.space-portal.org",
+      "termCode": "control/technology/attitude-control",
+      "description": "姿勢制御とは、人工衛星や宇宙機の向きや回転を制御する技術である。",
+      "url": "https://www.space-portal.org/docs/control/technology/attitude-control"
+    }`}
+  </script>
+</Head>
+
 # 姿勢制御
 
 - **よみがな：** しせいせいぎょ  
@@ -13,20 +29,32 @@ category: control
 
 ## 概要
 
-準備中  
+姿勢制御とは、人工衛星や宇宙機の向きや回転を制御する技術である。
 
 ---
 
 ## 詳細
 
-準備中  
+姿勢制御は、宇宙機が所定の方向を向くように調整するための技術です。  
+通信、観測、推進などの機能を正確に行うために不可欠です。  
+宇宙空間では空気抵抗がないため、一度回転するとそのまま回り続ける性質があり、姿勢の制御には高度な技術が求められます。  
+
+主な制御手段には、リアクションホイール、ジャイロスコープ、磁気トルカ、スラスターなどがあります。  
+リアクションホイールは内部の回転体を動かすことで、衛星本体の姿勢を変える方法で、精密な制御が可能です。  
+磁気トルカは地球の磁場を利用して姿勢を調整する手法で、低消費電力で運用できます。  
+スラスターは小型の噴射装置で、瞬間的な姿勢変更に用いられます。  
+
+姿勢制御は、地球観測衛星が地表を正確に撮影するためや、通信衛星が地上局に向けてアンテナを向けるために重要です。  
+また、宇宙探査機が目標天体に向かって航行する際にも、姿勢制御が正確な軌道修正や観測に貢献します。  
+
+近年では、AIを活用した自律姿勢制御の研究も進んでおり、より高精度かつ効率的な運用が期待されています。
 
 ---
 
-## 関連用語
+## 関連用語・トピック
 
-- ペイロード（Payload）
-- ステージ分離（Staging）
-- 再使用型ロケット（Reusable Rocket）
-- 推力（Thrust）
-- 燃焼室（Combustion Chamber）
+- リアクションホイール  
+- ジャイロスコープ  
+- スラスター  
+- 自律制御  
+- 軌道制御

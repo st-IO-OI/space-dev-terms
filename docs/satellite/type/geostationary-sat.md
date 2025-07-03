@@ -1,33 +1,62 @@
 ---
-title: 静止衛星
-slug: /satellite/type/geostationary-sat
+title: 静止衛星とは？
+slug: /satellite/type/geostationary-satellite
 category: satellite
 ---
 
-# 静止衛星
+import Head from '@docusaurus/Head';
 
-**よみがな：** せいしえいせい  
-**英語：** Geostationary Satellite  
+<Head>
+  <script type="application/ld+json">
+    {`{
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "静止衛星とは？",
+      "inDefinedTermSet": "https://www.space-portal.org",
+      "termCode": "satellite/type/geostationary-satellite",
+      "description": "静止衛星とは、地球の自転と同期して赤道上空に固定された位置に留まる人工衛星である。",
+      "url": "https://www.space-portal.org/docs/satellite/type/geostationary-satellite"
+    }`}
+  </script>
+</Head>
+
+# 静止衛星とは？
+
+- **よみがな：** せいしえいせい  
+- **英語名：** Geostationary Satellite  
 
 ---
 
 ## 概要
 
-準備中
+静止衛星とは、地球の自転と同期して赤道上空に固定された位置に留まる人工衛星である。
 
 ---
 
 ## 詳細
 
-準備中
+静止衛星とは、地球の自転と同期して赤道上空に固定された位置に留まる人工衛星のことを指します。
+地球の赤道上空約3万6千キロメートルの軌道に配置されることにより、地球の自転と同じ周期で地球を回るようになります。  
+すると、地上から見ると常に同じ位置に存在するように見えるようになるのです。  
+この特性により、通信、放送、気象観測などの分野で広く利用されています。  
+
+静止衛星は地球の自転と完全に同期しているため、地上のアンテナは衛星を追尾する必要がありません。
+そのため、地上のアンテナを設置する際に固定することが可能になります。  
+この利点が衛星放送の普及にも大きく貢献していると言えるでしょう。
+ 
+静止衛星を実現するには、精密な軌道投入、姿勢制御、長期間の電力供給などといった技術が必要となります。  
+地上との通信を安定して行うために、高利得アンテナや周波数制御技術が用いられているのはもちろんですが、  
+長時間の運用に耐えるための太陽電池に関する技術、そして軌道上で常に同じ位置を保つための推進装置に関する技術も欠かせません。   
+
+こうした様々な技術のおかげで、現在ではテレビ放送、インターネット通信、気象データの収集、災害時の緊急通信などに静止衛星が役立てられています。  
+まさしく、現代社会のインフラを支える重要な役割を担っていると言えるでしょう。  
 
 ---
 
-## 関連用語
+## 関連用語・トピック
 
-- ペイロード（Payload）
-- ステージ分離（Staging）
-- 再使用型ロケット（Reusable Rocket）
-- 推力（Thrust）
-- 燃焼室（Combustion Chamber）
-
+- [静止軌道とは？](/docs/orbit/type/geostationary-orbit)  
+- [通信衛星とは？](/docs/satellite/type/communication-sat)  
+- [気象衛星とは？](/docs/satellite/type/weather-sat)  
+- [姿勢制御とは？](/docs/control/technology/attitude-control)  
+- [気象衛星ひまわりとは？](/docs/satellite/index/himawari)
