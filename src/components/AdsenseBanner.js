@@ -24,7 +24,7 @@ export default function AdBanner({ type = 'default' }) {
           border: '1px solid #95a5a6',
           borderRadius: '0.75rem',
           backgroundColor: '#FFFFFF',
-          width: 624,
+          width: 504,
           margin: '0 auto',
           padding: 5,
           textAlign: 'center',
@@ -34,7 +34,7 @@ export default function AdBanner({ type = 'default' }) {
         <table>
           <tbody>
             <tr>
-              <td style={{ width: 300 }}>
+              <td style={{ width: 240 }}>
                 <a
                   href="https://hb.afl.rakuten.co.jp/ichiba/49ec4b74.53ebf16c.49ec4b75.c45c8b88/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16497722%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIzMDB4MzAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
                   target="_blank"
@@ -50,7 +50,7 @@ export default function AdBanner({ type = 'default' }) {
                   />
                 </a>
               </td>
-              <td style={{ verticalAlign: 'top', width: 308, display: 'block' }}>
+              <td style={{ verticalAlign: 'top', width: 248, display: 'block' }}>
                 <p
                   style={{
                     fontSize: 12,
@@ -73,7 +73,7 @@ export default function AdBanner({ type = 'default' }) {
                   <span>価格：990円（税込、送料無料) </span>{' '}
                   <span style={{ color: '#BBB' }}>(2025/7/3時点)</span>
                 </p>
-                <div style={{ margin: 15 }}>
+                <div style={{ margin: 10 }}>
                   <a
                     href="https://hb.afl.rakuten.co.jp/ichiba/49ec4b74.53ebf16c.49ec4b75.c45c8b88/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16497722%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIzMDB4MzAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D"
                     target="_blank"
@@ -83,7 +83,7 @@ export default function AdBanner({ type = 'default' }) {
                     <img
                       src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg"
                       alt="楽天"
-                      style={{ float: 'left', maxHeight: 27, width: 'auto', marginTop: 5 }}
+                      style={{ float: 'left', maxHeight: 27, width: 'auto', marginTop: 0 }}
                     />
                   </a>
                   <a
@@ -95,13 +95,13 @@ export default function AdBanner({ type = 'default' }) {
                     <div
                       style={{
                         float: 'right',
-                        width: '50%',
-                        height: 32,
+                        width: '41%',
+                        height: 27,
                         backgroundColor: '#bf0000',
                         color: '#fff',
-                        fontSize: 14,
+                        fontSize: 12,
                         fontWeight: 500,
-                        lineHeight: '32px',
+                        lineHeight: '27px',
                         marginLeft: 1,
                         padding: '0 12px',
                         borderRadius: 16,
