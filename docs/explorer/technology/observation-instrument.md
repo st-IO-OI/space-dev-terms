@@ -55,4 +55,4 @@ import Head from '@docusaurus/Head';
 
 - [はやぶさとは？](/docs/explorer/mission/hayabusa)  
 - [はやぶさ2とは？](/docs/explorer/mission/hayabusa2)  
-- [探査とは？](/docs/explorer/explorer)  
+- [探査機とは？](/docs/explorer/space-probe)  
