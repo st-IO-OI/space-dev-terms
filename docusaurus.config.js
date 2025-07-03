@@ -110,8 +110,8 @@ const config = {
           title: 'カテゴリ',
           items: [
             { label: '宇宙開発ナビ（これから宇宙を目指す人たちへ）', to: '/docs/navi/intro-to-space-dev' },
-            { label: '宇宙開発用語集（もっと宇宙を学びたい人たちへ）', to: '/docs/index' },
-            { label: '宇宙開発ガイド（宇宙へ向かいたい人たちへ）', to: '/docs/index' },
+            { label: '宇宙開発用語集（もっと宇宙を学びたい人たちへ）', to: '/docs/glossary' },
+            { label: '宇宙開発ガイド（宇宙へ向かいたい人たちへ）', to: '/docs/guide/guidebook' },
           ],
         },
         {
