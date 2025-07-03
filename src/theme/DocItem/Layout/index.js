@@ -5,11 +5,9 @@ import TOC from '@theme/TOC';
 import DocItemContent from '@theme/DocItem/Content'; // 追加
 import AdBanner from '@site/src/components/AdsenseBanner';
 import useIsBrowser from '@docusaurus/useIsBrowser';
-import { useDoc } from '@docusaurus/theme-common/internal';
 
-export default function DocItemLayout({ children, toc }) {
+export default function DocItemLayout({ children, toc , frontMatter}) {
   const isBrowser = useIsBrowser();
-  const { frontMatter } = useDoc();
   const adType = frontMatter.ads ?? 'default';
 
   return (
