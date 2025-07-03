@@ -57,7 +57,7 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [液体燃料エンジンとは？](/docs/rocket/propulsion/type/liquid-propulsion)
+- [液体燃料エンジンとは？](/docs/rocket/propulsion/type/liquid-engine)
 - [固体燃料ロケットとは？](/docs/rocket/type/solid-rocket)
 - [イオンエンジンとは？](/docs/rocket/propulsion/type/ion-engine)
 - [推進系の用語の意味一覧](/docs/category/propulsion)
