@@ -1,7 +1,7 @@
 
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
-  tutorialSidebar: [
+  defaultSidebar: [
     'intro',             // docs/intro.md
     {
       type: 'category',
@@ -374,6 +374,14 @@ const sidebars = {
     'privacy-policy',
     'disclaimer',
     'contact-link',
+  ],
+  kidsSidebar: [
+  ],
+  naviSidebar: [
+  ],
+  glossarySidebar: [
+  ],
+  guidebookSidebar: [
   ],
 };
 

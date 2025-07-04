@@ -60,3 +60,4 @@ import Head from '@docusaurus/Head';
 - [推進系の用語一覧](/docs/category/propulsion)
 - [人工衛星の関連用語一覧](/docs/category/satellite)
 - [探査機の用語一覧](/docs/category/explorer)
+- [宇宙開発の用語一覧](/docs/category/glossary)

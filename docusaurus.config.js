@@ -91,7 +91,7 @@ const config = {
       },
       items: [
         { to: '/docs/intro', label: 'このサイトについて', position: 'left' },
-        { href: 'https://github.com/st-IO-OI/space-dev-terms', label: 'GitHub', position: 'right' },
+        { href: 'https://x.com/SpaceDevTerms', label: 'X', position: 'right' },
       ],
     },
     footer: {
@@ -119,7 +119,6 @@ const config = {
           items: [
             { label: 'X', href: 'https://x.com/SpaceDevTerms' },
             { label: 'Blog', to: '/blog' },
-            { label: 'GitHub', href: 'https://github.com/' },
           ],
         },
       ],

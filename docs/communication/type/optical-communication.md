@@ -36,10 +36,11 @@ description: 光（主にレーザー光）を用いて情報を伝送する通�
 
 ## 関連用語・トピック
 
-- [ビットレート](/docs/communication/technology/bit-rate)
-- [アンテナ](/docs/communication/technology/antenna)
-- [Ka-バンド](/docs/communication/technology/ka-band)
-- [通信遅延](/docs/communication/technology/communication-delay)
+- [レーザー通信とは？](/docs/communication/type/laser-communication)
+- [ビットレートとは？](/docs/communication/technology/bit-rate)
+- [アンテナとは？](/docs/communication/technology/antenna)
+- [Ka-バンドとは？](/docs/communication/technology/ka-band)
+- [通信遅延とは？](/docs/communication/technology/communication-delay)
 - [通信の用語の意味一覧](/docs/category/communication)
 
 ### 他カテゴリの用語を見てみる
