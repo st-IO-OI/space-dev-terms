@@ -371,6 +371,9 @@ const sidebars = {
         'guide/how-to-work',
       ],
     },
+    'privacy-policy',
+    'disclaimer',
+    'contact',
   ],
 };
 
