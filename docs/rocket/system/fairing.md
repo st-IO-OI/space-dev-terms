@@ -36,15 +36,15 @@ description: 打ち上げ時にペイロード（搭載物）を保護する役�
 
 ## 関連用語・トピック
 
-- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
-- [ペイロードとは？](/docs/rocket/system/payload)
-- [打ち上げとは？](/docs/rocket/launch/launch)
-- [ノズルとは？](/docs/rocket/propulsion/system/nozzle)
-- [再突入とは？](/docs/explorer/technology/reentry)
-- [ロケットとは？](/docs/rocket/rocket)
-- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine/)
+- [ペイロードとは？](/docs/rocket/system/payload/)
+- [打ち上げとは？](/docs/rocket/launch/launch/)
+- [ノズルとは？](/docs/rocket/propulsion/system/nozzle/)
+- [再突入とは？](/docs/explorer/technology/reentry/)
+- [ロケットとは？](/docs/rocket/rocket/)
+- [ロケットの用語の意味一覧](/docs/category/rocket/)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語の意味一覧](/docs/category/propulsion)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [推進系の用語の意味一覧](/docs/category/propulsion/)
+- [人工衛星の用語の意味一覧](/docs/category/satellite/)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary/)

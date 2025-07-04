@@ -57,14 +57,14 @@ import Head from '@docusaurus/Head';
 ---
 
 ## 関連用語・トピック
-- [化学推進とは？](/docs/rocket/propulsion/type/chemical-propulsion)
-- [電気推進とは？](/docs/rocket/propulsion/type/electric-propulsion)
-- [アポロ計画とは？](/docs/glossary/history/apollo-program)
-- [H3ロケットとは？](/docs/rocket/index/h3-rocket)
-- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [化学推進とは？](/docs/rocket/propulsion/type/chemical-propulsion/)
+- [電気推進とは？](/docs/rocket/propulsion/type/electric-propulsion/)
+- [アポロ計画とは？](/docs/glossary/history/apollo-program/)
+- [H3ロケットとは？](/docs/rocket/index/h3-rocket/)
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine/)
+- [推進系の用語の意味一覧](/docs/category/propulsion/)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket/)
+- [人工衛星の用語の意味一覧](/docs/category/satellite/)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary/)
