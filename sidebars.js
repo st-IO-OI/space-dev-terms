@@ -373,7 +373,7 @@ const sidebars = {
     },
     'privacy-policy',
     'disclaimer',
-    'contact',
+    'contact-link',
   ],
 };
 
