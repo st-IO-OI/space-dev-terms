@@ -1,7 +1,7 @@
 ---
 category: navi
 title: 運用・地上支援
-slug: /navi/space-dev-overview/mission-operations
+slug: navi/space-dev-overview/mission-operations
 description: 宇宙ミッションの運用や地上からの支援活動を支える領域について解説します。
 ---
 

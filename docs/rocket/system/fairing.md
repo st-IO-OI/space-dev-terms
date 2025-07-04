@@ -1,6 +1,6 @@
 ---
 title: フェアリングとは？
-slug: /rocket/system/fairing
+slug: rocket/system/fairing
 category: rocket
 description: 打ち上げ時にペイロード（搭載物）を保護する役割を持つロケットの先端に取り付けられたカバーであるであるフェアリングの意味・定義・内容について解説します．
 ---

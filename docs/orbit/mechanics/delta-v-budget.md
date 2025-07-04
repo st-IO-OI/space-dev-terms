@@ -1,6 +1,6 @@
 ---
 title: 速度増分・デルタV
-slug: /orbit/mechanics/delta-v-budget
+slug: orbit/mechanics/delta-v-budget
 category: orbit
 description: 宇宙機が軌道変更や加速を行うために必要な速度の変化量のことである速度増分・デルタVの意味・定義・内容について解説します。  
 ---

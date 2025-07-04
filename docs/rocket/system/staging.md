@@ -1,6 +1,6 @@
 ---
 title: ステージ分離
-slug: /rocket/system/staging
+slug: rocket/system/staging
 category: rocket
 description: ステージ分離とは、ロケットの各段階を順次切り離すことで効率的な推進を実現する技術である。
 ---

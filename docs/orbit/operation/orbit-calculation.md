@@ -1,6 +1,6 @@
 ---
 title: 軌道計算
-slug: /orbit/operation/orbit-calculation
+slug: orbit/operation/orbit-calculation
 category: orbit
 description: 軌道計算とは、宇宙機の運動を予測・制御するために行われる数学的・物理的な解析手法である。
 ---

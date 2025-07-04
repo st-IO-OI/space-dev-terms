@@ -1,6 +1,6 @@
 ---
 title: 電気推進
-slug: /rocket/propulsion/type/electric-propulsion
+slug: rocket/propulsion/type/electric-propulsion
 category: propulsion
 description: 電気推進とは、電力を利用して推進剤を加速し、推力を得る高効率な宇宙推進方式である。
 ---

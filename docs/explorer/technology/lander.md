@@ -1,6 +1,6 @@
 ---
 title: 着陸機
-slug: /explorer/technology/lander
+slug: explorer/technology/lander
 category: explorer
 description: 着陸機とは、天体の表面に降り立ち、観測や実験を行うために設計された宇宙探査機の一種である。
 ---

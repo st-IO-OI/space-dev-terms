@@ -1,6 +1,6 @@
 ---
 title: 気象衛星ひまわり
-slug: /satellite/index/himawari
+slug: satellite/index/himawari
 category: satellite
 description: 気象衛星ひまわりとは、日本が運用する静止気象衛星シリーズであり、気象観測に特化した衛星である。
 ---

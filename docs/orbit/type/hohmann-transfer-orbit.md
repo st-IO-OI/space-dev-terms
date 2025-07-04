@@ -1,6 +1,6 @@
 ---
 title: ホーマン遷移軌道
-slug: /orbit/type/hohmann-transfer-orbit
+slug: orbit/type/hohmann-transfer-orbit
 category: orbit
 description: 2つの円軌道間を移動するために用いられる最も燃費効率の良い楕円軌道であるホーマン遷移軌道の意味・定義・内容について解説します。  
 ---

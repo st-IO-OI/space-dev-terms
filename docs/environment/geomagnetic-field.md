@@ -1,6 +1,6 @@
 ---
 title: 地磁気
-slug: /environment/geomagnetic-field
+slug: environment/geomagnetic-field
 category: environment
 description: 地磁気とは、地球が持つ磁場のことであり、宇宙からの高エネルギー粒子を遮蔽し、地球環境を保護する役割を果たしている。
 ---

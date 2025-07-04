@@ -1,6 +1,6 @@
 ---
 title: 低軌道とは？
-slug: /orbit/type/low-earth-orbit
+slug: orbit/type/low-earth-orbit
 category: orbit
 description: 地上からおおよそ高度200km〜2,000kmの範囲に位置する人工衛星の軌道のことである低軌道の意味・定義・内容について解説します。  
 ---

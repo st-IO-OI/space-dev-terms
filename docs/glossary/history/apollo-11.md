@@ -1,6 +1,6 @@
 ---
 title: アポロ11号
-slug: /glossary/history/apollo-11
+slug: glossary/history/apollo-11
 category: history
 description: アポロ11号とは、1969年に人類初の月面着陸を成功させたアメリカの有人宇宙船である。
 ---

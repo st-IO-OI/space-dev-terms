@@ -1,6 +1,6 @@
 ---
 title: アステロイドマイニング
-slug: /business/category/asteroid-mining
+slug: business/category/asteroid-mining
 category: business
 description: アステロイドマイニングとは、小惑星から鉱物資源を採掘・回収することを目的とした宇宙ビジネスの一分野である。
 ---

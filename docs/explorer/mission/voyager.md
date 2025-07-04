@@ -1,6 +1,6 @@
 ---
 title: ボイジャーとは？
-slug: /explorer/mission/voyager
+slug: explorer/mission/voyager
 category: explorer
 description: NASAが1977年に打ち上げた無人宇宙探査機であり、外惑星の連続探査と太陽系脱出を成し遂げた歴史的ミッションであるボイジャーの意味・定義・内容について解説します。  
 ---

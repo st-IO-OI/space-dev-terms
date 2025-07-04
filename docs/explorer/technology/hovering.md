@@ -1,6 +1,6 @@
 ---
 title: ホバリング
-slug: /explorer/technology/hovering
+slug: explorer/technology/hovering
 category: explorer
 description: ホバリングとは、探査機やロボットが空中や宇宙空間で一定の位置に留まり続ける制御技術である。
 ---

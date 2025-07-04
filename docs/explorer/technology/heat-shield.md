@@ -1,6 +1,6 @@
 ---
 title: 耐熱シールドとは？  
-slug: /explorer/technology/heat-shield
+slug: explorer/technology/heat-shield
 category: explorer
 description: 耐熱シールドとは、宇宙機が高温環境にさらされる際に機体を保護するための断熱構造である。
 ---

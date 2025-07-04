@@ -1,6 +1,6 @@
 ---
 title: 第一宇宙速度とは？
-slug: /orbit/mechanics/first-cosmic-velocity
+slug: orbit/mechanics/first-cosmic-velocity
 category: orbit
 description: 地球の表面から人工衛星が地球を周回するのに必要な最小速度のことである第一宇宙速度の意味・定義・内容について解説します。  
 ---

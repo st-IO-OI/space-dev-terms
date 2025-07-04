@@ -1,6 +1,6 @@
 ---
 title: 化学推進
-slug: /rocket/propulsion/type/chemical-propulsion
+slug: rocket/propulsion/type/chemical-propulsion
 category: propulsion
 description: 化学推進とは、燃料と酸化剤の化学反応によって発生する高温高圧のガスを利用して推力を得る推進方式である。
 ---

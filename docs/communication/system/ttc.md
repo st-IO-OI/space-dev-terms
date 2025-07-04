@@ -1,6 +1,6 @@
 ---
 title: TT&C
-slug: /communication/system/ttc
+slug: communication/system/ttc
 category: communication
 description: TT&Cとは、宇宙機との通信を通じて遠隔で状態監視、位置追跡、指令送信を行うシステムである。
 ---

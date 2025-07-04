@@ -1,6 +1,6 @@
 ---
 title: 宇宙線
-slug: /environment/cosmic-rays
+slug: environment/cosmic-rays
 category: environment
 description: 宇宙線とは、宇宙空間から地球に降り注ぐ高エネルギーの粒子線であり、宇宙環境や人体に影響を及ぼす。
 ---

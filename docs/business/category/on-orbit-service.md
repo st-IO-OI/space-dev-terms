@@ -1,6 +1,6 @@
 ---
 title: 軌道上サービス
-slug: /business/category/on-orbit-service
+slug: business/category/on-orbit-service
 category: business
 description: 軌道上サービスとは、宇宙空間で運用中の人工衛星や宇宙機に対して行われる保守、補給、修理などの支援活動である。
 ---

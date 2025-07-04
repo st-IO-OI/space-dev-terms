@@ -1,6 +1,6 @@
 ---
 title: 推進剤
-slug: /rocket/propulsion/system/propellant
+slug: rocket/propulsion/system/propellant
 category: propellant
 description: ロケットや宇宙機を前進させるために必要な運動エネルギーの源である推進力の意味・定義・内容について解説します。  
 ---

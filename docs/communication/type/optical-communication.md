@@ -1,6 +1,6 @@
 ---
 title: 光通信とは？
-slug: /communication/type/optical-communication
+slug: communication/type/optical-communication
 category: communication
 description: 光（主にレーザー光）を用いて情報を伝送する通信方式である光通信の意味・定義・内容について解説します。  
 ---

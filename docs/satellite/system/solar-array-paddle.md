@@ -1,6 +1,6 @@
 ---
 title: 太陽電池パドル
-slug: /satellite/system/solar-array-paddle
+slug: satellite/system/solar-array-paddle
 category: satellite
 description: 太陽電池パドルとは、宇宙機に電力を供給するために太陽光を電気に変換する展開型の太陽電池装置である。
 ---

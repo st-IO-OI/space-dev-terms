@@ -1,6 +1,6 @@
 ---
 title: 宇宙空間とは？
-slug: /glossary/space
+slug: glossary/space
 category: glossary
 dectioption: 大気の影響が極めて小さくなり，ほぼ真空に近い環境が広がる地球外の空間のことである宇宙空間の意味・定義・内容について解説します．
 ---

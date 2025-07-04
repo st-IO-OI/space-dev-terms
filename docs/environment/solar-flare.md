@@ -1,6 +1,6 @@
 ---
 title: 太陽フレア
-slug: /environment/solar-flare
+slug: environment/solar-flare
 category: environment
 description: 太陽フレアとは、太陽表面で発生する爆発的なエネルギー放出現象である。
 ---

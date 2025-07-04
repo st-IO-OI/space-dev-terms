@@ -1,7 +1,7 @@
 ---
 id: guidebook
 title: 宇宙開発ガイドブック
-slug: /guide/guidebook
+slug: guide/guidebook
 description: 宇宙に関心を持った方々に向けて、学びと発見を広げるための信頼性あるリソースを紹介します。
 ---
 

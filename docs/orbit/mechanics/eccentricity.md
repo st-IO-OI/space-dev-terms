@@ -1,6 +1,6 @@
 ---
 title: 離心率
-slug: /orbit/mechanics/eccentricity
+slug: orbit/mechanics/eccentricity
 category: orbit
 description: 軌道の形状を表す値のことである離心率の意味・定義・内容について解説します。  
 ---

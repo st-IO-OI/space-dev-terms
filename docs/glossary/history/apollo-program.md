@@ -1,6 +1,6 @@
 ---
 title: アポロ計画
-slug: /glossary/history/apollo-program
+slug: glossary/history/apollo-program
 category: history
 description: アポロ計画とは、1960年代から1970年代にかけてNASAが実施した月面着陸を目的とする有人宇宙探査プロジェクトである。
 ---

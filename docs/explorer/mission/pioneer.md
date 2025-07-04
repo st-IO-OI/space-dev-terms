@@ -1,6 +1,6 @@
 ---
 title: パイオニアとは？
-slug: /explorer/mission/pioneer
+slug: explorer/mission/pioneer
 category: explorer
 description: アメリカのNASAが1970年代に打ち上げた無人宇宙探査機シリーズであるパイオニアの意味・定義・内容について解説します。  
 ---

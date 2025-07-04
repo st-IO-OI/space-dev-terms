@@ -1,6 +1,6 @@
 ---
 title: 宇宙居住
-slug: /environment/space-habitation
+slug: environment/space-habitation
 category: environment
 description: 宇宙居住とは、宇宙空間において人間が長期的に生活・活動できる環境を構築することを指す。
 ---

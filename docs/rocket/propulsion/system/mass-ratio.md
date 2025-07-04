@@ -1,6 +1,6 @@
 ---
 title: 質量比とは？
-slug: /rocket/propulsion/system/mass-ratio
+slug: rocket/propulsion/system/mass-ratio
 category: propulsion
 description: ロケットの総質量と残存質量の比率を表す指標で、宇宙機の性能を決定する重要なパラメータである質量比の意味・定義・内容について解説します。  
 ---

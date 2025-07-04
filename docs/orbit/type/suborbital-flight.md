@@ -1,6 +1,6 @@
 ---
 title: 弾道飛行
-slug: /orbit/type/suborbital-flight
+slug: orbit/type/suborbital-flight
 category: orbit
 description: 弾道飛行とは、宇宙機が軌道には到達せず、放物線状の軌道を描いて地球に再突入する飛行方式である。
 ---

@@ -1,6 +1,6 @@
 ---
 title: 太陽同期軌道
-slug: /orbit/type/sun-synchronous-orbit
+slug: orbit/type/sun-synchronous-orbit
 category: orbit
 description: 地球を回りながら常に同じ太陽光の角度で地表を観測できるように設計された軌道である太陽同期軌道の意味・定義・内容について解説します。    
 ---

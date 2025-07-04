@@ -1,6 +1,6 @@
 ---
 title: 遷移軌道
-slug: /orbit/type/transfer-orbit
+slug: orbit/type/transfer-orbit
 category: orbit
 description: 遷移軌道とは、宇宙機がある軌道から別の軌道へ移動する際に使用される中間的な軌道である。
 ---

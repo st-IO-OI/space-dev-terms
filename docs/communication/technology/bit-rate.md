@@ -1,6 +1,6 @@
 ---
 title: ビットレートとは？
-slug: /communication/technology/bit-rate
+slug: communication/technology/bit-rate
 category: communication
 description: 通信速度の指標として広く用いられている1秒間に送受信されるデジタルデータ量のことであるビットレートの意味・定義・内容について解説します．
 ---

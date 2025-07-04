@@ -1,6 +1,6 @@
 ---
 title: アップリンクとは？
-slug: /communication/system/uplink
+slug: communication/system/uplink
 category: communication
 ---
 

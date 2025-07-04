@@ -1,6 +1,6 @@
 ---
 title: データレコーダ
-slug: /explorer/technology/data-recorder
+slug: explorer/technology/data-recorder
 category: explorer
 description: データレコーダとは、宇宙探査機が取得した観測データや機器の状態情報を記録・保存する装置である。
 ---

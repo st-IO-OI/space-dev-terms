@@ -1,6 +1,6 @@
 ---
 title: ロゼッタ
-slug: /explorer/mission/rosetta
+slug: explorer/mission/rosetta
 category: explorer
 description: ロゼッタとは、欧州宇宙機関（ESA）が打ち上げた彗星探査機であり、チュリュモフ・ゲラシメンコ彗星の詳細な観測を行ったミッションである。
 ---

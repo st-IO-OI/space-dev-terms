@@ -1,6 +1,6 @@
 ---
 title: 自由帰還軌道
-slug: /orbit/type/free-return-trajectory
+slug: orbit/type/free-return-trajectory
 category: orbit
 description: 目標天体を周回せずに通過し、推進なしで地球へ戻ることができる軌道設計である自由帰還軌道の意味・定義・内容について解説します。  
 ---

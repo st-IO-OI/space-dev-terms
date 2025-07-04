@@ -1,6 +1,6 @@
 ---
 title: 太陽風
-slug: /environment/solar-wind
+slug: environment/solar-wind
 category: environment
 description: 太陽風とは、太陽から放出される荷電粒子の流れであり、地球の磁気圏や宇宙環境に大きな影響を与える。
 ---

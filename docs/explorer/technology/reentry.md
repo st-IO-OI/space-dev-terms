@@ -1,6 +1,6 @@
 ---
 title: 再突入とは？
-slug: /explorer/technology/reentry
+slug: explorer/technology/reentry
 category: explorer
 description: 大気圏外から地球大気圏に人工物体が再び進入する現象のことである再突入の意味・定義・内容について解説します。  
 ---

@@ -1,6 +1,6 @@
 ---
 title: 高軌道とは？
-slug: /orbit/type/high-earth-orbit
+slug: orbit/type/high-earth-orbit
 category: orbit
 description: 高軌道とは、地球静止軌道よりも高い高度に位置する軌道領域であり、深宇宙通信や科学観測などに利用される。
 ---

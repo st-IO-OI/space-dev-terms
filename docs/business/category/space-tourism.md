@@ -1,6 +1,6 @@
 ---
 title: 宇宙旅行
-slug: /business/category/space-tourism
+slug: business/category/space-tourism
 category: business
 description: 宇宙旅行とは、一般市民が宇宙空間を訪れることを目的とした商業的な観光活動である。
 ---

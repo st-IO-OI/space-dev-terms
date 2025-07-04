@@ -1,6 +1,6 @@
 ---
 title: 中軌道とは？
-slug: /orbit/type/medium-earth-orbit
+slug: orbit/type/medium-earth-orbit
 category: orbit
 description: 中軌道とは、地球低軌道と静止軌道の中間に位置する軌道領域である。
 ---
