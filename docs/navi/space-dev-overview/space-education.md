@@ -1,7 +1,7 @@
 ---
 category: navi
 title: 教育・人材
-slug: navi/space-dev-overview/space-education
+slug: /navi/space-dev-overview/space-education
 description: 宇宙開発を支える教育・人材育成の重要性とその広がりを解説します。
 ---
 

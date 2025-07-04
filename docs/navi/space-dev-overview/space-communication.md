@@ -1,7 +1,7 @@
 ---
 category: navi
 title: 通信・ネットワーク・光技術
-slug: navi/space-dev-overview/space-communication
+slug: /navi/space-dev-overview/space-communication
 description: 宇宙と地球をつなぐ通信・ネットワーク・光技術の最前線。宇宙開発の基盤インフラを支える重要領域。
 ---
 

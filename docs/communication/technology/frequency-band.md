@@ -1,6 +1,6 @@
 ---
 title: 周波数帯とは？
-slug: communication/technology/frequency-band
+slug: /communication/technology/frequency-band
 category: communication
 description: 無線通信で使用される電波の周波数範囲の区分のことである周波数帯の意味・定義・内容について解説します。  
 ---

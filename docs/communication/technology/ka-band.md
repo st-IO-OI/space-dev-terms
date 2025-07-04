@@ -1,6 +1,6 @@
 ---
 title: Ka-バンドとは？
-slug: communication/technology/ka-band
+slug: /communication/technology/ka-band
 category: communication
 description: 宇宙通信において高速・大容量通信のために用いられる約26.5～40GHzの周波数帯域のことであるKa-バンドの意味・定義・内容について解説します。  
 ---

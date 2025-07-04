@@ -1,6 +1,6 @@
 ---
 title: ダウンリンクとは？
-slug: communication/system/downlink
+slug: /communication/system/downlink
 category: communication
 ---
 

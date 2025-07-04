@@ -1,6 +1,6 @@
 ---
 title: スプートニク
-slug: glossary/history/sputnik
+slug: /glossary/history/sputnik
 category: history
 description: スプートニクとは、1957年にソ連が打ち上げた世界初の人工衛星であり、宇宙時代の幕開けを象徴する存在である。
 ---

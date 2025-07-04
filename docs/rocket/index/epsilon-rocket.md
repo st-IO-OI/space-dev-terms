@@ -1,6 +1,6 @@
 ---
 title: イプシロンロケット
-slug: rocket/index/epsilon-rocket
+slug: /rocket/index/epsilon-rocket
 category: rocket
 description: イプシロンロケットとは、日本の宇宙航空研究開発機構（JAXA）が開発した小型衛星打ち上げ用の固体燃料ロケットである。
 ---

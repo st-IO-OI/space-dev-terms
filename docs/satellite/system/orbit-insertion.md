@@ -1,6 +1,6 @@
 ---
 title: 軌道投入とは？
-slug: satellite/system/orbit-insertion
+slug: /satellite/system/orbit-insertion
 category: orbit
 description: 宇宙機を望ましい軌道に正確に移動させるための推進操作のことである軌道投入の意味・定義・内容について解説します。  
 ---

@@ -1,6 +1,6 @@
 ---
 title: 宇宙ビジネス
-slug: business/space-business
+slug: /business/space-business
 category: business
 description: 宇宙ビジネスとは、宇宙空間を活用した製品やサービスの提供を通じて収益を得る産業活動の総称である。
 ---

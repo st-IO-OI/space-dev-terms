@@ -90,7 +90,7 @@ const config = {
         src: 'img/space-dic.svg',
       },
       items: [
-        { to: 'intro', label: 'このサイトについて', position: 'left' },
+        { to: '/docs/intro', label: 'このサイトについて', position: 'left' },
         { href: 'https://x.com/SpaceDevTerms', label: 'X', position: 'right' },
       ],
     },
@@ -103,7 +103,7 @@ const config = {
             { label: 'このサイトについて', to: '/docs/intro' },
             { label: 'プライバシーポリシー', to: '/docs/privacy-policy' },
             { label: '免責事項', to: '/docs/disclaimer' },
-            { label: 'お問い合わせ', to: '/docs/contact' },
+            { label: 'お問い合わせ', to: '/contact' },
           ],
         },
         {

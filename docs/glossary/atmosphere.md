@@ -1,6 +1,6 @@
 ---
 title: 大気圏とは？
-slug: glossary/atmosphere
+slug: /glossary/atmosphere
 category: glossary
 description: 大気圏とは、地球を取り巻く気体の層であり、宇宙空間との境界を形成する領域である。
 ---

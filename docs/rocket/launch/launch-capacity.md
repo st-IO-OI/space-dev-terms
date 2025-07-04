@@ -1,6 +1,6 @@
 ---
 title: 打ち上げ能力
-slug: rocket/launch/launch-capacity
+slug: /rocket/launch/launch-capacity
 category: rocket
 description: 打ち上げ能力とは、ロケットが特定の軌道に投入可能なペイロード（搭載物）の最大質量を示す性能指標である。
 ---

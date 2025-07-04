@@ -1,6 +1,6 @@
 ---
 title: 軌道要素
-slug: orbit/mechanics/orbital-elements
+slug: /orbit/mechanics/orbital-elements
 category: orbit
 description: 天体や人工衛星の軌道を数学的に表すためのパラメータ群である軌道要素の意味・定義・内容について解説します。  
 ---
@@ -34,15 +34,15 @@ description: 天体や人工衛星の軌道を数学的に表すためのパラ�
 
 ## 関連用語・トピック
 
-- [離心率とは？](docs/orbit/mechanics/eccentricity)
-- [軌道傾斜角とは？](docs/orbit/mechanics/inclination)
-- [近地点とは？](docs/orbit/mechanics/perigee)
-- [遠地点とは？](docs/orbit/mechanics/apogee)
-- [地球周回軌道とは？](docs/orbit/type/geocentric-orbit)
-- [軌道とは？](docs/orbit/orbit)
-- [軌道の用語一覧](docs/category/orbit)
+- [離心率とは？](/docs/orbit/mechanics/eccentricity)
+- [軌道傾斜角とは？](/docs/orbit/mechanics/inclination)
+- [近地点とは？](/docs/orbit/mechanics/perigee)
+- [遠地点とは？](/docs/orbit/mechanics/apogee)
+- [地球周回軌道とは？](/docs/orbit/type/geocentric-orbit)
+- [軌道とは？](/docs/orbit/orbit)
+- [軌道の用語一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](docs/category/rocket)
-- [人工衛星の関連用語一覧](docs/category/satellite)
-- [探査機の用語一覧](docs/category/explorer)
+- [ロケットの用語一覧](/docs/category/rocket)
+- [人工衛星の関連用語一覧](/docs/category/satellite)
+- [探査機の用語一覧](/docs/category/explorer)

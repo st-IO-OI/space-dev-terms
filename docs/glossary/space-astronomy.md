@@ -1,6 +1,6 @@
 ---
 title: 宇宙天文学
-slug: glossary/space-astronomy
+slug: /glossary/space-astronomy
 category: glossary
 description: 宇宙天文学とは、宇宙空間から天体や宇宙現象を観測・研究する学問分野である。
 ---

@@ -1,6 +1,6 @@
 ---
 title: 円軌道とは？
-slug: orbit/type/circular-orbit
+slug: /orbit/type/circular-orbit
 category: orbit
 description: 軌道上の物体が地球を中心にほぼ一定の距離で回り続ける軌道である円軌道の意味・定義・内容について解説します．
 ---

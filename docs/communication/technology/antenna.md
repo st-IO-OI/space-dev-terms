@@ -1,6 +1,6 @@
 ---
 title: アンテナとは？
-slug: communication/technology/antenna
+slug: /communication/technology/antenna
 category: communication
 description: 電波を用いて情報を送受信することによって宇宙空間における情報の伝達を実現する装置のことであるアンテナの意味・定義・内容について解説します。  
 ---

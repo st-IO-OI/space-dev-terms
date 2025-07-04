@@ -1,6 +1,6 @@
 ---
 title: 軌道傾斜角
-slug: orbit/mechanics/inclination
+slug: /orbit/mechanics/inclination
 category: orbit
 description: 人工衛星の軌道面が地球の赤道面に対してなす角度のことである軌道傾斜角の意味・定義・内容について解説します。  
 ---

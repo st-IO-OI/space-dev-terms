@@ -1,6 +1,6 @@
 ---
 title: 宇宙エンタメ
-slug: business/category/space-entertainment
+slug: /business/category/space-entertainment
 category: business
 description: 宇宙エンタメとは、宇宙空間や宇宙技術を活用して提供される娯楽や体験型サービスの総称である。
 ---

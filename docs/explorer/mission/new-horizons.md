@@ -1,6 +1,6 @@
 ---
 title: ニューホライズンズとは？
-slug: explorer/mission/new-horizons
+slug: /explorer/mission/new-horizons
 category: explorer
 description: 冥王星および太陽系外縁天体を探査するためにNASAが打ち上げた無人探査機であるニューホライズンズの意味・定義・内容について解説します。  
 ---

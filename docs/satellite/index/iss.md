@@ -1,6 +1,6 @@
 ---
 title: 国際宇宙ステーション
-slug: satellite/index/iss
+slug: /satellite/index/iss
 category: satellite
 description: 国際宇宙ステーションとは、複数国が共同で建設・運用する地球低軌道上の有人宇宙施設である。
 ---

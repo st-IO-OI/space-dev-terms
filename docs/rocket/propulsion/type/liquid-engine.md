@@ -1,6 +1,6 @@
 ---
 title: 液体燃料エンジン
-slug: rocket/propulsion/type/liquid-engine
+slug: /rocket/propulsion/type/liquid-engine
 category: propulsion
 description: 液体燃料エンジンとは、液体状の燃料と酸化剤を燃焼させて推力を得る化学推進方式の一種である。
 ---

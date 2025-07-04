@@ -1,6 +1,6 @@
 ---
 title: ラグランジュ点
-slug: orbit/mechanics/lagrange-point
+slug: /orbit/mechanics/lagrange-point
 category: orbit
 description: 2つの天体の重力がつり合い、物体が比較的安定して存在できる空間上の5つの特異点であるラグランジュ点の意味・定義・内容について解説します。  
 ---

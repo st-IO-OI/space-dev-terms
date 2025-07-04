@@ -1,6 +1,6 @@
 ---
 title: X-bandとは？
-slug: communication/technology/x-band
+slug: /communication/technology/x-band
 category: communication
 description: 地球観測衛星や深宇宙探査機で広く使用される約8～12GHzの中高周波数帯であるX-bandの意味・定義・内容について解説します．
 ---

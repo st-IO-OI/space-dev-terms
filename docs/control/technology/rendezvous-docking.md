@@ -1,6 +1,6 @@
 ---
 title: ランデヴードッキングとは？
-slug: control/technology/rendezvous-docking
+slug: /control/technology/rendezvous-docking
 category: control
 description: 宇宙空間において2つの物体が軌道上で接近し、同一軌道を共有するために相対速度を一致させる操作のことであるランデヴードッキングの意味・定義・内容について解説します。  
 ---

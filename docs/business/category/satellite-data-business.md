@@ -1,6 +1,6 @@
 ---
 title: 衛星データビジネス
-slug: business/category/satellite-data-business
+slug: /business/category/satellite-data-business
 category: business
 description: 衛星データビジネスとは、人工衛星から取得された観測情報を活用して価値を創出する商業活動の総称である。
 ---

@@ -1,6 +1,6 @@
 ---
 title: 真空とは？
-slug: glossary/vacuum
+slug: /glossary/vacuum
 category: glossary
 dectioption: 気体や分子の存在が極めて少ない空間状態のことである真空の意味・定義・内容について解説します．
 ---

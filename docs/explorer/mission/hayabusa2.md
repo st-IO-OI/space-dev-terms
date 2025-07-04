@@ -1,6 +1,6 @@
 ---
 title: はやぶさ2とは？
-slug: explorer/mission/hayabusa2
+slug: /explorer/mission/hayabusa2
 category: explorer
 ads: hayabusa2
 description: 小惑星リュウグウからのサンプルリターンや人工クレーター作成などの複数の世界初を成し遂げた日本の小惑星探査機であるはやぶさ2の意味・定義・内容について解説します。  

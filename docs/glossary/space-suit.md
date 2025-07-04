@@ -1,6 +1,6 @@
 ---
 title: 宇宙服
-slug: glossary/space-suit
+slug: /glossary/space-suit
 category: glossary
 description: 宇宙服とは、宇宙空間で人間が安全に活動するために設計された特殊な衣類である。
 ---

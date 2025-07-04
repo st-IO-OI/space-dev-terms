@@ -1,6 +1,6 @@
 ---
 title: 糸川英夫
-slug: glossary/history/hideo-itokawa
+slug: /glossary/history/hideo-itokawa
 category: history
 description: 糸川英夫とは、日本の宇宙開発の先駆者であり、ペンシルロケットの開発を通じて日本の宇宙技術の礎を築いた人物である。
 ---

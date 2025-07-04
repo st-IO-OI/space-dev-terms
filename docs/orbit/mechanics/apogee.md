@@ -1,6 +1,6 @@
 ---
 title: 遠地点とは？
-slug: orbit/mechanics/apogee
+slug: /orbit/mechanics/apogee
 category: orbit
 description: 地球を回る軌道上にある天体や人工衛星が地球から最も遠ざかる点である遠地点の意味・定義・内容について解説します。  
 ---
@@ -38,7 +38,7 @@ description: 地球を回る軌道上にある天体や人工衛星が地球か�
 - [軌道要素とは？](/docs/orbit/mechanics/orbital-elements)
 - [楕円軌道とは？](/docs/orbit/type/elliptical-orbit)
 - [軌道とは？](/docs/orbit/orbit)
-- [軌道の用語の意味一覧](docs/category/orbit)
+- [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
 - [ロケットの用語の意味一覧](/docs/category/rocket)

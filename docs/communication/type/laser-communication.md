@@ -1,6 +1,6 @@
 ---
 title: レーザー通信
-slug: communication/type/laser-communication
+slug: /communication/type/laser-communication
 category: communication
 description: レーザー通信とは、レーザー光を用いて情報を伝送する通信方式である。
 ---

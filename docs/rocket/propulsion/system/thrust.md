@@ -1,6 +1,6 @@
 ---
 title: 推力とは？
-slug: rocket/propulsion/system/thrust
+slug: /rocket/propulsion/system/thrust
 category: propulsion
 description: ロケットやジェットエンジンなどが物体を前進させるために生み出す力のことである推力の意味・定義・内容について解説します。  
 ---

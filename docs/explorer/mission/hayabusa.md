@@ -1,6 +1,6 @@
 ---
 title: はやぶさとは？
-slug: explorer/mission/hayabusa
+slug: /explorer/mission/hayabusa
 category: explorer
 description: 小惑星からのサンプルリターンに世界で初めて成功した日本の小惑星探査機であるはやぶさの意味・定義・内容について解説します。  
 ---

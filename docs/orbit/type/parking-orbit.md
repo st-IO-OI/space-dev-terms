@@ -1,6 +1,6 @@
 ---
 title: 待機軌道
-slug: orbit/type/parking-orbit
+slug: /orbit/type/parking-orbit
 category: orbit
 description: 待機軌道とは、宇宙機が最終目的地へ移動する前に一時的に留まるための軌道であり、軌道変更やタイミング調整に利用される。
 ---

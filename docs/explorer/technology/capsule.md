@@ -1,6 +1,6 @@
 ---
 title: カプセルとは？
-slug: explorer/technology/capsule
+slug: /explorer/technology/capsule
 category: explorer
 description: 宇宙空間からの帰還時に試料や機器を保護して地上に届けるための耐熱構造体であるカプセルの意味・定義・内容について解説します。  
 ---

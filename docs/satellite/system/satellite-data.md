@@ -1,6 +1,6 @@
 ---
 title: 衛星データ
-slug: satellite/system/satellite-data
+slug: /satellite/system/satellite-data
 category: satellite
 description: 衛星データとは、人工衛星によって取得された地球や宇宙に関する観測情報の総称である。
 ---

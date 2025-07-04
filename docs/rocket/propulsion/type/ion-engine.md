@@ -1,6 +1,6 @@
 ---
 title: イオンエンジンとは？
-slug: rocket/propulsion/type/ion-engine
+slug: /rocket/propulsion/type/ion-engine
 category: propulsion
 description: 電気エネルギーを用いてイオン化したガスを加速・噴射し推進力を得るイオンエンジンであるコマンドの意味・定義・内容について解説します。  
 ---

@@ -1,6 +1,6 @@
 ---
 title: 深宇宙ネットワークとは？
-slug: communication/system/dsn
+slug: /communication/system/dsn
 category: communication
 description: 地球から遠く離れた宇宙探査機との通信を可能にする地上アンテナ網である深宇宙ネットワークの意味・定義・内容について解説します。  
 ---

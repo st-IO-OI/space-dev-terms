@@ -326,7 +326,11 @@ const sidebars = {
                 collapsed: true,
                 items: [
                   'orbit/operation/orbit-calculation',
+                  'orbit/operation/nodal-precession',
+                  'orbit/operation/orbital-decay',
+                  'orbit/operation/orbit-escape',
                   'orbit/operation/orbital-insertion',
+                  'orbit/operation/orbital-resonance',
                 ],
               },
             ],

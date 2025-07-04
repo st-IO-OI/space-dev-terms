@@ -1,7 +1,7 @@
 ---
 category: navi
 title: 医学・生物・人間工学
-slug: navi/space-dev-overview/space-medicine
+slug: /navi/space-dev-overview/space-medicine
 description: 宇宙環境における人間の生理・心理への影響と、それに対応する医学・生物・人間工学的な研究を解説。
 ---
 

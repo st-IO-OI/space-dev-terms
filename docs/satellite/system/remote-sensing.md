@@ -1,6 +1,6 @@
 ---
 title: リモートセンシング
-slug: satellite/system/remote-sensing
+slug: /satellite/system/remote-sensing
 category: satellite
 description: リモートセンシングとは、地上や宇宙から対象物に直接触れることなく情報を取得する観測技術である。
 ---
