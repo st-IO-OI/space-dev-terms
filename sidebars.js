@@ -61,11 +61,9 @@ const sidebars = {
                 type: 'category',
                 label: '歴史',
                 items: [
-                  'glossary/history/space-history',
                   'glossary/history/hideo-itokawa',
                   'glossary/history/apollo-11',
                   'glossary/history/apollo-program',
-                  'glossary/history/outer-space-treaty',
                   'glossary/history/sputnik',
                 ],
               },
