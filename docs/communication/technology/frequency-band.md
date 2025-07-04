@@ -35,13 +35,13 @@ description: 無線通信で使用される電波の周波数範囲の区分の�
 
 ## 関連用語・トピック
 
-- [Ka-バンド](/docs/communication/technology/ka-band)
-- [S-バンド](/docs/communication/technology/s-band)
-- [X-band](/docs/communication/technology/x-band)
-- [アンテナ](/docs/communication/technology/antenna)
-- [通信の用語の意味一覧](/docs/category/communication)
+- [Ka-バンド](/docs/communication/technology/ka-band/)
+- [S-バンド](/docs/communication/technology/s-band/)
+- [X-band](/docs/communication/technology/x-band/)
+- [アンテナ](/docs/communication/technology/antenna/)
+- [通信の用語の意味一覧](/docs/category/communication/)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [推進系の用語の意味一覧](/docs/category/propulsion)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [人工衛星の用語の意味一覧](/docs/category/satellite/)
+- [推進系の用語の意味一覧](/docs/category/propulsion/)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary/)

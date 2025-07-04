@@ -51,13 +51,13 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [国際宇宙ステーションとは？](/docs/satellite/index/iss)  
-- [姿勢制御とは？](/docs/control/technology/attitude-control)  
-- [ランデヴードッキングとは？](/docs/control/technology/rendezvous-docking)  
-- [宇宙飛行士とは？](/docs/glossary/astronaut)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [国際宇宙ステーションとは？](/docs/satellite/index/iss/)  
+- [姿勢制御とは？](/docs/control/technology/attitude-control/)  
+- [ランデヴードッキングとは？](/docs/control/technology/rendezvous-docking/)  
+- [宇宙飛行士とは？](/docs/glossary/astronaut/)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary/)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [探査機の用語の意味一覧](/docs/category/explorer)
+- [ロケットの用語の意味一覧](/docs/category/rocket/)
+- [人工衛星の用語の意味一覧](/docs/category/satellite/)
+- [探査機の用語の意味一覧](/docs/category/explorer/)

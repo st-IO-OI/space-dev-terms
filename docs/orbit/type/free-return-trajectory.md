@@ -32,14 +32,14 @@ description: 目標天体を周回せずに通過し、推進なしで地球へ�
 
 ## 関連用語・トピック
 
-- [再突入とは？](/docs/explorer/technology/reentry)
-- [脱出速度とは？](/docs/orbit/mechanics/escape-velocity)
-- [月探査とは？](/docs/explorer/type/moon-probe)
-- [速度増分・デルタVとは？](/docs/orbit/mechanics/delta-v-budget)
-- [軌道とは？](/docs/orbit/orbit)
-- [軌道の用語の意味一覧](/docs/category/orbit)
+- [再突入とは？](/docs/explorer/technology/reentry/)
+- [脱出速度とは？](/docs/orbit/mechanics/escape-velocity/)
+- [月探査とは？](/docs/explorer/type/moon-probe/)
+- [速度増分・デルタVとは？](/docs/orbit/mechanics/delta-v-budget/)
+- [軌道とは？](/docs/orbit/orbit/)
+- [軌道の用語の意味一覧](/docs/category/orbit/)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket/)
+- [人工衛星の用語の意味一覧](/docs/category/satellite/)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary/)

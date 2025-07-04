@@ -33,14 +33,14 @@ description: 軌道上の物体が地球を中心に楕円形の軌道を描き�
 
 ## 関連用語・トピック
 
-- [円軌道とは？](/docs/orbit/type/circular-orbit)
-- [軌道要素とは？](/docs/orbit/mechanics/orbital-elements)
-- [遠地点とは？](/docs/orbit/mechanics/apogee)
-- [近地点とは？](/docs/orbit/mechanics/perigee)
-- [軌道とは？](/docs/orbit/orbit)
-- [軌道の用語一覧](/docs/category/orbit)
+- [円軌道とは？](/docs/orbit/type/circular-orbit/)
+- [軌道要素とは？](/docs/orbit/mechanics/orbital-elements/)
+- [遠地点とは？](/docs/orbit/mechanics/apogee/)
+- [近地点とは？](/docs/orbit/mechanics/perigee/)
+- [軌道とは？](/docs/orbit/orbit/)
+- [軌道の用語一覧](/docs/category/orbit/)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](/docs/category/rocket)
-- [人工衛星の関連用語一覧](/docs/category/satellite)
-- [探査機の用語一覧](/docs/category/explorer)
+- [ロケットの用語一覧](/docs/category/rocket/)
+- [人工衛星の関連用語一覧](/docs/category/satellite/)
+- [探査機の用語一覧](/docs/category/explorer/)

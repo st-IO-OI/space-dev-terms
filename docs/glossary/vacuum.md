@@ -33,13 +33,13 @@ dectioption: 気体や分子の存在が極めて少ない空間状態のこと�
 
 ## 関連用語・トピック
 
-- [宇宙空間とは？](/docs/glossary/space)
-- [放射冷却とは？](/docs/glossary/radiative-cooling)
-- [熱制御とは？](/docs/glossary/thermal-control)
-- [低軌道とは？](/docs/orbit/type/low-earth-orbit)
-- [大気圏とは？](/docs/glossary/atmosphere)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [宇宙空間とは？](/docs/glossary/space/)
+- [放射冷却とは？](/docs/glossary/radiative-cooling/)
+- [熱制御とは？](/docs/glossary/thermal-control/)
+- [低軌道とは？](/docs/orbit/type/low-earth-orbit/)
+- [大気圏とは？](/docs/glossary/atmosphere/)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary/)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [ロケットの用語の意味一覧](/docs/category/rocket/)
+- [人工衛星の用語の意味一覧](/docs/category/satellite/)

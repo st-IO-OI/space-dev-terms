@@ -33,13 +33,13 @@ description: 軌道上の物体が地球を中心にほぼ一定の距離で回�
 
 ## 関連用語・トピック
 
-- [楕円軌道とは？](/docs/orbit/type/elliptical-orbit)
-- [地球周回軌道とは？](/docs/orbit/type/geocentric-orbit)
-- [静止軌道とは？](/docs/orbit/type/geostationary-orbit)
-- [軌道とは？](/docs/orbit/orbit)
-- [軌道の用語一覧](/docs/category/orbit)
+- [楕円軌道とは？](/docs/orbit/type/elliptical-orbit/)
+- [地球周回軌道とは？](/docs/orbit/type/geocentric-orbit/)
+- [静止軌道とは？](/docs/orbit/type/geostationary-orbit/)
+- [軌道とは？](/docs/orbit/orbit/)
+- [軌道の用語一覧](/docs/category/orbit/)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](/docs/category/rocket)
-- [人工衛星の関連用語一覧](/docs/category/satellite)
-- [探査機の用語一覧](/docs/category/explorer)
+- [ロケットの用語一覧](/docs/category/rocket/)
+- [人工衛星の関連用語一覧](/docs/category/satellite/)
+- [探査機の用語一覧](/docs/category/explorer/)

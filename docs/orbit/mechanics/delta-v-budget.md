@@ -34,15 +34,15 @@ description: 宇宙機が軌道変更や加速を行うために必要な速度�
 
 ## 関連用語・トピック
 
-- [推力とは？](/docs/rocket/propulsion/system/thrust)
-- [質量比とは？](/docs/rocket/propulsion/system/mass-ratio)
-- [軌道投入とは？](/docs/orbit/operation/orbital-insertion)
-- [ホーマン遷移軌道とは？](/docs/orbit/type/hohmann-transfer-orbit)
-- [脱出速度とは？](/docs/orbit/mechanics/escape-velocity)
-- [軌道とは？](/docs/orbit/orbit)
-- [軌道の用語の意味一覧](/docs/category/orbit)
+- [推力とは？](/docs/rocket/propulsion/system/thrust/)
+- [質量比とは？](/docs/rocket/propulsion/system/mass-ratio/)
+- [軌道投入とは？](/docs/orbit/operation/orbital-insertion/)
+- [ホーマン遷移軌道とは？](/docs/orbit/type/hohmann-transfer-orbit/)
+- [脱出速度とは？](/docs/orbit/mechanics/escape-velocity/)
+- [軌道とは？](/docs/orbit/orbit/)
+- [軌道の用語の意味一覧](/docs/category/orbit/)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [推進系の用語の意味一覧](/docs/category/propulsion)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket/)
+- [推進系の用語の意味一覧](/docs/category/propulsion/)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary/)

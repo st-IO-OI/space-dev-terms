@@ -24,7 +24,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/intro/">
             ▶ このページについて
           </Link>
         </div>
@@ -59,17 +59,17 @@ export default function Home() {
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">🌍 サイト内コンテンツ</h2>
           <p className="text-base text-gray-700 leading-relaxed">
-            <Link to="/docs/navi/intro-to-space-dev">
+            <Link to="/docs/navi/intro-to-space-dev/">
               宇宙開発ナビ
             </Link>
           </p>
           <p className="text-base text-gray-700 leading-relaxed">
-            <Link to="/docs/glossary">
+            <Link to="/docs/glossary/">
               宇宙開発用語集
             </Link>
           </p>
           <p className="text-base text-gray-700 leading-relaxed">
-            <Link to="/docs/guide/guidebook">
+            <Link to="/docs/guide/guidebook/">
               宇宙開発ガイドブック
             </Link>
           </p>
@@ -79,7 +79,7 @@ export default function Home() {
           <h2>🔎 用語を提案したい場合は？</h2>
           <p>
             お問い合わせフォームは
-            <Link to="/contact">
+            <Link to="/contact/">
               こちら
             </Link>
           </p>

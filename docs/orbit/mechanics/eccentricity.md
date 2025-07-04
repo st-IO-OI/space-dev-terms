@@ -33,15 +33,15 @@ eの値が大きくなればなるほど軌道の形状が歪んでいく、と�
 
 ## 関連用語・トピック
 
-- [軌道要素とは？](/docs/orbit/mechanics/orbital-elements)
-- [楕円軌道とは？](/docs/orbit/type/elliptical-orbit)
-- [近地点とは？](/docs/orbit/mechanics/perigee)
-- [遠地点とは？](/docs/orbit/mechanics/apogee)
-- [軌道傾斜角とは？](/docs/orbit/mechanics/inclination)
-- [軌道とは？](/docs/orbit/orbit)
-- [軌道の用語一覧](/docs/category/orbit)
+- [軌道要素とは？](/docs/orbit/mechanics/orbital-elements/)
+- [楕円軌道とは？](/docs/orbit/type/elliptical-orbit/)
+- [近地点とは？](/docs/orbit/mechanics/perigee/)
+- [遠地点とは？](/docs/orbit/mechanics/apogee/)
+- [軌道傾斜角とは？](/docs/orbit/mechanics/inclination/)
+- [軌道とは？](/docs/orbit/orbit/)
+- [軌道の用語一覧](/docs/category/orbit/)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](/docs/category/rocket)
-- [人工衛星の関連用語一覧](/docs/category/satellite)
-- [探査機の用語一覧](/docs/category/explorer)
+- [ロケットの用語一覧](/docs/category/rocket/)
+- [人工衛星の関連用語一覧](/docs/category/satellite/)
+- [探査機の用語一覧](/docs/category/explorer/)

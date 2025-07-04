@@ -51,15 +51,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [アポロ計画とは？](/docs/glossary/history/apollo-program)
-- [NASAとは？](/docs/organization/nasa)
-- [通信とは？](/docs/communication/communication)
-- [人工衛星とは？](/docs/satellite/satellite)
-- [宇宙開発史の用語の意味一覧](/docs/category/history)
+- [アポロ計画とは？](/docs/glossary/history/apollo-program/)
+- [NASAとは？](/docs/organization/nasa/)
+- [通信とは？](/docs/communication/communication/)
+- [人工衛星とは？](/docs/satellite/satellite/)
+- [宇宙開発史の用語の意味一覧](/docs/category/history/)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語一覧](/docs/category/propulsion)
-- [宇宙探査機の関連用語一覧](/docs/category/explorer)
-- [通信の用語一覧](/docs/category/communication)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [推進系の用語一覧](/docs/category/propulsion/)
+- [宇宙探査機の関連用語一覧](/docs/category/explorer/)
+- [通信の用語一覧](/docs/category/communication/)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary/)
 
