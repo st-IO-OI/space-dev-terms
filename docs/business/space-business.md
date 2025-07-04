@@ -54,14 +54,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [商業衛星とは？](/business/private-space-utilization)
-- [宇宙ビジネスとは？](/business/space-business)
-- [アステロイドマイニングとは？](/business/category/asteroid-mining)
-- [再使用ロケットとは？](/rocket/type/reusable-rocket)
-- [宇宙ビジネスの用語の意味一覧](/category/business)
+- [商業衛星とは？](/docs/business/private-space-utilization)
+- [宇宙ビジネスとは？](/docs/business/space-business)
+- [アステロイドマイニングとは？](/docs/business/category/asteroid-mining)
+- [再使用ロケットとは？](/docs/rocket/type/reusable-rocket)
+- [宇宙ビジネスの用語の意味一覧](/docs/category/business)
 
 ### 他カテゴリの用語を見てみる
 
-- [ロケットの用語一覧](/category/rocket)
-- [宇宙法の関連用語一覧](/category/policy)
-- [宇宙開発全般の用語一覧](/category/glossary)
+- [ロケットの用語一覧](/docs/category/rocket)
+- [宇宙法の関連用語一覧](/docs/category/policy)
+- [宇宙開発全般の用語一覧](/docs/category/glossary)

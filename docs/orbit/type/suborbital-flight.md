@@ -55,14 +55,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [軌道投入とは？](/orbit/operation/orbital-insertion)  
-- [脱出速度とは？](/orbit/mechanics/escape-velocity)   
-- [再突入とは？](/explorer/technology/reentry)   
-- [重力とは？](/physics/gravity)
-- [軌道とは？](/orbit/orbit)
-- [軌道の用語の意味一覧](/category/orbit)
+- [軌道投入とは？](/docs/orbit/operation/orbital-insertion)  
+- [脱出速度とは？](/docs/orbit/mechanics/escape-velocity)   
+- [再突入とは？](/docs/explorer/technology/reentry)   
+- [重力とは？](/docs/physics/gravity)
+- [軌道とは？](/docs/orbit/orbit)
+- [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/category/rocket)
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

@@ -30,15 +30,15 @@ description: 地球の表面から人工衛星が地球を周回するのに必�
 
 ## 関連用語・トピック
 
-- [脱出速度とは？](docs/orbit/mechanics/escape-velocity)
-- [軌道とは？](docs/orbit/orbit)
-- [打ち上げとは？](docs/rocket/launch/launch)
-- [ロケットエンジンとは？](docs/rocket/propulsion/rocket-engine)
-- [質量比とは？](docs/rocket/propulsion/system/mass-ratio)
-- [軌道とは？](docs/orbit/orbit)
-- [軌道の用語の意味一覧](docs/category/orbit)
+- [脱出速度とは？](/docs/orbit/mechanics/escape-velocity)
+- [軌道とは？](/docs/orbit/orbit)
+- [打ち上げとは？](/docs/rocket/launch/launch)
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
+- [質量比とは？](/docs/rocket/propulsion/system/mass-ratio)
+- [軌道とは？](/docs/orbit/orbit)
+- [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [人工衛星の用語の意味一覧](docs/category/satellite)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

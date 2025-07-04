@@ -52,14 +52,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [真空とは？](/glossary/vacuum)
-- [宇宙空間とは？](/glossary/space)
-- [再突入とは？](/explorer/technology/reentry)
-- [宇宙生命探査とは？](/explorer/type/astrobiology-exploration)
-- [宇宙探査機とは？](/explorer/space-probe)
-- [宇宙開発の用語一覧](/category/glossary)
+- [真空とは？](/docs/glossary/vacuum)
+- [宇宙空間とは？](/docs/glossary/space)
+- [再突入とは？](/docs/explorer/technology/reentry)
+- [宇宙生命探査とは？](/docs/explorer/type/astrobiology-exploration)
+- [宇宙探査機とは？](/docs/explorer/space-probe)
+- [宇宙開発の用語一覧](/docs/category/glossary)
 
 ### 他カテゴリの用語を見てみる
-- [宇宙探査機の用語一覧](/category/explorer)
-- [人工衛星の関連用語一覧](/category/satellite)
-- [通信の用語一覧](/category/communication)
+- [宇宙探査機の用語一覧](/docs/category/explorer)
+- [人工衛星の関連用語一覧](/docs/category/satellite)
+- [通信の用語一覧](/docs/category/communication)

@@ -31,15 +31,15 @@ description: 低軌道や静止軌道などといった地球の周囲を回る�
 
 ## 関連用語・トピック
 
-- [静止軌道とは？](/orbit/type/geostationary-orbit)
-- [低軌道とは？](/orbit/type/low-earth-orbit)
-- [太陽同期軌道とは？](/orbit/type/sun-synchronous-orbit)
-- [軌道傾斜角とは？](/orbit/mechanics/inclination)
-- [ロケットとは？](/rocket/rocket)
-- [軌道とは？](/orbit/orbit)
-- [軌道の用語一覧](/category/orbit)
+- [静止軌道とは？](/docs/orbit/type/geostationary-orbit)
+- [低軌道とは？](/docs/orbit/type/low-earth-orbit)
+- [太陽同期軌道とは？](/docs/orbit/type/sun-synchronous-orbit)
+- [軌道傾斜角とは？](/docs/orbit/mechanics/inclination)
+- [ロケットとは？](/docs/rocket/rocket)
+- [軌道とは？](/docs/orbit/orbit)
+- [軌道の用語一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](/category/rocket)
-- [人工衛星の関連用語一覧](/category/satellite)
-- [探査機の用語一覧](/category/explorer)
+- [ロケットの用語一覧](/docs/category/rocket)
+- [人工衛星の関連用語一覧](/docs/category/satellite)
+- [探査機の用語一覧](/docs/category/explorer)

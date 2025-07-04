@@ -32,14 +32,14 @@ description: 地上からおおよそ高度200km〜2,000kmの範囲に位置す�
 
 ## 関連用語・トピック
 
-- [宇宙ステーションとは？](/satellite/type/space-station)
-- [スペースデブリとは？](/satellite/type/space-debris)
-- [第一宇宙速度とは？](/orbit/mechanics/first-cosmic-velocity)
-- [打ち上げとは？](/rocket/launch/launch)
-- [軌道とは？](/orbit/orbit)
-- [軌道の用語の意味一覧](/category/orbit)
+- [宇宙ステーションとは？](/docs/satellite/type/space-station)
+- [スペースデブリとは？](/docs/satellite/type/space-debris)
+- [第一宇宙速度とは？](/docs/orbit/mechanics/first-cosmic-velocity)
+- [打ち上げとは？](/docs/rocket/launch/launch)
+- [軌道とは？](/docs/orbit/orbit)
+- [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/category/rocket)
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

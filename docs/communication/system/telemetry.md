@@ -34,13 +34,13 @@ description: 遠隔地にある機器の状態や計測データを送信する�
 
 ## 関連用語・トピック
 
-- [コマンド](/communication/system/command)
-- [通信遅延](/communication/technology/communication-delay)
-- [地上局](/communication/system/ground-station)
-- [アンテナ](/communication/technology/antenna)
-- [通信の用語の意味一覧](/category/communication)
+- [コマンド](/docs/communication/system/command)
+- [通信遅延](/docs/communication/technology/communication-delay)
+- [地上局](/docs/communication/system/ground-station)
+- [アンテナ](/docs/communication/technology/antenna)
+- [通信の用語の意味一覧](/docs/category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [推進系の用語の意味一覧](/category/propulsion)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

@@ -52,13 +52,13 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [国際宇宙ステーションとは？](/satellite/index/iss)
-- [重力とは？](/physics/gravity)
-- [宇宙旅行とは？](/business/category/space-tourism)
-- [宇宙旅行とは？](/business/category/space-tourism)
-- [宇宙環境の用語の意味一覧](/category/environment)
+- [国際宇宙ステーションとは？](/docs/satellite/index/iss)
+- [重力とは？](/docs/physics/gravity)
+- [宇宙旅行とは？](/docs/business/category/space-tourism)
+- [宇宙旅行とは？](/docs/business/category/space-tourism)
+- [宇宙環境の用語の意味一覧](/docs/category/environment)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [宇宙ビジネスの用語の意味一覧](/category/business)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [宇宙ビジネスの用語の意味一覧](/docs/category/business)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

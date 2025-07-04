@@ -34,13 +34,13 @@ DSNは大型のパラボラアンテナを備えており、XバンドやKaバ�
 
 ## 関連用語・トピック
 
-- [地上局](/communication/system/ground-station)
-- [通信遅延](/communication/technology/communication-delay)
-- [Ka-バンド](/communication/technology/ka-band)
-- [テレメトリ](/communication/system/telemetry)
-- [通信の用語の意味一覧](/category/communication)
+- [地上局](/docs/communication/system/ground-station)
+- [通信遅延](/docs/communication/technology/communication-delay)
+- [Ka-バンド](/docs/communication/technology/ka-band)
+- [テレメトリ](/docs/communication/system/telemetry)
+- [通信の用語の意味一覧](/docs/category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [推進系の用語の意味一覧](/category/propulsion)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

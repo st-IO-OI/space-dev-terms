@@ -58,15 +58,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [比推力とは？](/rocket/propulsion/system/isp)
-- [質量比とは？](/rocket/propulsion/system/mass-ratio)
-- [推力とは？](/rocket/propulsion/system/thrust)
-- [化学推進とは？](/rocket/propulsion/type/chemical-propulsion)
-- [電気推進とは？](/rocket/propulsion/type/electric-propulsion)
-- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](/category/propulsion)
+- [比推力とは？](/docs/rocket/propulsion/system/isp)
+- [質量比とは？](/docs/rocket/propulsion/system/mass-ratio)
+- [推力とは？](/docs/rocket/propulsion/system/thrust)
+- [化学推進とは？](/docs/rocket/propulsion/type/chemical-propulsion)
+- [電気推進とは？](/docs/rocket/propulsion/type/electric-propulsion)
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/category/rocket)
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

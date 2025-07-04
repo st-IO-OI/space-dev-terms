@@ -58,13 +58,13 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [液体燃料エンジンとは？](/rocket/propulsion/type/liquid-engine)
-- [固体燃料ロケットとは？](/rocket/type/solid-rocket)
-- [イオンエンジンとは？](/rocket/propulsion/type/ion-engine)
-- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](/category/propulsion)
+- [液体燃料エンジンとは？](/docs/rocket/propulsion/type/liquid-engine)
+- [固体燃料ロケットとは？](/docs/rocket/type/solid-rocket)
+- [イオンエンジンとは？](/docs/rocket/propulsion/type/ion-engine)
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/category/rocket)
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

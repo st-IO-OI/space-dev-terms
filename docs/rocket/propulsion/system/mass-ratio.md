@@ -33,15 +33,15 @@ description: ロケットの総質量と残存質量の比率を表す指標で�
 
 ## 関連用語・トピック
 
-- [ロケット方程式とは？](/rocket/propulsion/system/rocket-equation)
-- [デルタVとは？](/orbit/mechanics/delta-v-budget)
-- [推進剤とは？](/rocket/propulsion/system/propellant)
-- [比推力とは？](/rocket/propulsion/system/isp)
-- [ペイロードとは？](/rocket/system/payload)
-- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](/category/propulsion)
+- [ロケット方程式とは？](/docs/rocket/propulsion/system/rocket-equation)
+- [デルタVとは？](/docs/orbit/mechanics/delta-v-budget)
+- [推進剤とは？](/docs/rocket/propulsion/system/propellant)
+- [比推力とは？](/docs/rocket/propulsion/system/isp)
+- [ペイロードとは？](/docs/rocket/system/payload)
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/category/rocket)
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

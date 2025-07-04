@@ -34,14 +34,14 @@ description: 2つの円軌道間を移動するために用いられる最も燃
 
 ## 関連用語・トピック
 
-- [軌道投入とは？](/orbit/operation/orbital-insertion)
-- [速度増分・デルタVとは？](/orbit/mechanics/delta-v-budget)
-- [脱出速度とは？](/orbit/mechanics/escape-velocity)
-- [推力とは？](/rocket/propulsion/system/thrust)
-- [軌道とは？](/orbit/orbit)
-- [軌道の用語の意味一覧](/category/orbit)
+- [軌道投入とは？](/docs/orbit/operation/orbital-insertion)
+- [速度増分・デルタVとは？](/docs/orbit/mechanics/delta-v-budget)
+- [脱出速度とは？](/docs/orbit/mechanics/escape-velocity)
+- [推力とは？](/docs/rocket/propulsion/system/thrust)
+- [軌道とは？](/docs/orbit/orbit)
+- [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/category/rocket)
-- [推進系の用語の意味一覧](/category/propulsion)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

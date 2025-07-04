@@ -41,15 +41,15 @@ description: ステージ分離とは、ロケットの各段階を順次切り�
 
 ## 関連用語・トピック
 
-- [推力とは？](/rocket/propulsion/system/thrust)  
-- [液体燃料ロケットとは？](/rocket/type/liquid-rocket)  
-- [打ち上げとは？](/rocket/launch/launch)  
-- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)
-- [第一宇宙速度とは？](/orbit/mechanics/first-cosmic-velocity)
-- [ロケットとは？](/rocket/rocket)
-- [ロケットの用語の意味一覧](/category/rocket)
+- [推力とは？](/docs/rocket/propulsion/system/thrust)  
+- [液体燃料ロケットとは？](/docs/rocket/type/liquid-rocket)  
+- [打ち上げとは？](/docs/rocket/launch/launch)  
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
+- [第一宇宙速度とは？](/docs/orbit/mechanics/first-cosmic-velocity)
+- [ロケットとは？](/docs/rocket/rocket)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](/category/satellite)
-- [推進系の用語の意味一覧](/category/propulsion)
-- [宇宙開発の用語の意味一覧](/category/glossary)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

@@ -31,15 +31,15 @@ description: 天体の重力圏から抜け出すために必要な最小速度�
 
 ## 関連用語・トピック
 
-- [第一宇宙速度とは？](docs/orbit/mechanics/first-cosmic-velocity)
-- [速度増分・デルタVとは？](docs/orbit/mechanics/delta-v-budget)
-- [ホーマン遷移軌道とは？](docs/orbit/type/hohmann-transfer-orbit)
-- [推進力とは？](docs/rocket/propulsion/system/propulsion)
-- [重力とは？](docs/physics/gravity)
-- [軌道とは？](docs/orbit/orbit)
-- [軌道の用語の意味一覧](docs/category/orbit)
+- [第一宇宙速度とは？](/docs/orbit/mechanics/first-cosmic-velocity)
+- [速度増分・デルタVとは？](/docs/orbit/mechanics/delta-v-budget)
+- [ホーマン遷移軌道とは？](/docs/orbit/type/hohmann-transfer-orbit)
+- [推進力とは？](/docs/rocket/propulsion/system/propulsion)
+- [重力とは？](/docs/physics/gravity)
+- [軌道とは？](/docs/orbit/orbit)
+- [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [推進系の用語の意味一覧](docs/category/propulsion)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)
