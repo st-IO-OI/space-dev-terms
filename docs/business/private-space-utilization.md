@@ -1,6 +1,6 @@
 ---
 title: 民間宇宙利用
-slug: business/private-space-utilization
+slug: /business/private-space-utilization
 category: business
 description: 民間宇宙利用とは、企業や個人が宇宙空間を活用して製品やサービスを提供する商業的な活動の総称である。
 ---
