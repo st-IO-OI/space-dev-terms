@@ -33,13 +33,13 @@ description: 宇宙機との間で電波を用いた通信を行うための地�
 
 ## 関連用語・トピック
 
-- [アンテナ](communication/technology/antenna)
-- [テレメトリ](communication/system/telemetry)
-- [通信遅延](communication/technology/communication-delay)
-- [深宇宙ネットワーク](communication/system/dsn)
-- [通信の用語の意味一覧](category/communication)
+- [アンテナ](/communication/technology/antenna)
+- [テレメトリ](/communication/system/telemetry)
+- [通信遅延](/communication/technology/communication-delay)
+- [深宇宙ネットワーク](/communication/system/dsn)
+- [通信の用語の意味一覧](/category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](category/satellite)
-- [推進系の用語の意味一覧](category/propulsion)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [推進系の用語の意味一覧](/category/propulsion)
+- [宇宙開発の用語の意味一覧](/category/glossary)

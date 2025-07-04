@@ -32,13 +32,13 @@ description: 人工衛星の軌道面が地球の赤道面に対してなす角�
 
 ## 関連用語・トピック
 
-- [太陽同期軌道とは？](orbit/type/sun-synchronous-orbit)
-- [軌道要素とは？](orbit/mechanics/orbital-elements)
-- [極軌道とは？](orbit/type/polar-orbit)
-- [軌道とは？](orbit/orbit)
-- [軌道の用語一覧](category/orbit)
+- [太陽同期軌道とは？](docs/orbit/type/sun-synchronous-orbit)
+- [軌道要素とは？](docs/orbit/mechanics/orbital-elements)
+- [極軌道とは？](docs/orbit/type/polar-orbit)
+- [軌道とは？](docs/orbit/orbit)
+- [軌道の用語一覧](docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](category/rocket)
-- [人工衛星の関連用語一覧](category/satellite)
-- [探査機の用語一覧](category/explorer)
+- [ロケットの用語一覧](docs/category/rocket)
+- [人工衛星の関連用語一覧](docs/category/satellite)
+- [探査機の用語一覧](docs/category/explorer)

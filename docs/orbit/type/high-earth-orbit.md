@@ -53,14 +53,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [測位衛星とは？](satellite/type/navigation-satellite)
-- [静止軌道とは？](orbit/type/geostationary-orbit)
-- [中軌道とは？](orbit/type/medium-earth-orbit)
-- [低軌道とは？](orbit/type/low-earth-orbit)
-- [軌道とは？](orbit/orbit)
-- [軌道の用語の意味一覧](category/orbit)
+- [測位衛星とは？](/satellite/type/navigation-satellite)
+- [静止軌道とは？](/orbit/type/geostationary-orbit)
+- [中軌道とは？](/orbit/type/medium-earth-orbit)
+- [低軌道とは？](/orbit/type/low-earth-orbit)
+- [軌道とは？](/orbit/orbit)
+- [軌道の用語の意味一覧](/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](category/satellite)
-- [ロケットの用語の意味一覧](category/rocket)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [宇宙開発の用語の意味一覧](/category/glossary)

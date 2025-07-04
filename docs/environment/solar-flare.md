@@ -58,12 +58,12 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [地磁気とは？](environment/geomagnetic-field)
-- [太陽風とは？](environment/solar-wind)
-- [宇宙居住とは？](environment/space-habitation)
-- [宇宙線とは？](environment/cosmic-rays)
-- [宇宙環境の用語の意味一覧](category/environment)
+- [地磁気とは？](/environment/geomagnetic-field)
+- [太陽風とは？](/environment/solar-wind)
+- [宇宙居住とは？](/environment/space-habitation)
+- [宇宙線とは？](/environment/cosmic-rays)
+- [宇宙環境の用語の意味一覧](/category/environment)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](category/satellite)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [宇宙開発の用語の意味一覧](/category/glossary)

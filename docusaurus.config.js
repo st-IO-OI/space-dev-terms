@@ -100,18 +100,18 @@ const config = {
         {
           title: 'サイト案内',
           items: [
-            { label: 'このサイトについて', to: 'intro' },
-            { label: 'プライバシーポリシー', to: 'privacy-policy' },
-            { label: '免責事項', to: 'disclaimer' },
-            { label: 'お問い合わせ', to: 'contact' },
+            { label: 'このサイトについて', to: '/intro' },
+            { label: 'プライバシーポリシー', to: '/privacy-policy' },
+            { label: '免責事項', to: '/disclaimer' },
+            { label: 'お問い合わせ', to: '/contact' },
           ],
         },
         {
           title: 'カテゴリ',
           items: [
-            { label: '宇宙開発ナビ（これから宇宙を目指す人たちへ）', to: 'navi/intro-to-space-dev' },
-            { label: '宇宙開発用語集（もっと宇宙を学びたい人たちへ）', to: 'glossary' },
-            { label: '宇宙開発ガイド（宇宙へ向かいたい人たちへ）', to: 'guide/guidebook' },
+            { label: '宇宙開発ナビ（これから宇宙を目指す人たちへ）', to: '/navi/intro-to-space-dev' },
+            { label: '宇宙開発用語集（もっと宇宙を学びたい人たちへ）', to: '/glossary' },
+            { label: '宇宙開発ガイド（宇宙へ向かいたい人たちへ）', to: '/guide/guidebook' },
           ],
         },
         {

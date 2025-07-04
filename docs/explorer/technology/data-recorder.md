@@ -58,13 +58,13 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [宇宙線とは？](environment/cosmic-rays)
-- [テレメトリとは？](communication/system/telemetry)
-- [衛星データとは？](satellite/system/satellite-data)
-- [宇宙探査機とは？](explorer/space-probe)
-- [探査の用語の意味一覧](category/explorer)
+- [宇宙線とは？](/environment/cosmic-rays)
+- [テレメトリとは？](/communication/system/telemetry)
+- [衛星データとは？](/satellite/system/satellite-data)
+- [宇宙探査機とは？](/explorer/space-probe)
+- [探査の用語の意味一覧](/category/explorer)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [推進系の用語の意味一覧](category/propulsion)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [推進系の用語の意味一覧](/category/propulsion)
+- [宇宙開発の用語の意味一覧](/category/glossary)

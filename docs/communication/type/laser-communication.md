@@ -56,14 +56,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [光通信とは？](communication/type/optical-communication)
-- [ビットレートとは？](communication/technology/bit-rate)
-- [アンテナとは？](communication/technology/antenna)
-- [Ka-バンドとは？](communication/technology/ka-band)
-- [通信遅延とは？](communication/technology/communication-delay)
-- [通信の用語の意味一覧](category/communication)
+- [光通信とは？](/communication/type/optical-communication)
+- [ビットレートとは？](/communication/technology/bit-rate)
+- [アンテナとは？](/communication/technology/antenna)
+- [Ka-バンドとは？](/communication/technology/ka-band)
+- [通信遅延とは？](/communication/technology/communication-delay)
+- [通信の用語の意味一覧](/category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](category/satellite)
-- [推進系の用語の意味一覧](category/propulsion)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [推進系の用語の意味一覧](/category/propulsion)
+- [宇宙開発の用語の意味一覧](/category/glossary)

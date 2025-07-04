@@ -33,14 +33,14 @@ description: 小惑星からのサンプルリターンに世界で初めて成�
 
 ## 関連用語・トピック
 
-- [はやぶさ2とは？](explorer/mission/hayabusa2)
-- [サンプルリターンとは？](explorer/technology/sample-return)
-- [カプセルとは？](explorer/technology/capsule)
-- [イオンエンジンとは？](rocket/propulsion/type/ion-engine)
-- [宇宙探査機とは？](explorer/space-probe)
-- [探査の用語の意味一覧](category/explorer)
+- [はやぶさ2とは？](/explorer/mission/hayabusa2)
+- [サンプルリターンとは？](/explorer/technology/sample-return)
+- [カプセルとは？](/explorer/technology/capsule)
+- [イオンエンジンとは？](/rocket/propulsion/type/ion-engine)
+- [宇宙探査機とは？](/explorer/space-probe)
+- [探査の用語の意味一覧](/category/explorer)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語の意味一覧](category/propulsion)
-- [宇宙開発史の用語の意味一覧](category/history)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [推進系の用語の意味一覧](/category/propulsion)
+- [宇宙開発史の用語の意味一覧](/category/history)
+- [宇宙開発の用語の意味一覧](/category/glossary)

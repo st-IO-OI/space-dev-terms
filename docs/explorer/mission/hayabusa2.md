@@ -68,14 +68,14 @@ description: 小惑星リュウグウからのサンプルリターンや人工�
 
 ## 関連用語・トピック
 
-- [はやぶさとは？](explorer/mission/hayabusa)
-- [サンプルリターンとは？](explorer/technology/sample-return)
-- [スイングバイとは？](explorer/technology/swingby)
-- [カプセルとは？](explorer/technology/capsule)
-- [宇宙探査機とは？](explorer/space-probe)
-- [探査の用語の意味一覧](category/explorer)
+- [はやぶさとは？](/explorer/mission/hayabusa)
+- [サンプルリターンとは？](/explorer/technology/sample-return)
+- [スイングバイとは？](/explorer/technology/swingby)
+- [カプセルとは？](/explorer/technology/capsule)
+- [宇宙探査機とは？](/explorer/space-probe)
+- [探査の用語の意味一覧](/category/explorer)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [宇宙開発史の用語の意味一覧](category/history)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [宇宙開発史の用語の意味一覧](/category/history)
+- [宇宙開発の用語の意味一覧](/category/glossary)

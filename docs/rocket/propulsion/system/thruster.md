@@ -56,15 +56,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [推力とは？](rocket/propulsion/system/thrust)
-- [イオンエンジンとは？](rocket/propulsion/type/ion-engine)
-- [ドッキングとは？](glossary/docking)
-- [国際宇宙ステーションとは？](satellite/index/iss)
-- [はやぶさとは？](explorer/mission/hayabusa)
-- [ロケットエンジンとは？](rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](category/propulsion)
+- [推力とは？](/rocket/propulsion/system/thrust)
+- [イオンエンジンとは？](/rocket/propulsion/type/ion-engine)
+- [ドッキングとは？](/glossary/docking)
+- [国際宇宙ステーションとは？](/satellite/index/iss)
+- [はやぶさとは？](/explorer/mission/hayabusa)
+- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [人工衛星の用語の意味一覧](category/satellite)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [宇宙開発の用語の意味一覧](/category/glossary)

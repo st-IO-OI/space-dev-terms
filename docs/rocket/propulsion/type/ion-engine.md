@@ -32,17 +32,17 @@ description: 電気エネルギーを用いてイオン化したガスを加速�
 
 ## 関連用語・トピック
 
-- [電気推進とは？](rocket/propulsion/type/electric-propulsion)
-- [推進力とは？](rocket/propulsion/system/propulsion)
-- [比推力とは？](rocket/propulsion/system/isp)
-- [はやぶさ2とは？](explorer/mission/hayabusa2)
-- [推進剤とは？](rocket/propulsion/system/propellant)
-- [ロケットエンジンとは？](rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](category/propulsion)
+- [電気推進とは？](/rocket/propulsion/type/electric-propulsion)
+- [推進力とは？](/rocket/propulsion/system/propulsion)
+- [比推力とは？](/rocket/propulsion/system/isp)
+- [はやぶさ2とは？](/explorer/mission/hayabusa2)
+- [推進剤とは？](/rocket/propulsion/system/propellant)
+- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [探査機の用語の意味一覧](category/explorer)
-- [宇宙開発歴の用語の意味一覧](category/history)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [探査機の用語の意味一覧](/category/explorer)
+- [宇宙開発歴の用語の意味一覧](/category/history)
 
 

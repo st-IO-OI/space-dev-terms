@@ -31,15 +31,15 @@ description: 地球を回る軌道上にある天体や人工衛星が地球に�
 
 ## 関連用語・トピック
 
-- [遠地点とは？](orbit/mechanics/apogee)
-- [離心率とは？](orbit/mechanics/eccentricity)
-- [軌道要素とは？](orbit/mechanics/orbital-elements)
-- [楕円軌道とは？](orbit/type/elliptical-orbit)
-- [地球周回軌道とは？](orbit/type/geocentric-orbit)
-- [軌道とは？](orbit/orbit)
-- [軌道の用語一覧とは？](category/orbit)
+- [遠地点とは？](/orbit/mechanics/apogee)
+- [離心率とは？](/orbit/mechanics/eccentricity)
+- [軌道要素とは？](/orbit/mechanics/orbital-elements)
+- [楕円軌道とは？](/orbit/type/elliptical-orbit)
+- [地球周回軌道とは？](/orbit/type/geocentric-orbit)
+- [軌道とは？](/orbit/orbit)
+- [軌道の用語一覧とは？](/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語一覧](category/rocket)
-- [人工衛星の関連用語一覧](category/satellite)
-- [探査機の用語一覧](category/explorer)
+- [ロケットの用語一覧](/category/rocket)
+- [人工衛星の関連用語一覧](/category/satellite)
+- [探査機の用語一覧](/category/explorer)

@@ -36,14 +36,14 @@ description: 大気圏外から地球大気圏に人工物体が再び進入す�
 
 ## 関連用語・トピック
 
-- [大気圏とは？](glossary/atmosphere)
-- [カプセルとは？](explorer/technology/capsule)
-- [耐熱シールドとは？](explorer/technology/heat-shield)
-- [サンプルリターンとは？](explorer/technology/sample-return)
-- [宇宙探査機とは？](explorer/space-probe)
-- [スペースデブリとは？](satellite/type/space-debris)
+- [大気圏とは？](/glossary/atmosphere)
+- [カプセルとは？](/explorer/technology/capsule)
+- [耐熱シールドとは？](/explorer/technology/heat-shield)
+- [サンプルリターンとは？](/explorer/technology/sample-return)
+- [宇宙探査機とは？](/explorer/space-probe)
+- [スペースデブリとは？](/satellite/type/space-debris)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [宇宙開発史の用語の意味一覧](category/history)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [宇宙開発史の用語の意味一覧](/category/history)
+- [宇宙開発の用語の意味一覧](/category/glossary)

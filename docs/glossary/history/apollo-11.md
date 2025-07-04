@@ -52,14 +52,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [アポロ計画とは？](glossary/history/apollo-program)
-- [月探査とは？](explorer/type/moon-probe)
-- [着陸機とは？](explorer/technology/lander)
-- [宇宙探査機とは？](explorer/space-probe)
-- [宇宙開発史の用語の意味一覧](category/history)
+- [アポロ計画とは？](/glossary/history/apollo-program)
+- [月探査とは？](/explorer/type/moon-probe)
+- [着陸機とは？](/explorer/technology/lander)
+- [宇宙探査機とは？](/explorer/space-probe)
+- [宇宙開発史の用語の意味一覧](/category/history)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語一覧](category/propulsion)
-- [宇宙探査機の関連用語一覧](category/explorer)
-- [通信の用語一覧](category/communication)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [推進系の用語一覧](/category/propulsion)
+- [宇宙探査機の関連用語一覧](/category/explorer)
+- [通信の用語一覧](/category/communication)
+- [宇宙開発の用語の意味一覧](/category/glossary)

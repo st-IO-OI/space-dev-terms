@@ -33,13 +33,13 @@ description: 地上から宇宙機に対して送信される操作指令のこ�
 
 ## 関連用語・トピック
 
-- [テレメトリ](communication/system/telemetry)
-- [通信遅延](communication/technology/communication-delay)
-- [深宇宙ネットワーク](communication/system/dsn)
-- [地上局](communication/system/ground-station)
-- [通信の用語の意味一覧](category/communication)
+- [テレメトリ](/communication/system/telemetry)
+- [通信遅延](/communication/technology/communication-delay)
+- [深宇宙ネットワーク](/communication/system/dsn)
+- [地上局](/communication/system/ground-station)
+- [通信の用語の意味一覧](/category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](category/satellite)
-- [推進系の用語の意味一覧](category/propulsion)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [推進系の用語の意味一覧](/category/propulsion)
+- [宇宙開発の用語の意味一覧](/category/glossary)

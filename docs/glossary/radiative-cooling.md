@@ -53,14 +53,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [熱制御とは？](glossary/thermal-control)  
-- [宇宙空間とは？](glossary/space)
-- [大気圏とは？](glossary/atmosphere)
-- [ロケットとは？](rocket/rocket)
-- [宇宙飛行士とは？](glossary/astronaut)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [熱制御とは？](/glossary/thermal-control)  
+- [宇宙空間とは？](/glossary/space)
+- [大気圏とは？](/glossary/atmosphere)
+- [ロケットとは？](/rocket/rocket)
+- [宇宙飛行士とは？](/glossary/astronaut)
+- [宇宙開発の用語の意味一覧](/category/glossary)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [人工衛星の用語の意味一覧](category/satellite)
-- [探査機の用語の意味一覧](category/explorer)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [探査機の用語の意味一覧](/category/explorer)

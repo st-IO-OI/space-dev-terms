@@ -33,13 +33,13 @@ X-bandは、マイクロ波の一部として定義される周波数帯で、S�
 
 ## 関連用語・トピック
 
-- [周波数帯](communication/technology/frequency-band)
-- [Ka-バンド](communication/technology/ka-band)
-- [S-バンド](communication/technology/s-band)
-- [テレメトリ](communication/system/telemetry)
-- [通信の用語の意味一覧](category/communication)
+- [周波数帯](/communication/technology/frequency-band)
+- [Ka-バンド](/communication/technology/ka-band)
+- [S-バンド](/communication/technology/s-band)
+- [テレメトリ](/communication/system/telemetry)
+- [通信の用語の意味一覧](/category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](category/satellite)
-- [推進系の用語の意味一覧](category/propulsion)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [推進系の用語の意味一覧](/category/propulsion)
+- [宇宙開発の用語の意味一覧](/category/glossary)

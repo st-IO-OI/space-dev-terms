@@ -31,13 +31,13 @@ S-バンドは、周波数帯のうち約2～4GHzの周波数帯域のことを�
 
 ## 関連用語・トピック
 
-- [周波数帯](communication/technology/frequency-band)
-- [X-band](communication/technology/x-band)
-- [テレメトリ](communication/system/telemetry)
-- [アンテナ](communication/technology/antenna)
-- [通信の用語の意味一覧](category/communication)
+- [周波数帯](/communication/technology/frequency-band)
+- [X-band](/communication/technology/x-band)
+- [テレメトリ](/communication/system/telemetry)
+- [アンテナ](/communication/technology/antenna)
+- [通信の用語の意味一覧](/category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](category/satellite)
-- [推進系の用語の意味一覧](category/propulsion)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [推進系の用語の意味一覧](/category/propulsion)
+- [宇宙開発の用語の意味一覧](/category/glossary)

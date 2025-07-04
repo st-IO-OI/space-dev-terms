@@ -49,15 +49,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
  
-- [固体燃料ロケットとは？](rocket/type/solid-rocket)  
-- [H3ロケットとは？](rocket/index/h3-rocket)  
-- [打ち上げ能力とは？](rocket/launch/launch-capacity)  
-- [超小型衛星とは？](satellite/type/cubesat)  
-- [ロケットとは？](rocket/rocket)
-- [ロケットの用語一覧](category/rocket)
+- [固体燃料ロケットとは？](/rocket/type/solid-rocket)  
+- [H3ロケットとは？](/rocket/index/h3-rocket)  
+- [打ち上げ能力とは？](/rocket/launch/launch-capacity)  
+- [超小型衛星とは？](/satellite/type/cubesat)  
+- [ロケットとは？](/rocket/rocket)
+- [ロケットの用語一覧](/category/rocket)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語一覧](category/propulsion)
-- [人工衛星の関連用語一覧](category/satellite)
-- [探査機の用語一覧](category/explorer)
-- [宇宙開発の用語一覧](category/glossary)
+- [推進系の用語一覧](/category/propulsion)
+- [人工衛星の関連用語一覧](/category/satellite)
+- [探査機の用語一覧](/category/explorer)
+- [宇宙開発の用語一覧](/category/glossary)

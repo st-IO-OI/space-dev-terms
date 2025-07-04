@@ -34,13 +34,13 @@ description: 大気圏とは、地球を取り巻く気体の層であり、宇�
 
 ## 関連用語・トピック
 
-- [真空とは？](glossary/vacuum)
-- [宇宙空間とは？](glossary/space)
-- [再突入とは？](explorer/technology/reentry)
-- [通信とは？](communication/communication)
-- [宇宙開発の用語一覧](category/glossary)
+- [真空とは？](/glossary/vacuum)
+- [宇宙空間とは？](/glossary/space)
+- [再突入とは？](/explorer/technology/reentry)
+- [通信とは？](/communication/communication)
+- [宇宙開発の用語一覧](/category/glossary)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語一覧](category/propulsion)
-- [人工衛星の関連用語一覧](category/satellite)
-- [通信の用語一覧](category/communication)
+- [推進系の用語一覧](/category/propulsion)
+- [人工衛星の関連用語一覧](/category/satellite)
+- [通信の用語一覧](/category/communication)

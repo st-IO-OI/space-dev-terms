@@ -51,16 +51,16 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [宇宙ビジネスとは？](business/space-business)
-- [商業宇宙法とは？](policy/commercial-space-law)
-- [宇宙旅行とは？](business/category/space-tourism)
-- [宇宙エンタメとは？](business/category/space-entertainment)
-- [アステロイドマイニングとは？](business/category/asteroid-mining)
-- [宇宙ビジネスの用語の意味一覧](category/business)
+- [宇宙ビジネスとは？](/business/space-business)
+- [商業宇宙法とは？](/policy/commercial-space-law)
+- [宇宙旅行とは？](/business/category/space-tourism)
+- [宇宙エンタメとは？](/business/category/space-entertainment)
+- [アステロイドマイニングとは？](/business/category/asteroid-mining)
+- [宇宙ビジネスの用語の意味一覧](/category/business)
 
 ### 他カテゴリの用語を見てみる
 
-- [ロケットの用語一覧](category/rocket)
-- [宇宙法の関連用語一覧](category/policy)
-- [宇宙開発全般の用語一覧](category/glossary)
+- [ロケットの用語一覧](/category/rocket)
+- [宇宙法の関連用語一覧](/category/policy)
+- [宇宙開発全般の用語一覧](/category/glossary)
 

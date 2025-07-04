@@ -35,15 +35,15 @@ description: ロケットやジェットエンジンなどが物体を前進さ�
 
 ## 関連用語・トピック
 
-- [比推力とは？](rocket/propulsion/system/isp)
-- [燃焼室とは？](rocket/propulsion/system/combustion-chamber)
-- [ノズルとは？](rocket/propulsion/system/nozzle)
-- [質量比とは？](rocket/propulsion/system/mass-ratio)
-- [ロケットエンジンとは？](rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](category/propulsion)
+- [比推力とは？](/rocket/propulsion/system/isp)
+- [燃焼室とは？](/rocket/propulsion/system/combustion-chamber)
+- [ノズルとは？](/rocket/propulsion/system/nozzle)
+- [質量比とは？](/rocket/propulsion/system/mass-ratio)
+- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [人工衛星の用語の意味一覧](category/satellite)
-- [探査機の用語の意味一覧](category/explorer)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [探査機の用語の意味一覧](/category/explorer)
 

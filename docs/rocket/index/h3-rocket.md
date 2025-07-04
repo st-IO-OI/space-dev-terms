@@ -52,14 +52,14 @@ H3ロケットの開発においては、国際競争力のある打ち上げサ
 
 ## 関連用語・トピック
 
-- [液体燃料ロケットとは？](rocket/type/liquid-rocket)
-- [イプシロンロケットとは？](rocket/index/epsilon-rocket) 
-- [静止軌道とは？](orbit/type/geostationary-orbit)
-- [月探査とは？](explorer/type/moon-probe)
-- [ロケットとは？](rocket/rocket)
-- [ロケットの用語一覧](category/rocket)
+- [液体燃料ロケットとは？](/rocket/type/liquid-rocket)
+- [イプシロンロケットとは？](/rocket/index/epsilon-rocket) 
+- [静止軌道とは？](/orbit/type/geostationary-orbit)
+- [月探査とは？](/explorer/type/moon-probe)
+- [ロケットとは？](/rocket/rocket)
+- [ロケットの用語一覧](/category/rocket)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語一覧](category/propulsion)
-- [人工衛星の関連用語一覧](category/satellite)
-- [探査機の用語一覧](category/explorer)
+- [推進系の用語一覧](/category/propulsion)
+- [人工衛星の関連用語一覧](/category/satellite)
+- [探査機の用語一覧](/category/explorer)

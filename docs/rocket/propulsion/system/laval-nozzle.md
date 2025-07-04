@@ -53,14 +53,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [ロケット方程式とは？](rocket/propulsion/system/rocket-equation)
-- [比推力とは？](rocket/propulsion/system/isp)
-- [質量比とは？](rocket/propulsion/system/mass-ratio)
-- [推力とは？](rocket/propulsion/system/thrust)
-- [ロケットエンジンとは？](rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](category/propulsion)
+- [ロケット方程式とは？](/rocket/propulsion/system/rocket-equation)
+- [比推力とは？](/rocket/propulsion/system/isp)
+- [質量比とは？](/rocket/propulsion/system/mass-ratio)
+- [推力とは？](/rocket/propulsion/system/thrust)
+- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [人工衛星の用語の意味一覧](category/satellite)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [宇宙開発の用語の意味一覧](/category/glossary)

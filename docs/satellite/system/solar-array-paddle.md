@@ -51,15 +51,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [ペイロードとは？](rocket/system/payload)
-- [姿勢制御とは？](control/technology/attitude-control)
-- [はやぶさとは？](explorer/mission/hayabusa)
-- [超小型衛星とは？](satellite/type/cubesat)
-- [人工衛星とは？](satellite/satellite)
-- [人工衛星の用語の意味一覧](category/satellite)
+- [ペイロードとは？](/rocket/system/payload)
+- [姿勢制御とは？](/control/technology/attitude-control)
+- [はやぶさとは？](/explorer/mission/hayabusa)
+- [超小型衛星とは？](/satellite/type/cubesat)
+- [人工衛星とは？](/satellite/satellite)
+- [人工衛星の用語の意味一覧](/category/satellite)
 
 ### 他カテゴリの用語を見てみる
-- [推進とは？](category/propulsion)
-- [通信とは？](communication/communication)
-- [宇宙探査機とは？](explorer/space-probe)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [推進とは？](/category/propulsion)
+- [通信とは？](/communication/communication)
+- [宇宙探査機とは？](/explorer/space-probe)
+- [宇宙開発の用語の意味一覧](/category/glossary)

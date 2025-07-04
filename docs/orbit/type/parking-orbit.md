@@ -55,14 +55,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [静止軌道とは？](orbit/type/geostationary-orbit)  
-- [遷移軌道とは？](orbit/type/transfer-orbit)  
-- [ステージ分離とは？](rocket/system/staging)   
-- [軌道投入とは？](orbit/operation/orbital-insertion)
-- [軌道とは？](orbit/orbit)
-- [軌道の用語の意味一覧](category/orbit)
+- [静止軌道とは？](/orbit/type/geostationary-orbit)  
+- [遷移軌道とは？](/orbit/type/transfer-orbit)  
+- [ステージ分離とは？](/rocket/system/staging)   
+- [軌道投入とは？](/orbit/operation/orbital-insertion)
+- [軌道とは？](/orbit/orbit)
+- [軌道の用語の意味一覧](/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [人工衛星の用語の意味一覧](category/satellite)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [宇宙開発の用語の意味一覧](/category/glossary)

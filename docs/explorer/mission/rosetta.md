@@ -55,14 +55,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [着陸機とは？](explorer/technology/lander)
-- [はやぶさとは？](explorer/mission/hayabusa)
-- [はやぶさ2とは？](explorer/mission/hayabusa2)
-- [ランデヴーとは？](explorer/technology/rendezvous)
-- [宇宙探査機とは？](explorer/space-probe)
-- [探査の用語の意味一覧](category/explorer)
+- [着陸機とは？](/explorer/technology/lander)
+- [はやぶさとは？](/explorer/mission/hayabusa)
+- [はやぶさ2とは？](/explorer/mission/hayabusa2)
+- [ランデヴーとは？](/explorer/technology/rendezvous)
+- [宇宙探査機とは？](/explorer/space-probe)
+- [探査の用語の意味一覧](/category/explorer)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](category/rocket)
-- [宇宙開発史の用語の意味一覧](category/history)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [ロケットの用語の意味一覧](/category/rocket)
+- [宇宙開発史の用語の意味一覧](/category/history)
+- [宇宙開発の用語の意味一覧](/category/glossary)

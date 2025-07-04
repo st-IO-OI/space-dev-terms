@@ -33,14 +33,14 @@ description: 宇宙空間において2つの物体が軌道上で接近し、同
 
 ## 関連用語・トピック
 
-- [サンプルリターンとは？](explorer/technology/sample-return)
-- [はやぶさ2とは？](explorer/mission/hayabusa2)
-- [カプセルとは？](explorer/technology/capsule)
-- [ドッキングとは？](glossary/docking)
-- [姿勢制御とは？](control/technology/attitude-control)
-- [制御の用語の意味一覧](category/control)
+- [サンプルリターンとは？](/explorer/technology/sample-return)
+- [はやぶさ2とは？](/explorer/mission/hayabusa2)
+- [カプセルとは？](/explorer/technology/capsule)
+- [ドッキングとは？](/glossary/docking)
+- [姿勢制御とは？](/control/technology/attitude-control)
+- [制御の用語の意味一覧](/category/control)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](category/satellite)
-- [宇宙探査機の用語の意味一覧](category/explorer)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [人工衛星の用語の意味一覧](/category/satellite)
+- [宇宙探査機の用語の意味一覧](/category/explorer)
+- [宇宙開発の用語の意味一覧](/category/glossary)

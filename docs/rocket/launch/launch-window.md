@@ -51,16 +51,16 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [打ち上げとは？](rocket/launch/launch)
-- [ペイロードとは？](rocket/system/payload)  
-- [静止軌道とは？](orbit/type/geostationary-orbit)  
-- [軌道とは？](orbit/orbit)  
-- [国際宇宙ステーションとは？](satellite/index/iss)  
-- [ロケットエンジンとは？](rocket/propulsion/rocket-engine)  
-- [ロケットとは？](rocket/rocket)
-- [ロケットの用語の意味一覧](category/rocket)
+- [打ち上げとは？](/rocket/launch/launch)
+- [ペイロードとは？](/rocket/system/payload)  
+- [静止軌道とは？](/orbit/type/geostationary-orbit)  
+- [軌道とは？](/orbit/orbit)  
+- [国際宇宙ステーションとは？](/satellite/index/iss)  
+- [ロケットエンジンとは？](/rocket/propulsion/rocket-engine)  
+- [ロケットとは？](/rocket/rocket)
+- [ロケットの用語の意味一覧](/category/rocket)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語の意味一覧](category/propulsion)
-- [軌道の用語の意味一覧](category/orbit)
-- [宇宙開発の用語の意味一覧](category/glossary)
+- [推進系の用語の意味一覧](/category/propulsion)
+- [軌道の用語の意味一覧](/category/orbit)
+- [宇宙開発の用語の意味一覧](/category/glossary)
