@@ -32,14 +32,14 @@ description: 燃焼ガスを加速・整流し、高速で噴射させること�
 
 ## 関連用語・トピック
 
-- [ロケットエンジン](/docs/rocket/propulsion/rocket-engine)
-- [推力](/docs/rocket/propulsion/system/thrust)
-- [燃焼室](/docs/rocket/propulsion/system/combustion-chamber)
-- [比推力](/docs/rocket/propulsion/system/isp)
-- [ラバールノズル](/docs/rocket/propulsion/system/laval-nozzle)
+- [推力とは？](/docs/rocket/propulsion/system/thrust)
+- [燃焼室とは？](/docs/rocket/propulsion/system/combustion-chamber)
+- [比推力とは？](/docs/rocket/propulsion/system/isp)
+- [ラバールノズルとは？](/docs/rocket/propulsion/system/laval-nozzle)
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
 - [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
 - [ロケットの用語の意味一覧](/docs/category/rocket)
 - [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [探査機の用語の意味一覧](/docs/category/explorer)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

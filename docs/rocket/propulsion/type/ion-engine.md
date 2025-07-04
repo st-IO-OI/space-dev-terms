@@ -37,6 +37,7 @@ description: 電気エネルギーを用いてイオン化したガスを加速�
 - [比推力とは？](/docs/rocket/propulsion/system/isp)
 - [はやぶさ2とは？](/docs/explorer/mission/hayabusa2)
 - [推進剤とは？](/docs/rocket/propulsion/system/propellant)
+- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
 - [推進系の用語の意味一覧](/docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる

@@ -34,8 +34,14 @@ description: アメリカのNASAが1970年代に打ち上げた無人宇宙探�
 
 ## 関連用語・トピック
 
-- [ボイジャー](/docs/explorer/mission/voyager)
-- [ニューホライズンズ](/docs/explorer/mission/new-horizons)
-- [フライバイ](/docs/explorer/technology/flyby)
-- [スイングバイ](/docs/explorer/technology/swingby)
+- [ボイジャーとは？](/docs/explorer/mission/voyager)
+- [ニューホライズンズとは？](/docs/explorer/mission/new-horizons)
+- [フライバイとは？](/docs/explorer/technology/flyby)
+- [スイングバイとは？](/docs/explorer/technology/swingby)
+- [宇宙探査機とは？](/docs/explorer/space-probe)
 - [探査の用語の意味一覧](/docs/category/explorer)
+
+### 他カテゴリの用語を見てみる
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [宇宙開発史の用語の意味一覧](/docs/category/history)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

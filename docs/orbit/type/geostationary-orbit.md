@@ -40,9 +40,10 @@ description: 地球の自転と同じ周期で赤道上空を回る軌道であ�
 
 ## 関連用語・トピック
 
-- [軌道傾斜角](/docs/orbit/mechanics/inclination)
-- [軌道投入](/docs/orbit/operation/orbital-insertion)
-- [ロケット](/docs/rocket/rocket)
+- [軌道傾斜角とは？](/docs/orbit/mechanics/inclination)
+- [軌道投入とは？](/docs/orbit/operation/orbital-insertion)
+- [ロケットとは？](/docs/rocket/rocket)
+- [軌道とは？](/docs/orbit/orbit)
 - [軌道の用語一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる

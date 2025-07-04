@@ -60,3 +60,10 @@ import Head from '@docusaurus/Head';
 - [地球観測衛星とは？](/docs/satellite/type/earth-observation-sat)  
 - [気象衛星とは？](/docs/satellite/type/weather-sat)  
 - [超小型衛星とは？](/docs/satellite/type/cubesat)  
+- [軌道とは？](/docs/orbit/orbit)
+- [軌道の用語の意味一覧](/docs/category/orbit)
+
+### 他カテゴリの用語を見てみる
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

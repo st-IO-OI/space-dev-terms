@@ -36,6 +36,7 @@ description: 天体の重力圏から抜け出すために必要な最小速度�
 - [ホーマン遷移軌道とは？](/docs/orbit/type/hohmann-transfer-orbit)
 - [推進力とは？](/docs/rocket/propulsion/system/propulsion)
 - [重力とは？](/docs/glossary/gravity)
+- [軌道とは？](/docs/orbit/orbit)
 - [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる

@@ -42,4 +42,10 @@ description: 宇宙探査機が目標となる天体の周辺に滞在し長期�
 - [サンプルリターンとは？](/docs/explorer/technology/sample-return)
 - [ホバリングとは？](/docs/explorer/technology/hovering)
 - [ロゼッタとは？](/docs/explorer/mission/rosetta)
+- [宇宙探査機とは？](/docs/explorer/space-probe)
 - [探査の用語の意味一覧](/docs/category/explorer)
+
+### 他カテゴリの用語を見てみる
+- [ロケットの用語の意味一覧](/docs/category/rocket)
+- [宇宙開発史の用語の意味一覧](/docs/category/history)
+- [宇宙開発の用語の意味一覧](/docs/category/glossary)

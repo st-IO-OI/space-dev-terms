@@ -33,11 +33,12 @@ eの値が大きくなればなるほど軌道の形状が歪んでいく、と�
 
 ## 関連用語・トピック
 
-- [軌道要素](/docs/orbit/mechanics/orbital-elements)
-- [楕円軌道](/docs/orbit/type/elliptical-orbit)
-- [近地点](/docs/orbit/mechanics/perigee)
-- [遠地点](/docs/orbit/mechanics/apogee)
-- [軌道傾斜角](/docs/orbit/mechanics/inclination)
+- [軌道要素とは？](/docs/orbit/mechanics/orbital-elements)
+- [楕円軌道とは？](/docs/orbit/type/elliptical-orbit)
+- [近地点とは？](/docs/orbit/mechanics/perigee)
+- [遠地点とは？](/docs/orbit/mechanics/apogee)
+- [軌道傾斜角とは？](/docs/orbit/mechanics/inclination)
+- [軌道とは？](/docs/orbit/orbit)
 - [軌道の用語一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる

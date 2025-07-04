@@ -41,6 +41,7 @@ description: 打ち上げ時にペイロード（搭載物）を保護する役�
 - [打ち上げとは？](/docs/rocket/launch/launch)
 - [ノズルとは？](/docs/rocket/propulsion/system/nozzle)
 - [再突入とは？](/docs/explorer/technology/reentry)
+- [ロケットとは？](/docs/rocket/rocket)
 - [ロケットの用語の意味一覧](/docs/category/rocket)
 
 ### 他カテゴリの用語を見てみる

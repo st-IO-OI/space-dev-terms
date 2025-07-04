@@ -36,10 +36,11 @@ description: 冥王星および太陽系外縁天体を探査するためにNASA
 
 ## 関連用語・トピック
 
-- [スイングバイ](/docs/explorer/technology/swingby)
-- [ボイジャー](/docs/explorer/mission/voyager)
-- [パイオニア](/docs/explorer/mission/pioneer)
-- [フライバイ](/docs/explorer/technology/flyby)
+- [スイングバイとは？](/docs/explorer/technology/swingby)
+- [ボイジャーとは？](/docs/explorer/mission/voyager)
+- [パイオニアとは？](/docs/explorer/mission/pioneer)
+- [フライバイとは？](/docs/explorer/technology/flyby)
+- [宇宙探査機とは？](/docs/explorer/space-probe)
 - [探査の用語の意味一覧](/docs/category/explorer)
 
 ### 他カテゴリの用語を見てみる

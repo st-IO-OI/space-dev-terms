@@ -39,6 +39,7 @@ description: 宇宙機が軌道変更や加速を行うために必要な速度�
 - [軌道投入とは？](/docs/orbit/operation/orbital-insertion)
 - [ホーマン遷移軌道とは？](/docs/orbit/type/hohmann-transfer-orbit)
 - [脱出速度とは？](/docs/orbit/mechanics/escape-velocity)
+- [軌道とは？](/docs/orbit/orbit)
 - [軌道の用語の意味一覧](/docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる

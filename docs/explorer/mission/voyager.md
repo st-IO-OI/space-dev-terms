@@ -33,10 +33,11 @@ description: NASAが1977年に打ち上げた無人宇宙探査機であり、�
 
 ## 関連用語・トピック
 
-- [スイングバイ](/docs/explorer/technology/swingby)
-- [ニューホライズンズ](/docs/explorer/mission/new-horizons)
-- [パイオニア](/docs/explorer/mission/pioneer)
-- [フライバイ](/docs/explorer/technology/flyby)
+- [スイングバイとは？](/docs/explorer/technology/swingby)
+- [ニューホライズンズとは？](/docs/explorer/mission/new-horizons)
+- [パイオニアとは？](/docs/explorer/mission/pioneer)
+- [フライバイとは？](/docs/explorer/technology/flyby)
+- [宇宙探査機とは？](/docs/explorer/space-probe)
 - [探査の用語の意味一覧](/docs/category/explorer)
 
 ### 他カテゴリの用語を見てみる

@@ -72,6 +72,7 @@ description: 小惑星リュウグウからのサンプルリターンや人工�
 - [サンプルリターンとは？](/docs/explorer/technology/sample-return)
 - [スイングバイとは？](/docs/explorer/technology/swingby)
 - [カプセルとは？](/docs/explorer/technology/capsule)
+- [宇宙探査機とは？](/docs/explorer/space-probe)
 - [探査の用語の意味一覧](/docs/category/explorer)
 
 ### 他カテゴリの用語を見てみる

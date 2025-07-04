@@ -35,10 +35,11 @@ description: 宇宙空間からの帰還時に試料や機器を保護して地�
 
 ## 関連用語・トピック
 
-- [耐熱シールド](/docs/explorer/technology/heat-shield)
-- [はやぶさ2](/docs/explorer/mission/hayabusa2)
-- [サンプルリターン](/docs/explorer/technology/sample-return)
-- [はやぶさ](/docs/explorer/mission/hayabusa)
+- [耐熱シールドとは？](/docs/explorer/technology/heat-shield)
+- [はやぶさ2とは？](/docs/explorer/mission/hayabusa2)
+- [サンプルリターンとは？](/docs/explorer/technology/sample-return)
+- [はやぶさとは？](/docs/explorer/mission/hayabusa)
+- [宇宙探査機とは？](/docs/explorer/space-probe)
 - [探査の用語の意味一覧](/docs/category/explorer)
 
 ### 他カテゴリの用語を見てみる

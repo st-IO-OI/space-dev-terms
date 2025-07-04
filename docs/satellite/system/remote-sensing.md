@@ -33,11 +33,10 @@ description: 人工衛星の基本構造や共通機能を持つ部分のこと�
 
 ## 関連用語・トピック
 
-- [人工衛星](/docs/satellite/satellite)
-- [ペイロード](/docs/rocket/system/payload)
-- [推進力](/docs/rocket/propulsion/system/propulsion)
-- [通信](/docs/communication/communication)
-- [質量比](/docs/rocket/propulsion/system/mass-ratio)
+- [低軌道とは？](/docs/orbit/type/low-earth-orbit)
+- [低軌道衛星とは？](/docs/satellite/type/low-orbit-satellite)
+- [衛星バス・構体とは？](/docs/satellite/system/satellite-bus)
+- [人工衛星とは？](/docs/satellite/satellite)
 - [人工衛星の用語の意味一覧](/docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる
