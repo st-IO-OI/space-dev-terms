@@ -54,7 +54,7 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [アポロ11号とは？](/docs/glossary/history/apollo-p11)
+- [アポロ11号とは？](/docs/glossary/history/apollo-11)
 - [月探査とは？](/docs/explorer/type/moon-probe)
 - [着陸機とは？](/docs/explorer/technology/lander)
 - [宇宙探査機とは？](/docs/explorer/space-probe)
