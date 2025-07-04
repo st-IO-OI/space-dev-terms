@@ -59,7 +59,7 @@ import Head from '@docusaurus/Head';
 - [人工衛星の用語の意味一覧](/docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる
-- [推進とは？](/docs/propulsion/propulsion)
+- [推進とは？](/docs/category/propulsion)
 - [通信とは？](/docs/communication/communication)
 - [宇宙探査機とは？](/docs/explorer/space-probe)
 - [宇宙開発の用語の意味一覧](/docs/category/glossary)

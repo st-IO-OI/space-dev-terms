@@ -53,7 +53,7 @@ import Head from '@docusaurus/Head';
 
 - [ダウンリンクとは？](/docs/communication/system/downlink)
 - [通信とは？](/docs/communication/communication)
-- [TT&Cとは？](/docs/communication/ttc)
+- [TT&Cとは？](/docs/communication/system/ttc)
 - [レーザー通信とは？](/docs/communication/type/laser-communication)
 - [通信の用語の意味一覧](/docs/category/communication)
 

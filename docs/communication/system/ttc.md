@@ -59,9 +59,9 @@ TT&Cは地上局と宇宙機の間で双方向通信を行うシステムであ�
 
 - [地上局とは？](/docs/communication/system/ground-station)
 - [ビットレートとは？](/docs/communication/technology/bit-rate)
-- [テレメトリとは？](/docs/communication/system/telemetory)
+- [テレメトリとは？](/docs/communication/system/telemetry)
 - [コマンドとは？](/docs/communication/system/command)
-- [宇宙探査機とは？](/docs/explorer/spaceprobe)
+- [宇宙探査機とは？](/docs/explorer/space-probe)
 - [通信遅延とは？](/docs/communication/technology/communication-delay)
 - [通信の用語の意味一覧](/docs/category/communication)
 

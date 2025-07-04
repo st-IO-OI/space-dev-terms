@@ -61,7 +61,7 @@ import Head from '@docusaurus/Head';
 - [地磁気とは？](/docs/environment/geomagnetic-field)
 - [宇宙居住とは？](/docs/environment/space-habitation)
 - [国際宇宙ステーションとは？](/docs/satellite/index/iss)
-- [高軌道とは？](/docs/orbit/high-earth-orbit)
+- [高軌道とは？](/docs/orbit/type/high-earth-orbit)
 - [宇宙環境の用語の意味一覧](/docs/category/environment)
 
 ### 他カテゴリの用語を見てみる

@@ -1,6 +1,6 @@
 ---
 title: 衛星データ
-slug: /satellite/satellite-data
+slug: /satellite/system/satellite-data
 category: satellite
 description: 衛星データとは、人工衛星によって取得された地球や宇宙に関する観測情報の総称である。
 ---
@@ -14,9 +14,9 @@ import Head from '@docusaurus/Head';
       "@type": "DefinedTerm",
       "name": "衛星データ",
       "inDefinedTermSet": "https://www.space-portal.org",
-      "termCode": "satellite/satellite-data",
+      "termCode": "satellite/system/satellite-data",
       "description": "衛星データとは、人工衛星によって取得された地球や宇宙に関する観測情報の総称である。",
-      "url": "https://www.space-portal.org/docs/satellite/satellite-data"
+      "url": "https://www.space-portal.org/docs/satellite/system/satellite-data"
     }`}
   </script>
 </Head>

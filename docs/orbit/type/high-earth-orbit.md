@@ -53,10 +53,10 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [測位衛星とは？](/docs/satellite/type/navigation-sat)
+- [測位衛星とは？](/docs/satellite/type/navigation-satellite)
 - [静止軌道とは？](/docs/orbit/type/geostationary-orbit)
-- [中軌道とは？](/docs/oribit/type/medium-earth-sat)
-- [低軌道とは？](/docs/oribit/type/low-earth-sat)
+- [中軌道とは？](/docs/orbit/type/medium-earth-sat)
+- [低軌道とは？](/docs/orbit/type/low-earth-sat)
 - [軌道とは？](/docs/orbit/orbit)
 - [軌道の用語の意味一覧](/docs/category/orbit)
 

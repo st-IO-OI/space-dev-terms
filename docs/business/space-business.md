@@ -56,7 +56,7 @@ import Head from '@docusaurus/Head';
 
 - [商業衛星とは？](/docs/business/private-space-utilization)
 - [宇宙ビジネスとは？](/docs/business/space-business)
-- [アステロイドマイニングとは？](/docs/environment/asteroid-mining)
+- [アステロイドマイニングとは？](/docs/business/category/asteroid-mining)
 - [再使用ロケットとは？](/docs/rocket/type/reusable-rocket)
 - [宇宙ビジネスの用語の意味一覧](/docs/category/business)
 
