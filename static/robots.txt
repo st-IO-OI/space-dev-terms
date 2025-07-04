@@ -1,1 +1,5 @@
+User-agent: *
+Allow: /docs/navi/
+Allow: /docs/guidebook/
+Allow: /docs/intro
 Sitemap: https://www.space-portal.org/sitemap.xml
