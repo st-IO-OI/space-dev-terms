@@ -42,19 +42,6 @@ description: 宇宙開発を支える教育・人材育成の重要性とその�
 
 ---
 
----
-
-### 宇宙開発ナビーもっと宇宙開発について知る
-- [これから宇宙を学ぶ人たちへ](/docs/navi/intro-to-space-dev)
-- [宇宙開発の全体像](/docs/navi/space-dev-overview)
-- [宇宙開発に必要なコト](/docs/navi/what-is-needed)
-- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
-- [宇宙開発の基礎知識](/docs/navi/basic-knowledge)
-- [宇宙開発の現場の声](/docs/navi/voice-of-frontline)
-- [宇宙業界で働くには？](/docs/navi/how-to-work)
-
----
-
 ## 関連リンク・参考資料  
 
 - [JAXA 宇宙教育センター](https://edu.jaxa.jp/)  
@@ -68,9 +55,8 @@ description: 宇宙開発を支える教育・人材育成の重要性とその�
 - [これから宇宙を学ぶ人たちへ](/docs/navi/intro-to-space-dev)
 - [宇宙開発の全体像](/docs/navi/space-dev-overview)
 - [宇宙開発に必要なコト](/docs/navi/what-is-needed)
-- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
 - [宇宙開発の基礎知識](/docs/navi/basic-knowledge)
-- [宇宙開発の現場の声](/docs/navi/voice-of-frontline)
-- [宇宙業界で働くには？](/docs/navi/how-to-work)
+- [宇宙開発の専門分野](/docs/navi/region-of-expertise)
+- [宇宙業界に関わるには？](/docs/navi/how-to-commit)
 
 ---

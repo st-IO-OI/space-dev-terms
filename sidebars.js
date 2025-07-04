@@ -5,7 +5,7 @@ const sidebars = {
     'intro',             // docs/intro.md
     {
       type: 'category',
-      label: '宇宙開発ナビ　　　　　　　これから宇宙を学ぶ人たちへ',
+      label: '宇宙開発ナビ',
       link: { type: 'doc', id: 'navi/intro-to-space-dev' },
       collapsed: false,
       items: [
@@ -31,13 +31,12 @@ const sidebars = {
         'navi/what-is-needed',
         'navi/region-of-expertise',
         'navi/basic-knowledge',
-        'navi/voice-of-frontline',
-        'navi/how-to-work',
+        'navi/how-to-commit',
       ],
     },
     {
       type: 'category',
-      label: '宇宙開発用語集　　　　　　宇宙を学んでいる人たちへ',
+      label: '宇宙開発用語集',
       link: { type: 'doc', id: 'glossary' },
       collapsed: false,
       items: [
@@ -364,10 +363,12 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '宇宙開発ガイドブック　　　　　　もっと宇宙を学びたい人たちへ',
+      label: '宇宙開発ガイドブック',
       link: { type: 'doc', id: 'guide/guidebook' },
       collapsed: false,
       items: [
+        'guide/voice-of-frontline',
+        'guide/how-to-work',
       ],
     },
   ],
