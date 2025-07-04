@@ -54,15 +54,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [宇宙旅行とは？](/docs/business/category/space-tourism)
-- [Blue Originとは？](/docs/business/company/blue-origin)
-- [民間宇宙利用とは？](/docs/business/private-space-utilization)
-- [宇宙ビジネスとは？](/docs/business/space-business)
-- [宇宙ビジネスの用語の意味一覧](/docs/category/business)
+- [宇宙旅行とは？](docs/business/category/space-tourism)
+- [Blue Originとは？](docs/business/company/blue-origin)
+- [民間宇宙利用とは？](docs/business/private-space-utilization)
+- [宇宙ビジネスとは？](docs/business/space-business)
+- [宇宙ビジネスの用語の意味一覧](docs/category/business)
 
 ### 他カテゴリの用語を見てみる
 
-- [宇宙探査機の用語一覧](/docs/category/explorer)
-- [宇宙法の関連用語一覧](/docs/category/policy)
-- [宇宙開発全般の用語一覧](/docs/category/glossary)
+- [宇宙探査機の用語一覧](docs/category/explorer)
+- [宇宙法の関連用語一覧](docs/category/policy)
+- [宇宙開発全般の用語一覧](docs/category/glossary)
 
