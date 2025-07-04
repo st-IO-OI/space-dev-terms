@@ -90,7 +90,7 @@ const config = {
         src: 'img/space-dic.svg',
       },
       items: [
-        { to: '/docs/intro', label: 'このサイトについて', position: 'left' },
+        { to: 'docs/intro', label: 'このサイトについて', position: 'left' },
         { href: 'https://x.com/SpaceDevTerms', label: 'X', position: 'right' },
       ],
     },
@@ -100,25 +100,25 @@ const config = {
         {
           title: 'サイト案内',
           items: [
-            { label: 'このサイトについて', to: '/docs/intro' },
-            { label: 'プライバシーポリシー', to: '/docs/privacy-policy' },
-            { label: '免責事項', to: '/docs/disclaimer' },
-            { label: 'お問い合わせ', to: '/contact' },
+            { label: 'このサイトについて', to: 'docs/intro' },
+            { label: 'プライバシーポリシー', to: 'docs/privacy-policy' },
+            { label: '免責事項', to: 'docs/disclaimer' },
+            { label: 'お問い合わせ', to: 'contact' },
           ],
         },
         {
           title: 'カテゴリ',
           items: [
-            { label: '宇宙開発ナビ（これから宇宙を目指す人たちへ）', to: '/docs/navi/intro-to-space-dev' },
-            { label: '宇宙開発用語集（もっと宇宙を学びたい人たちへ）', to: '/docs/glossary' },
-            { label: '宇宙開発ガイド（宇宙へ向かいたい人たちへ）', to: '/docs/guide/guidebook' },
+            { label: '宇宙開発ナビ（これから宇宙を目指す人たちへ）', to: 'docs/navi/intro-to-space-dev' },
+            { label: '宇宙開発用語集（もっと宇宙を学びたい人たちへ）', to: 'docs/glossary' },
+            { label: '宇宙開発ガイド（宇宙へ向かいたい人たちへ）', to: 'docs/guide/guidebook' },
           ],
         },
         {
           title: '外部リンク',
           items: [
             { label: 'X', href: 'https://x.com/SpaceDevTerms' },
-            { label: 'Blog', to: '/blog' },
+            { label: 'Blog', to: 'blog' },
           ],
         },
       ],
