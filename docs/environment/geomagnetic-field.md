@@ -62,14 +62,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [太陽風とは？](/docs/environment/solar-wind)
-- [太陽フレアとは？](/docs/environment/solar-flare)
-- [宇宙線とは？](/docs/environment/cosmic-rays)
-- [姿勢制御とは？](/docs/control/technology/attitude-control)
-- [国際宇宙ステーションとは？](/docs/satellite/index/iss)
-- [宇宙環境の用語の意味一覧](/docs/category/environment)
+- [太陽風とは？](docs/environment/solar-wind)
+- [太陽フレアとは？](docs/environment/solar-flare)
+- [宇宙線とは？](docs/environment/cosmic-rays)
+- [姿勢制御とは？](docs/control/technology/attitude-control)
+- [国際宇宙ステーションとは？](docs/satellite/index/iss)
+- [宇宙環境の用語の意味一覧](docs/category/environment)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [人工衛星の用語の意味一覧](docs/category/satellite)
+- [ロケットの用語の意味一覧](docs/category/rocket)
+- [宇宙開発の用語の意味一覧](docs/category/glossary)

@@ -65,13 +65,13 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [静止軌道とは？](/docs/orbit/type/geostationary-orbit)  
-- [ホーマン遷移軌道とは？](/docs/orbit/type/hohmann-transfer-orbit)  
-- [低軌道とは？](/docs/orbit/type/low-earth-orbit)  
-- [軌道とは？](/docs/orbit/orbit)
-- [軌道の用語の意味一覧](/docs/category/orbit)
+- [静止軌道とは？](docs/orbit/type/geostationary-orbit)  
+- [ホーマン遷移軌道とは？](docs/orbit/type/hohmann-transfer-orbit)  
+- [低軌道とは？](docs/orbit/type/low-earth-orbit)  
+- [軌道とは？](docs/orbit/orbit)
+- [軌道の用語の意味一覧](docs/category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [ロケットの用語の意味一覧](docs/category/rocket)
+- [人工衛星の用語の意味一覧](docs/category/satellite)
+- [宇宙開発の用語の意味一覧](docs/category/glossary)

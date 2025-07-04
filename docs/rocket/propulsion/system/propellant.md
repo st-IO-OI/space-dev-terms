@@ -33,15 +33,15 @@ description: ロケットや宇宙機を前進させるために必要な運動�
 
 ## 関連用語・トピック
 
-- [推進力とは？](/docs/rocket/propulsion/system/propulsion)
-- [液体ロケットエンジンとは？](/docs/rocket/propulsion/type/liquid-engine)
-- [電気推進とは？](/docs/rocket/propulsion/type/electric-propulsion)
-- [比推力とは？](/docs/rocket/propulsion/system/isp)
-- [推力とは？](/docs/rocket/propulsion/system/thrust)
-- [ロケットエンジンとは？](/docs/rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](/docs/category/propulsion)
+- [推進力とは？](docs/rocket/propulsion/system/propulsion)
+- [液体ロケットエンジンとは？](docs/rocket/propulsion/type/liquid-engine)
+- [電気推進とは？](docs/rocket/propulsion/type/electric-propulsion)
+- [比推力とは？](docs/rocket/propulsion/system/isp)
+- [推力とは？](docs/rocket/propulsion/system/thrust)
+- [ロケットエンジンとは？](docs/rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](docs/category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [ロケットの用語の意味一覧](docs/category/rocket)
+- [人工衛星の用語の意味一覧](docs/category/satellite)
+- [宇宙開発の用語の意味一覧](docs/category/glossary)

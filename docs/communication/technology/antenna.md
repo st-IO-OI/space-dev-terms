@@ -37,13 +37,13 @@ description: 電波を用いて情報を送受信することによって宇宙�
 
 ## 関連用語・トピック
 
-- [地上局](/docs/communication/system/ground-station)
-- [周波数帯](/docs/communication/technology/frequency-band)
-- [Ka-バンド](/docs/communication/technology/ka-band)
-- [通信遅延](/docs/communication/technology/communication-delay)
-- [通信の用語の意味一覧](/docs/category/communication)
+- [地上局](docs/communication/system/ground-station)
+- [周波数帯](docs/communication/technology/frequency-band)
+- [Ka-バンド](docs/communication/technology/ka-band)
+- [通信遅延](docs/communication/technology/communication-delay)
+- [通信の用語の意味一覧](docs/category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
-- [推進系の用語の意味一覧](/docs/category/propulsion)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [人工衛星の用語の意味一覧](docs/category/satellite)
+- [推進系の用語の意味一覧](docs/category/propulsion)
+- [宇宙開発の用語の意味一覧](docs/category/glossary)

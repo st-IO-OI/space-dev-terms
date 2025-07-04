@@ -60,13 +60,13 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [姿勢制御とは？](/docs/control/technology/attitude-control)  
-- [はやぶさ2とは？](/docs/explorer/mission/hayabusa2)    
-- [着陸機とは？](/docs/explorer/technology/lander)    
-- [宇宙探査機とは？](/docs/explorer/space-probe)
-- [探査の用語の意味一覧](/docs/category/explorer)
+- [姿勢制御とは？](docs/control/technology/attitude-control)  
+- [はやぶさ2とは？](docs/explorer/mission/hayabusa2)    
+- [着陸機とは？](docs/explorer/technology/lander)    
+- [宇宙探査機とは？](docs/explorer/space-probe)
+- [探査の用語の意味一覧](docs/category/explorer)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [宇宙開発史の用語の意味一覧](/docs/category/history)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [ロケットの用語の意味一覧](docs/category/rocket)
+- [宇宙開発史の用語の意味一覧](docs/category/history)
+- [宇宙開発の用語の意味一覧](docs/category/glossary)

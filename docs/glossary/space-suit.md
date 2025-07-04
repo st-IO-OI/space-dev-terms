@@ -56,16 +56,16 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [宇宙飛行士とは？](/docs/glossary/astronaut)  
-- [熱制御とは？](/docs/glossary/thermal-control)  
-- [大気圏とは？](/docs/glossary/atmosphere)  
-- [国際宇宙ステーションとは？](/docs/satellite/index/iss)  
-- [宇宙探査機とは？](/docs/explorer/space-probe)
-- [宇宙開発の用語一覧](/docs/category/glossary)
+- [宇宙飛行士とは？](docs/glossary/astronaut)  
+- [熱制御とは？](docs/glossary/thermal-control)  
+- [大気圏とは？](docs/glossary/atmosphere)  
+- [国際宇宙ステーションとは？](docs/satellite/index/iss)  
+- [宇宙探査機とは？](docs/explorer/space-probe)
+- [宇宙開発の用語一覧](docs/category/glossary)
 
 ### 他カテゴリの用語を見てみる
 
-- [推進系の用語一覧](/docs/category/propulsion)
-- [人工衛星の関連用語一覧](/docs/category/satellite)
-- [宇宙開発史の用語一覧](/docs/category/history)
+- [推進系の用語一覧](docs/category/propulsion)
+- [人工衛星の関連用語一覧](docs/category/satellite)
+- [宇宙開発史の用語一覧](docs/category/history)
 

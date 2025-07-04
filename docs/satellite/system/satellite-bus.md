@@ -33,14 +33,14 @@ description: 人工衛星の基本構造や共通機能を持つ部分のこと�
 
 ## 関連用語・トピック
 
-- [ペイロードとは？](/docs/rocket/system/payload)
-- [姿勢制御とは？](/docs/control/technology/attitude-control)
-- [通信とは？](/docs/communication/communication)
-- [超小型衛星とは？](/docs/satellite/type/cubesat)
-- [人工衛星とは？](/docs/satellite/satellite)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [ペイロードとは？](docs/rocket/system/payload)
+- [姿勢制御とは？](docs/control/technology/attitude-control)
+- [通信とは？](docs/communication/communication)
+- [超小型衛星とは？](docs/satellite/type/cubesat)
+- [人工衛星とは？](docs/satellite/satellite)
+- [人工衛星の用語の意味一覧](docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [軌道の用語の意味一覧](/docs/category/orbit)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [ロケットの用語の意味一覧](docs/category/rocket)
+- [軌道の用語の意味一覧](docs/category/orbit)
+- [宇宙開発の用語の意味一覧](docs/category/glossary)

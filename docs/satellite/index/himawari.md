@@ -53,14 +53,14 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [気象衛星とは？](/docs/satellite/type/weather-sat)  
-- [静止軌道とは？](/docs/orbit/type/geostationary-orbit)  
-- [静止衛星とは？](/docs/satellite/type/geostationary-sat)    
-- [人工衛星とは？](/docs/satellite/satellite)
-- [人工衛星の用語一覧](/docs/category/satellite)
+- [気象衛星とは？](docs/satellite/type/weather-sat)  
+- [静止軌道とは？](docs/orbit/type/geostationary-orbit)  
+- [静止衛星とは？](docs/satellite/type/geostationary-sat)    
+- [人工衛星とは？](docs/satellite/satellite)
+- [人工衛星の用語一覧](docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語一覧](/docs/category/propulsion)
-- [ロケットの関連用語一覧](/docs/category/rocket)
-- [宇宙開発史の用語一覧](/docs/category/history)
-- [宇宙開発の用語一覧](/docs/category/glossary)
+- [推進系の用語一覧](docs/category/propulsion)
+- [ロケットの関連用語一覧](docs/category/rocket)
+- [宇宙開発史の用語一覧](docs/category/history)
+- [宇宙開発の用語一覧](docs/category/glossary)

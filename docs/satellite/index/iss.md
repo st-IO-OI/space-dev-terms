@@ -52,15 +52,15 @@ ISSは、宇宙での国際協力の象徴であり、将来的な月・火星�
 
 ## 関連用語・トピック
 
-- [宇宙ステーションとは？](/docs/satellite/type/space-station)
-- [宇宙飛行士とは？](/docs/glossary/astronaut)  
-- [重力とは？](/docs/physics/gravity)  
-- [月探査とは？](/docs/explorer/type/moon-probe)  
-- [人工衛星とは？](/docs/satellite/satellite)
-- [人工衛星の用語一覧](/docs/category/satellite)
+- [宇宙ステーションとは？](docs/satellite/type/space-station)
+- [宇宙飛行士とは？](docs/glossary/astronaut)  
+- [重力とは？](docs/physics/gravity)  
+- [月探査とは？](docs/explorer/type/moon-probe)  
+- [人工衛星とは？](docs/satellite/satellite)
+- [人工衛星の用語一覧](docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる
-- [推進系の用語一覧](/docs/category/propulsion)
-- [ロケットの関連用語一覧](/docs/category/rocket)
-- [宇宙開発史の用語一覧](/docs/category/history)
-- [宇宙開発の用語一覧](/docs/category/glossary)
+- [推進系の用語一覧](docs/category/propulsion)
+- [ロケットの関連用語一覧](docs/category/rocket)
+- [宇宙開発史の用語一覧](docs/category/history)
+- [宇宙開発の用語一覧](docs/category/glossary)

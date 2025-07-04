@@ -75,7 +75,7 @@ description: 宇宙に関心を持った方々に向けて、学びと発見を�
 
 ### 関連ページへのリンク
 
-- [宇宙開発ナビ](/docs/navi/intro-to-space-dev)
-- [宇宙開発用語集](/docs/glossary)
+- [宇宙開発ナビ](docs/navi/intro-to-space-dev)
+- [宇宙開発用語集](docs/glossary)
 - [宇宙開発ポータルトップページ](/)
-- [宇宙開発ポータルとは？](/docs/intro)
+- [宇宙開発ポータルとは？](docs/intro)

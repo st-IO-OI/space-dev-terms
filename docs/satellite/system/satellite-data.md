@@ -60,15 +60,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [リモートセンシングとは？](/docs/satellite/system/remote-sensing)
-- [宇宙ビジネスとは？](/docs/business/space-business)
-- [通信とは？](/docs/communication/communication)
-- [地球観測衛星とは？](/docs/satellite/type/earth-observation-sat)
-- [人工衛星とは？](/docs/satellite/satellite)
-- [人工衛星の用語の意味一覧](/docs/category/satellite)
+- [リモートセンシングとは？](docs/satellite/system/remote-sensing)
+- [宇宙ビジネスとは？](docs/business/space-business)
+- [通信とは？](docs/communication/communication)
+- [地球観測衛星とは？](docs/satellite/type/earth-observation-sat)
+- [人工衛星とは？](docs/satellite/satellite)
+- [人工衛星の用語の意味一覧](docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](/docs/category/rocket)
-- [軌道の用語の意味一覧](/docs/category/orbit)
-- [宇宙ビジネスの用語の意味一覧](/docs/category/business)
-- [宇宙開発の用語の意味一覧](/docs/category/glossary)
+- [ロケットの用語の意味一覧](docs/category/rocket)
+- [軌道の用語の意味一覧](docs/category/orbit)
+- [宇宙ビジネスの用語の意味一覧](docs/category/business)
+- [宇宙開発の用語の意味一覧](docs/category/glossary)
