@@ -259,6 +259,7 @@ const sidebars = {
                   'explorer/type/asteroid-exploration',
                   'explorer/type/astrobiology-exploration',
                   'explorer/type/planetary-exploration',
+                  'explorer/type/moon-probe',
                 ],
               },
               {
@@ -268,7 +269,6 @@ const sidebars = {
                 items: [
                   'explorer/mission/hayabusa',
                   'explorer/mission/hayabusa2',
-                  'explorer/mission/moon-probe',
                   'explorer/mission/new-horizons',
                   'explorer/mission/voyager',
                   'explorer/mission/rosetta',

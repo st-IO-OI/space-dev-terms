@@ -56,7 +56,7 @@ import Head from '@docusaurus/Head';
  
 - [ホバリングとは？](/docs/explorer/technology/hovering)  
 - [ロゼッタとは？](/docs/explorer/mission/rosetta)  
-- [月探査とは？](/docs/explorer/mission/moon-probe)  
+- [月探査とは？](/docs/explorer/type/moon-probe)  
 - [宇宙探査機とは？](/docs/explorer/space-probe)
 - [探査の用語の意味一覧](/docs/category/explorer)
 
