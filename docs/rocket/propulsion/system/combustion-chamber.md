@@ -34,15 +34,15 @@ description: 燃料と酸化剤を混合・燃焼させ、高温高圧のガス�
 
 ## 関連用語・トピック
 
-- [ノズルとは？](docs/rocket/propulsion/system/nozzle)
-- [推力とは？](docs/rocket/propulsion/system/thrust)
-- [推進剤とは？](docs/rocket/propulsion/system/propellant)
-- [比推力とは？](docs/rocket/propulsion/system/isp)
-- [ロケットエンジンとは？](docs/rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](docs/category/propulsion)
+- [ノズルとは？](rocket/propulsion/system/nozzle)
+- [推力とは？](rocket/propulsion/system/thrust)
+- [推進剤とは？](rocket/propulsion/system/propellant)
+- [比推力とは？](rocket/propulsion/system/isp)
+- [ロケットエンジンとは？](rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [人工衛星の用語の意味一覧](docs/category/satellite)
-- [探査機の用語の意味一覧](docs/category/explorer)
+- [ロケットの用語の意味一覧](category/rocket)
+- [人工衛星の用語の意味一覧](category/satellite)
+- [探査機の用語の意味一覧](category/explorer)
 

@@ -38,14 +38,14 @@ description: 耐熱シールドとは、宇宙機が高温環境にさらされ�
 
 ## 関連用語・トピック
 
-- [再使用型ロケットとは？](docs/rocket/type/reusable-rocket)  
-- [大気圏再突入とは？](docs/explorer/technology/reentry)  
-- [着陸機とは？](docs/explorer/technology/lander)
-- [ホバリングとは？](docs/explorer/technology/hovering)
-- [宇宙探査機とは？](docs/explorer/space-probe)
-- [探査の用語の意味一覧](docs/category/explorer)
+- [再使用型ロケットとは？](rocket/type/reusable-rocket)  
+- [大気圏再突入とは？](explorer/technology/reentry)  
+- [着陸機とは？](explorer/technology/lander)
+- [ホバリングとは？](explorer/technology/hovering)
+- [宇宙探査機とは？](explorer/space-probe)
+- [探査の用語の意味一覧](category/explorer)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [宇宙開発史の用語の意味一覧](docs/category/history)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [ロケットの用語の意味一覧](category/rocket)
+- [宇宙開発史の用語の意味一覧](category/history)
+- [宇宙開発の用語の意味一覧](category/glossary)

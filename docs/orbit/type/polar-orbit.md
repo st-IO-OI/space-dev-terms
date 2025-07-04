@@ -55,15 +55,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [太陽同期軌道とは？](docs/orbit/type/sun-synchronous-orbit)  
-- [低軌道とは？](docs/orbit/type/low-earth-orbit)  
-- [地球観測衛星とは？](docs/satellite/type/earth-observation-sat)  
-- [気象衛星とは？](docs/satellite/type/weather-sat)  
-- [超小型衛星とは？](docs/satellite/type/cubesat)  
-- [軌道とは？](docs/orbit/orbit)
-- [軌道の用語の意味一覧](docs/category/orbit)
+- [太陽同期軌道とは？](orbit/type/sun-synchronous-orbit)  
+- [低軌道とは？](orbit/type/low-earth-orbit)  
+- [地球観測衛星とは？](satellite/type/earth-observation-sat)  
+- [気象衛星とは？](satellite/type/weather-sat)  
+- [超小型衛星とは？](satellite/type/cubesat)  
+- [軌道とは？](orbit/orbit)
+- [軌道の用語の意味一覧](category/orbit)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [人工衛星の用語の意味一覧](docs/category/satellite)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [ロケットの用語の意味一覧](category/rocket)
+- [人工衛星の用語の意味一覧](category/satellite)
+- [宇宙開発の用語の意味一覧](category/glossary)

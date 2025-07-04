@@ -51,16 +51,16 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [宇宙エンタメとは？](docs/business/category/space-entertainment)
-- [Space-Xとは？](docs/business/company/spacex)
-- [民間宇宙利用とは？](docs/business/private-space-utilization)
-- [弾道飛行とは？](docs/orbit/type/suborbital-flight)
-- [宇宙ビジネスとは？](docs/business/space-business)
-- [宇宙ビジネスの用語の意味一覧](docs/category/business)
+- [宇宙エンタメとは？](business/category/space-entertainment)
+- [Space-Xとは？](business/company/spacex)
+- [民間宇宙利用とは？](business/private-space-utilization)
+- [弾道飛行とは？](orbit/type/suborbital-flight)
+- [宇宙ビジネスとは？](business/space-business)
+- [宇宙ビジネスの用語の意味一覧](category/business)
 
 ### 他カテゴリの用語を見てみる
 
-- [ロケットの用語一覧](docs/category/rocket)
-- [宇宙法の関連用語一覧](docs/category/policy)
-- [宇宙開発全般の用語一覧](docs/category/glossary)
+- [ロケットの用語一覧](category/rocket)
+- [宇宙法の関連用語一覧](category/policy)
+- [宇宙開発全般の用語一覧](category/glossary)
 

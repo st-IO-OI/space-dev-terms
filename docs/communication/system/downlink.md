@@ -51,13 +51,13 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [アップリンクとは？](docs/communication/system/uplink)
-- [通信とは？](docs/communication/communication)
-- [宇宙探査機とは？](docs/explorer/space-probe)
-- [レーザー通信とは？](docs/communication/type/laser-communication)
-- [通信の用語の意味一覧](docs/category/communication)
+- [アップリンクとは？](communication/system/uplink)
+- [通信とは？](communication/communication)
+- [宇宙探査機とは？](explorer/space-probe)
+- [レーザー通信とは？](communication/type/laser-communication)
+- [通信の用語の意味一覧](category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](docs/category/satellite)
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [人工衛星の用語の意味一覧](category/satellite)
+- [ロケットの用語の意味一覧](category/rocket)
+- [宇宙開発の用語の意味一覧](category/glossary)

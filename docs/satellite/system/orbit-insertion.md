@@ -33,15 +33,15 @@ description: 宇宙機を望ましい軌道に正確に移動させるための�
 
 ## 関連用語・トピック
 
-- [軌道とは？](docs/orbit/orbit)
-- [速度増分・デルタVとは？](docs/orbit/mechanics/delta-v-budget)
-- [推進力とは？](docs/rocket/propulsion/system/propulsion)
-- [比推力とは？](docs/rocket/propulsion/system/isp)
-- [ホーマン遷移軌道とは？](docs/orbit/type/hohmann-transfer-orbit)
-- [人工衛星とは？](docs/satellite/satellite)
-- [人工衛星の用語の意味一覧](docs/category/satellite)
+- [軌道とは？](orbit/orbit)
+- [速度増分・デルタVとは？](orbit/mechanics/delta-v-budget)
+- [推進力とは？](rocket/propulsion/system/propulsion)
+- [比推力とは？](rocket/propulsion/system/isp)
+- [ホーマン遷移軌道とは？](orbit/type/hohmann-transfer-orbit)
+- [人工衛星とは？](satellite/satellite)
+- [人工衛星の用語の意味一覧](category/satellite)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [探査機の用語の意味一覧](docs/category/explorer)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [ロケットの用語の意味一覧](category/rocket)
+- [探査機の用語の意味一覧](category/explorer)
+- [宇宙開発の用語の意味一覧](category/glossary)

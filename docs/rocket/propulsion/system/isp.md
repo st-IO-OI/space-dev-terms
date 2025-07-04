@@ -55,15 +55,15 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [ロケット方程式とは？](docs/rocket/propulsion/system/rocket-equation)
-- [化学推進とは？](docs/rocket/propulsion/type/chemical-propulsion)
-- [電気推進とは？](docs/rocket/propulsion/type/electric-propulsion)
-- [ロケットエンジンとは？](docs/rocket/propulsion/rocket-engine)
-- [軌道とは？](docs/orbit/orbit)
-- [ロケットエンジンとは？](docs/rocket/propulsion/rocket-engine)
-- [推進系の用語の意味一覧](docs/category/propulsion)
+- [ロケット方程式とは？](rocket/propulsion/system/rocket-equation)
+- [化学推進とは？](rocket/propulsion/type/chemical-propulsion)
+- [電気推進とは？](rocket/propulsion/type/electric-propulsion)
+- [ロケットエンジンとは？](rocket/propulsion/rocket-engine)
+- [軌道とは？](orbit/orbit)
+- [ロケットエンジンとは？](rocket/propulsion/rocket-engine)
+- [推進系の用語の意味一覧](category/propulsion)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [人工衛星の用語の意味一覧](docs/category/satellite)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [ロケットの用語の意味一覧](category/rocket)
+- [人工衛星の用語の意味一覧](category/satellite)
+- [宇宙開発の用語の意味一覧](category/glossary)

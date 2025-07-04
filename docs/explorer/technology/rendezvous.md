@@ -36,16 +36,16 @@ description: 宇宙探査機が目標となる天体の周辺に滞在し長期�
 
 ## 関連用語・トピック
 
-- [フライバイとは？](docs/explorer/technology/flyby)
-- [デルタV・速度増分とは？](docs/orbit/mechanics/delta-v-budget)
-- [はやぶさ2とは？](docs/explorer/mission/hayabusa2)
-- [サンプルリターンとは？](docs/explorer/technology/sample-return)
-- [ホバリングとは？](docs/explorer/technology/hovering)
-- [ロゼッタとは？](docs/explorer/mission/rosetta)
-- [宇宙探査機とは？](docs/explorer/space-probe)
-- [探査の用語の意味一覧](docs/category/explorer)
+- [フライバイとは？](explorer/technology/flyby)
+- [デルタV・速度増分とは？](orbit/mechanics/delta-v-budget)
+- [はやぶさ2とは？](explorer/mission/hayabusa2)
+- [サンプルリターンとは？](explorer/technology/sample-return)
+- [ホバリングとは？](explorer/technology/hovering)
+- [ロゼッタとは？](explorer/mission/rosetta)
+- [宇宙探査機とは？](explorer/space-probe)
+- [探査の用語の意味一覧](category/explorer)
 
 ### 他カテゴリの用語を見てみる
-- [ロケットの用語の意味一覧](docs/category/rocket)
-- [宇宙開発史の用語の意味一覧](docs/category/history)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [ロケットの用語の意味一覧](category/rocket)
+- [宇宙開発史の用語の意味一覧](category/history)
+- [宇宙開発の用語の意味一覧](category/glossary)

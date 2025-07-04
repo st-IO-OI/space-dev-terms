@@ -51,15 +51,15 @@ NASAの「ミッション・エクステンダー」や、民間企業による�
 
 ## 関連用語・トピック
 
-- [商業衛星とは？](docs/satellite/type/commercial-sat)
-- [宇宙ビジネスとは？](docs/business/space-business)
-- [宇宙ごみとは？](docs/satellite/type/space-debris)
-- [人工衛星とは？](docs/satellite/satellite)
-- [宇宙ビジネスの用語の意味一覧](docs/category/business)
+- [商業衛星とは？](satellite/type/commercial-sat)
+- [宇宙ビジネスとは？](business/space-business)
+- [宇宙ごみとは？](satellite/type/space-debris)
+- [人工衛星とは？](satellite/satellite)
+- [宇宙ビジネスの用語の意味一覧](category/business)
 
 ### 他カテゴリの用語を見てみる
 
-- [人工衛星の用語一覧](docs/category/satellite)
-- [宇宙法の関連用語一覧](docs/category/policy)
-- [宇宙開発全般の用語一覧](docs/category/glossary)
+- [人工衛星の用語一覧](category/satellite)
+- [宇宙法の関連用語一覧](category/policy)
+- [宇宙開発全般の用語一覧](category/glossary)
 

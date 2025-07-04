@@ -53,16 +53,16 @@ import Head from '@docusaurus/Head';
 
 ## 関連用語・トピック
 
-- [軌道とは？](docs/orbit/orbit)
-- [宇宙ビジネスとは？](docs/business/space-business)
-- [宇宙資源法とは？](docs/policy/space-resources-law)
-- [はやぶさとは？](docs/explorer/mission/hayabusa)
-- [宇宙探査機とは？](docs/explorer/space-probe)
-- [宇宙ビジネスの用語の意味一覧](docs/category/business)
+- [軌道とは？](orbit/orbit)
+- [宇宙ビジネスとは？](business/space-business)
+- [宇宙資源法とは？](policy/space-resources-law)
+- [はやぶさとは？](explorer/mission/hayabusa)
+- [宇宙探査機とは？](explorer/space-probe)
+- [宇宙ビジネスの用語の意味一覧](category/business)
 
 ### 他カテゴリの用語を見てみる
 
-- [宇宙探査機の用語一覧](docs/category/explorer)
-- [宇宙法の関連用語一覧](docs/category/policy)
-- [宇宙開発全般の用語一覧](docs/category/glossary)
+- [宇宙探査機の用語一覧](category/explorer)
+- [宇宙法の関連用語一覧](category/policy)
+- [宇宙開発全般の用語一覧](category/glossary)
 

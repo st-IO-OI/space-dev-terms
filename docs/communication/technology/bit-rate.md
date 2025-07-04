@@ -33,13 +33,13 @@ description: 通信速度の指標として広く用いられている1秒間に
 
 ## 関連用語・トピック
 
-- [光通信](docs/communication/type/optical-communication)
-- [通信遅延](docs/communication/technology/communication-delay)
-- [周波数帯](docs/communication/technology/frequency-band)
-- [テレメトリ](docs/communication/system/telemetry)
-- [通信の用語の意味一覧](docs/category/communication)
+- [光通信](communication/type/optical-communication)
+- [通信遅延](communication/technology/communication-delay)
+- [周波数帯](communication/technology/frequency-band)
+- [テレメトリ](communication/system/telemetry)
+- [通信の用語の意味一覧](category/communication)
 
 ### 他カテゴリの用語を見てみる
-- [人工衛星の用語の意味一覧](docs/category/satellite)
-- [推進系の用語の意味一覧](docs/category/propulsion)
-- [宇宙開発の用語の意味一覧](docs/category/glossary)
+- [人工衛星の用語の意味一覧](category/satellite)
+- [推進系の用語の意味一覧](category/propulsion)
+- [宇宙開発の用語の意味一覧](category/glossary)
