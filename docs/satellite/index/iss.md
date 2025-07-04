@@ -54,7 +54,7 @@ ISSは、宇宙での国際協力の象徴であり、将来的な月・火星�
 
 - [宇宙ステーションとは？](/docs/satellite/type/space-station)
 - [宇宙飛行士とは？](/docs/glossary/astronaut)  
-- [重力とは？](/docs/glossary/gravity)  
+- [重力とは？](/docs/physics/gravity)  
 - [月探査とは？](/docs/explorer/mission/moon-probe)  
 - [人工衛星とは？](/docs/satellite/satellite)
 - [人工衛星の用語一覧](/docs/category/satellite)

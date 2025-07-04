@@ -58,7 +58,7 @@ import Head from '@docusaurus/Head';
 - [軌道投入とは？](/docs/orbit/operation/orbital-insertion)  
 - [脱出速度とは？](/docs/orbit/mechanics/escape-velocity)   
 - [再突入とは？](/docs/explorer/technology/reentry)   
-- [重力とは？](/docs/glossary/gravity)
+- [重力とは？](/docs/physics/gravity)
 - [軌道とは？](/docs/orbit/orbit)
 - [軌道の用語の意味一覧](/docs/category/orbit)
 

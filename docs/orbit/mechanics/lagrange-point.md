@@ -35,7 +35,7 @@ L4・L5はより安定な位置です・実際に、木星-太陽間のラグラ
 ## 関連用語・トピック
 
 - [軌道とは？](/docs/orbit/orbit)
-- [重力とは？](/docs/glossary/gravity)
+- [重力とは？](/docs/physics/gravity)
 - [宇宙探査機とは？](/docs/explorer/space-probe)
 - [通信とは？](/docs/communication/communication)
 - [自由帰還軌道とは？](/docs/orbit/type/free-return-trajectory)
