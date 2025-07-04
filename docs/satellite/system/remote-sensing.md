@@ -34,7 +34,7 @@ description: 人工衛星の基本構造や共通機能を持つ部分のこと�
 ## 関連用語・トピック
 
 - [低軌道とは？](/docs/orbit/type/low-earth-orbit)
-- [低軌道衛星とは？](/docs/satellite/type/low-orbit-satellite)
+- [低軌道衛星とは？](/docs/satellite/type/low-orbit-sat)
 - [衛星バス・構体とは？](/docs/satellite/system/satellite-bus)
 - [人工衛星とは？](/docs/satellite/satellite)
 - [人工衛星の用語の意味一覧](/docs/category/satellite)

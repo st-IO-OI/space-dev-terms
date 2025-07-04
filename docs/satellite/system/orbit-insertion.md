@@ -38,7 +38,7 @@ description: 宇宙機を望ましい軌道に正確に移動させるための�
 - [推進力とは？](/docs/rocket/propulsion/system/propulsion)
 - [比推力とは？](/docs/rocket/propulsion/system/isp)
 - [ホーマン遷移軌道とは？](/docs/orbit/type/hohmann-transfer-orbit)
-- [人工衛星とは？](/docs/orbit/type/satellite)
+- [人工衛星とは？](/docs/satellite/satellite)
 - [人工衛星の用語の意味一覧](/docs/category/satellite)
 
 ### 他カテゴリの用語を見てみる
