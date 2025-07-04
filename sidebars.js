@@ -53,19 +53,36 @@ const sidebars = {
               'glossary/vacuum',
               'glossary/thermal-control',
               'glossary/radiative-cooling',
-              'glossary/gravity',
-              'glossary/g-force',
-              'glossary/acceleration',
               'glossary/astronaut',
+              'glossary/space-suit',
               'glossary/docking',
+              'glossary/space-astronomy',
               {
                 type: 'category',
                 label: '歴史',
                 items: [
                   'glossary/history/space-history',
                   'glossary/history/hideo-itokawa',
+                  'glossary/history/apollo-11',
+                  'glossary/history/apollo-program',
+                  'glossary/history/outer-space-treaty',
+                  'glossary/history/sputnik',
                 ],
               },
+            ],
+          },
+        // 宇宙環境
+          {
+            type: 'category',
+            label: '宇宙開発一般',
+            link: { type: 'doc', id: 'category/environment' },
+            collapsed: true,
+            items: [
+              'environment/cosmic-rays', 
+              'environment/geomagnetic-field', 
+              'environment/solar-flare', 
+              'environment/solar-wind', 
+              'environment/space-habitation', 
             ],
           },
         // ロケット
@@ -114,6 +131,7 @@ const sidebars = {
                 items: [
                   'rocket/launch/launch',
                   'rocket/launch/launch-failure',
+                  'rocket/launch/launch-pad',
                   'rocket/launch/launch-window',
                   'rocket/launch/launch-capacity',
                 ],
@@ -177,7 +195,11 @@ const sidebars = {
                   'satellite/type/weather-sat',
                   'satellite/type/geostationary-sat',
                   'satellite/type/communication-satellite',
+                  'satellite/type/navigation-satellite',
                   'satellite/type/space-debris',
+                  'satellite/type/commercial-sat',
+                  'satellite/type/low-orbit-sat',
+                  'satellite/type/satellite-constellation',
                 ],
               },
               {
@@ -187,6 +209,9 @@ const sidebars = {
                 items: [
                   'satellite/system/orbit-insertion',
                   'satellite/system/satellite-bus',
+                  'satellite/system/satellite-data',
+                  'satellite/system/solar-array-paddle',
+                  'satellite/system/remote-sensing',
                 ],
               },
               {
@@ -220,6 +245,7 @@ const sidebars = {
                   'explorer/technology/capsule',
                   'explorer/technology/reentry',
                   'explorer/technology/heat-shield',
+                  'explorer/technology/data-recorder',
                   'explorer/technology/hovering',
                   'explorer/technology/lander',
                   'explorer/technology/observation-instrument',
@@ -227,7 +253,17 @@ const sidebars = {
               },
               {
                 type: 'category',
-                label: '実際の宇宙探査機のミッション',
+                label: '宇宙探査機の種類',
+                collapsed: true,
+                items: [
+                  'explorer/type/asteroid-exploration',
+                  'explorer/type/astrobiology-exploration',
+                  'explorer/type/planetary-exploration',
+                ],
+              },
+              {
+                type: 'category',
+                label: '実際のミッション',
                 collapsed: true,
                 items: [
                   'explorer/mission/hayabusa',
@@ -278,6 +314,8 @@ const sidebars = {
                   'orbit/type/geocentric-orbit',
                   'orbit/type/hohmann-transfer-orbit',
                   'orbit/type/low-earth-orbit',
+                  'orbit/type/medium-earth-orbit',
+                  'orbit/type/high-earth-orbit',
                   'orbit/type/parking-orbit',
                   'orbit/type/polar-orbit',
                   'orbit/type/suborbital-flight',
@@ -289,6 +327,7 @@ const sidebars = {
                 label: '軌道の運用',
                 collapsed: true,
                 items: [
+                  'orbit/operation/orbit-calculation',
                   'orbit/operation/nodal-precession',
                   'orbit/operation/orbital-decay',
                   'orbit/operation/orbit-escape',
@@ -305,6 +344,8 @@ const sidebars = {
             link: { type: 'doc', id: 'category/control' },
             collapsed: true,
             items: [
+              'control/mission-design', 
+              'control/system-engineering', 
               {
                 type: 'category',
                 label: '制御技術',
@@ -312,8 +353,25 @@ const sidebars = {
                 items: [
                   'control/technology/attitude-control',
                   'control/technology/rendezvous-docking',
+                  'control/technology/fail-safe',
+                  'control/technology/pid-control',
                 ],
               },
+            ],
+          },
+        // 物理
+          {
+            type: 'category',
+            label: '物理',
+            link: { type: 'doc', id: 'category/physics' },
+            collapsed: true,
+            items: [
+              'physics/gravity',
+              'physics/microgravity',
+              'physics/zero-gravity',
+              'physics/g-force',
+              'physics/acceleration',
+              'physics/gravitational-acceleration',
             ],
           },
         // 通信
@@ -347,6 +405,9 @@ const sidebars = {
                   'communication/system/telemetry',
                   'communication/system/ground-station',
                   'communication/system/dsn',
+                  'communication/system/ttc',
+                  'communication/system/downlink',
+                  'communication/system/uplink',
                 ],
               },
               {
@@ -355,10 +416,72 @@ const sidebars = {
                 collapsed: true,
                 items: [
                   'communication/type/optical-communication',
+                  'communication/type/laser-communication',
                 ],
               },
             ],
           }, 
+        // ビジネス
+          {
+            type: 'category',
+            label: '宇宙ビジネス',
+            link: { type: 'doc', id: 'category/business' },
+            collapsed: true,
+            items: [
+              'business/private-space-utilization', 
+              'business/space-business', 
+              {
+                type: 'category',
+                label: '種類',
+                collapsed: true,
+                items: [
+                  'communication/category/asteroid-mining',
+                  'communication/category/on-orbit-service',
+                  'communication/category/satellite-data-business',
+                  'communication/category/space-entertainment',
+                  'communication/category/space-tourism',
+                ],
+              },
+              {
+                type: 'category',
+                label: '企業',
+                collapsed: true,
+                items: [
+                  'communication/company/spacex',
+                  'communication/company/blue-origin',
+                  'communication/company/virgin-galatic',
+                ],
+              },
+            ],
+          },
+        // 宇宙法
+          {
+            type: 'category',
+            label: '宇宙法',
+            link: { type: 'doc', id: 'category/policy' },
+            collapsed: true,
+            items: [
+              'policy/space-policy', 
+              'policy/space-law', 
+              'policy/space-resources-law', 
+              'policy/commercial-space-law', 
+              'policy/outer-space-treaty', 
+              'policy/moon-agreement', 
+              'policy/international-cooperation', 
+            ],
+          },
+        // 組織
+          {
+            type: 'category',
+            label: '宇宙開発一般',
+            link: { type: 'doc', id: 'category/organization' },
+            collapsed: true,
+            items: [
+              'organization/jaxa',
+              'organization/nasa',
+              'organization/esa',
+            ],
+          },
       ],
     },
     {
