@@ -72,7 +72,7 @@ const sidebars = {
         // 宇宙環境
           {
             type: 'category',
-            label: '宇宙開発一般',
+            label: '宇宙環境',
             link: { type: 'doc', id: 'category/environment' },
             collapsed: true,
             items: [
