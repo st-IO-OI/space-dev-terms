@@ -11,6 +11,7 @@ const config = {
   projectName: 'space-dev-terms',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: true, 
 
   // ✅ 言語設定の修正
   i18n: {
@@ -76,7 +77,6 @@ const config = {
           changefreq: 'weekly',
           priority: 0.5,
           filename: 'sitemap.xml',
-          trailingSlash: true, 
         },
       },
     ],
